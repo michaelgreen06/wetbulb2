@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.20.6",
     "@shadcn/ui": "^0.0.4",
     "@types/google.maps": "^3.58.1",
     "date-fns": "^4.1.0",
