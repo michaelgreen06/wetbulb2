@@ -45,5 +45,8 @@ next-env.d.ts
 
 # json
 geonames_cities.json
+resolved_cities.json
 
 allCountries.txt
+admin1CodesASCII.txt
+paste.txt
