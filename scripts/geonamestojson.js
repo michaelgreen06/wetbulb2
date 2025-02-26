@@ -32,11 +32,14 @@ const headers = [
   'modificationDate'
 ];
 
+const MIN_POPULATION = 1000;
+
 const writeStream = createWriteStream(outputFile);
 writeStream.write('[\n');
 
 let isFirstItem = true;
 let processedCount = 0;
+let skippedCount = 0;
 
 csv({
   delimiter: '\t',
@@ -46,19 +49,14 @@ csv({
   .fromFile(inputFile)
   .subscribe((item) => {
     return new Promise((resolve, reject) => {
-      if (item.featureClass === 'P') {
+      // Only include populated places (P) with population >= 1000
+      if (item.featureClass === 'P' && parseInt(item.population) >= MIN_POPULATION) {
         const filteredItem = {
           name: item.name,
-          alternatenames: item.alternatenames,
           latitude: item.latitude,
           longitude: item.longitude,
           countryCode: item.countryCode,
-          cc2: item.cc2,
-          admin1Code: item.admin1Code,
-          admin2Code: item.admin2Code,
-          admin3Code: item.admin3Code,
-          admin4Code: item.admin4Code,
-          population: item.population
+          admin1Code: item.admin1Code
         };
 
         const jsonString = JSON.stringify(filteredItem, null, 2);
@@ -72,6 +70,11 @@ csv({
         if (processedCount % 1000 === 0) {
           console.log(`Processed ${processedCount} cities...`);
         }
+      } else {
+        skippedCount++;
+        if (skippedCount % 10000 === 0) {
+          console.log(`Skipped ${skippedCount} locations...`);
+        }
       }
       resolve();
     });
@@ -83,7 +86,8 @@ csv({
   () => {
     writeStream.write('\n]');
     writeStream.end();
-    console.log(`Processing complete. Total cities processed: ${processedCount}`);
+    console.log(`\nFinal Statistics:
+    - Total Processed: ${processedCount}
+    - Total Skipped: ${skippedCount}
+    - Success Rate: ${((processedCount / (processedCount + skippedCount)) * 100).toFixed(2)}%`);
   });
-
-

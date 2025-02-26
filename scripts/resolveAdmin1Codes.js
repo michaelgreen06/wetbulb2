@@ -59,6 +59,7 @@ async function processCities() {
 
   let isFirstItem = true;
   let processedCount = 0;
+  let skippedCount = 0;
 
   await new Promise((resolve, reject) => {
     createReadStream(inputFile)
@@ -67,12 +68,25 @@ async function processCities() {
         const countryCode = city.countryCode.toLowerCase();
         const resolvedCity = {
           name: city.name,
-          countryCode: city.countryCode,
           resolvedCountryName: countryCodes.get(countryCode) || null,
           resolvedAdmin1Code: city.admin1Code ? 
             admin1Codes.get(`${countryCode}.${city.admin1Code}`) || null : 
-            null
+            null,
+          latitude: parseFloat(city.latitude) || null,
+          longitude: parseFloat(city.longitude) || null
         };
+
+        // Skip cities with missing required data
+        if (!resolvedCity.resolvedCountryName || 
+            !resolvedCity.resolvedAdmin1Code || 
+            resolvedCity.latitude === null || 
+            resolvedCity.longitude === null) {
+          skippedCount++;
+          if (skippedCount % 10000 === 0) {
+            console.log(`Skipped ${skippedCount} cities...`);
+          }
+          return;
+        }
 
         if (!isFirstItem) {
           writeStream.write(',\n');
@@ -86,12 +100,18 @@ async function processCities() {
         }
       })
       .on('error', reject)
-      .on('end', resolve);
+      .on('end', () => {
+        console.log(`\nFinal Statistics:
+        - Total Processed: ${processedCount}
+        - Total Skipped: ${skippedCount}
+        - Success Rate: ${((processedCount / (processedCount + skippedCount)) * 100).toFixed(2)}%`);
+        resolve();
+      });
   });
 
   writeStream.write('\n]');
   writeStream.end();
-  console.log(`Processing complete. Total cities processed: ${processedCount}`);
+  console.log('Processing complete. File saved to:', outputFile);
 }
 
 // Start processing
