@@ -3,6 +3,8 @@ import { useRouter } from 'next/router';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import fs from 'fs';
 import path from 'path';
+import { fetchWeatherData, WeatherData } from '../../lib/api/weather';
+import { calculateWetBulb } from '../../lib/utils/wetbulb';
 
 interface LocationData {
   name: string;
@@ -11,10 +13,10 @@ interface LocationData {
   latitude: number;
   longitude: number;
   // Weather data
-  wetBulbTemp?: number;
-  temperature?: number;
-  humidity?: number;
-  timestamp?: string;
+  wetBulb: number;
+  temperature: number;
+  humidity: number;
+  timestamp: number;
 }
 
 interface LocationPageProps {
@@ -44,7 +46,7 @@ export default function LocationPage({ locationData }: LocationPageProps) {
     name,
     resolvedCountryName,
     resolvedAdmin1Code,
-    wetBulbTemp,
+    wetBulb,
     temperature,
     humidity,
     timestamp
@@ -56,7 +58,7 @@ export default function LocationPage({ locationData }: LocationPageProps) {
   const countrySlug = toSlug(resolvedCountryName);
 
   const pageTitle = `Wet Bulb Temperature in ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}`;
-  const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}. Updated ${timestamp ? new Date(timestamp).toLocaleString() : 'regularly'}.`;
+  const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}. Updated ${new Date(timestamp).toLocaleString()}.`;
 
   // Create breadcrumb structure
   const breadcrumbData = {
@@ -72,20 +74,20 @@ export default function LocationPage({ locationData }: LocationPageProps) {
       {
         "@type": "ListItem",
         "position": 2,
-        "name": resolvedCountryName,
-        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}`
+        "name": name,
+        "item": `${baseUrl}/wetbulb-temperature/${citySlug}`
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": resolvedAdmin1Code,
-        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}`
+        "item": `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}`
       },
       {
         "@type": "ListItem",
         "position": 4,
-        "name": name,
-        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}`
+        "name": resolvedCountryName,
+        "item": `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`
       }
     ]
   };
@@ -98,7 +100,7 @@ export default function LocationPage({ locationData }: LocationPageProps) {
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}`} />
+        <meta property="og:url" content={`${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -110,8 +112,8 @@ export default function LocationPage({ locationData }: LocationPageProps) {
       <main>
         <h1>{pageTitle}</h1>
         <div>
-          {wetBulbTemp !== undefined && (
-            <p>Wet Bulb Temperature: {wetBulbTemp.toFixed(1)}°C</p>
+          {wetBulb !== undefined && (
+            <p>Wet Bulb Temperature: {wetBulb.toFixed(1)}°C</p>
           )}
           {temperature !== undefined && (
             <p>Temperature: {temperature.toFixed(1)}°C</p>
@@ -170,14 +172,18 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       return { notFound: true };
     }
 
-    // TODO: Fetch weather data and calculate wet bulb temperature
-    // For now, using dummy data
+    // Fetch weather data using our existing API
+    const weatherData = await fetchWeatherData(city.latitude, city.longitude);
+
+    // Calculate wet bulb temperature
+    const wetBulb = calculateWetBulb(weatherData.weather.temperature, weatherData.weather.humidity);
+
     const locationData = {
       ...city,
-      wetBulbTemp: 25.5,
-      temperature: 30,
-      humidity: 65,
-      timestamp: new Date().toISOString()
+      wetBulb,
+      temperature: weatherData.weather.temperature,
+      humidity: weatherData.weather.humidity,
+      timestamp: weatherData.weather.timestamp
     };
 
     return {
