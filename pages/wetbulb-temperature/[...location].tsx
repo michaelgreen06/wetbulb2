@@ -141,9 +141,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       return { notFound: true };
     }
 
-    const [countrySlug, stateSlug, citySlug] = params.location;
+    const [citySlug, stateSlug, countrySlug] = params.location;
 
-    if (!countrySlug || !stateSlug || !citySlug) {
+    if (!citySlug || !stateSlug || !countrySlug) {
       return { notFound: true };
     }
 
@@ -166,6 +166,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     });
 
     if (!city) {
+      console.log('No matching city found for:', { citySlug, stateSlug, countrySlug });
       return { notFound: true };
     }
 
