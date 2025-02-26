@@ -1,18 +1,15 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 import { GetStaticProps, GetStaticPaths } from 'next';
+import fs from 'fs';
+import path from 'path';
 
 interface LocationData {
-  id: string;
   name: string;
-  countryCode: string;
   resolvedCountryName: string;
-  admin1Code: string;
-  resolvedAdmin1Name: string;
+  resolvedAdmin1Code: string;
   latitude: number;
   longitude: number;
-  population: number;
-  timezone: string;
   // Weather data
   wetBulbTemp?: number;
   temperature?: number;
@@ -46,7 +43,7 @@ export default function LocationPage({ locationData }: LocationPageProps) {
   const {
     name,
     resolvedCountryName,
-    resolvedAdmin1Name,
+    resolvedAdmin1Code,
     wetBulbTemp,
     temperature,
     humidity,
@@ -55,11 +52,11 @@ export default function LocationPage({ locationData }: LocationPageProps) {
 
   // Create URL-safe versions of location parts using full names
   const citySlug = toSlug(name);
-  const stateSlug = toSlug(resolvedAdmin1Name);
+  const stateSlug = toSlug(resolvedAdmin1Code);
   const countrySlug = toSlug(resolvedCountryName);
 
-  const pageTitle = `Wet Bulb Temperature in ${name}, ${resolvedAdmin1Name}, ${resolvedCountryName}`;
-  const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Name}, ${resolvedCountryName}. Updated ${timestamp ? new Date(timestamp).toLocaleString() : 'regularly'}.`;
+  const pageTitle = `Wet Bulb Temperature in ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}`;
+  const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}. Updated ${timestamp ? new Date(timestamp).toLocaleString() : 'regularly'}.`;
 
   // Create breadcrumb structure
   const breadcrumbData = {
@@ -81,7 +78,7 @@ export default function LocationPage({ locationData }: LocationPageProps) {
       {
         "@type": "ListItem",
         "position": 3,
-        "name": resolvedAdmin1Name,
+        "name": resolvedAdmin1Code,
         "item": `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}`
       },
       {
@@ -132,8 +129,6 @@ export default function LocationPage({ locationData }: LocationPageProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  // For now, don't prerender any paths
-  // They will be generated on demand
   return {
     paths: [],
     fallback: true
@@ -142,25 +137,42 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   try {
-    if (!params?.location || !Array.isArray(params.location) || params.location.length !== 3) {
+    if (!params?.location || !Array.isArray(params.location)) {
       return { notFound: true };
     }
 
-    const [citySlug, stateSlug, countrySlug] = params.location;
+    const [countrySlug, stateSlug, citySlug] = params.location;
 
-    // TODO: Implement actual data fetching from resolved_cities.json
-    // For now using dummy data
-    const locationData: LocationData = {
-      id: "1234567",
-      name: "Sample City",
-      countryCode: "US",
-      resolvedCountryName: "United States",
-      admin1Code: "CA",
-      resolvedAdmin1Name: "California",
-      latitude: 37.7749,
-      longitude: -122.4194,
-      population: 884363,
-      timezone: "America/Los_Angeles",
+    if (!countrySlug || !stateSlug || !citySlug) {
+      return { notFound: true };
+    }
+
+    // Read and parse the cities data
+    const citiesPath = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
+    
+    if (!fs.existsSync(citiesPath)) {
+      console.error('Cities data file not found:', citiesPath);
+      return { notFound: true };
+    }
+
+    const citiesData = JSON.parse(fs.readFileSync(citiesPath, 'utf-8'));
+
+    // Find the matching city
+    const city = citiesData.find((city: LocationData) => {
+      const matchCity = toSlug(city.name) === citySlug;
+      const matchState = toSlug(city.resolvedAdmin1Code) === stateSlug;
+      const matchCountry = toSlug(city.resolvedCountryName) === countrySlug;
+      return matchCity && matchState && matchCountry;
+    });
+
+    if (!city) {
+      return { notFound: true };
+    }
+
+    // TODO: Fetch weather data and calculate wet bulb temperature
+    // For now, using dummy data
+    const locationData = {
+      ...city,
       wetBulbTemp: 25.5,
       temperature: 30,
       humidity: 65,
