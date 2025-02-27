@@ -1,15 +1,14 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
-  // Generate robots.txt content
-  const robotsTxt = `User-agent: *
+  res.setHeader('Content-Type', 'text/plain');
+  
+  const content = `User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: ${process.env.NEXT_PUBLIC_SITE_URL}/api/sitemap.xml`;
+Sitemap: ${process.env.NEXT_PUBLIC_SITE_URL}/api/sitemap-index.xml`;
 
-  // Set the content header and send response
-  res.setHeader('Content-Type', 'text/plain');
-  res.write(robotsTxt);
+  res.write(content);
   res.end();
 }
