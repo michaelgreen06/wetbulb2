@@ -7,7 +7,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
 Allow: /
 
 # Sitemaps
-Sitemap: ${process.env.NEXT_PUBLIC_SITE_URL}/api/sitemap-index.xml`;
+Sitemap: ${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-index.xml`;
 
   res.write(content);
   res.end();
