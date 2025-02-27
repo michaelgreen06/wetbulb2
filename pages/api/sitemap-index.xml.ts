@@ -3,12 +3,15 @@ import { NextApiRequest, NextApiResponse } from 'next';
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   res.setHeader('Content-Type', 'application/xml; charset=utf-8');
 
+  // Always use www subdomain since the site redirects there
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace('https://wetbulb35.com', 'https://www.wetbulb35.com') || 'https://www.wetbulb35.com';
+
   const sitemaps = [
-    `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-main.xml`,
-    `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-locations-1.xml`,
-    `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-locations-2.xml`,
-    `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-locations-3.xml`,
-    `${process.env.NEXT_PUBLIC_SITE_URL}/sitemap-locations-4.xml`,
+    `${baseUrl}/sitemap-main.xml`,
+    `${baseUrl}/sitemap-locations-1.xml`,
+    `${baseUrl}/sitemap-locations-2.xml`,
+    `${baseUrl}/sitemap-locations-3.xml`,
+    `${baseUrl}/sitemap-locations-4.xml`,
   ];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
