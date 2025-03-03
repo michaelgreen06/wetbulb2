@@ -13,12 +13,12 @@ export function toSlug(str: string): string {
   return str.toLowerCase().replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 }
 
-const CITIES_PER_FILE = 33000;
+const CITIES_PER_FILE = 10000;
 
 export async function generateLocationSitemap(
   res: NextApiResponse,
   partNumber: number,
-  totalParts: number = 4
+  totalParts: number = 14
 ) {
   res.setHeader('Content-Type', 'application/xml; charset=utf-8');
   

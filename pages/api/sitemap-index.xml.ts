@@ -6,12 +6,12 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
   // Always use www subdomain since the site redirects there
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace('https://wetbulb35.com', 'https://www.wetbulb35.com') || 'https://www.wetbulb35.com';
 
+  // Generate array of location sitemap URLs (1-14)
+  const locationSitemaps = Array.from({ length: 14 }, (_, i) => `${baseUrl}/sitemap-locations-${i + 1}.xml`);
+
   const sitemaps = [
     `${baseUrl}/sitemap-main.xml`,
-    `${baseUrl}/sitemap-locations-1.xml`,
-    `${baseUrl}/sitemap-locations-2.xml`,
-    `${baseUrl}/sitemap-locations-3.xml`,
-    `${baseUrl}/sitemap-locations-4.xml`,
+    ...locationSitemaps
   ];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
