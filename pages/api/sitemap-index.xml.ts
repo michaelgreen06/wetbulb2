@@ -3,8 +3,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   res.setHeader('Content-Type', 'application/xml; charset=utf-8');
 
-  // Always use www subdomain since the site redirects there
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace('https://wetbulb35.com', 'https://www.wetbulb35.com') || 'https://www.wetbulb35.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
 
   // Generate array of location sitemap URLs (1-14)
   const locationSitemaps = Array.from({ length: 14 }, (_, i) => `${baseUrl}/sitemap-locations-${i + 1}.xml`);

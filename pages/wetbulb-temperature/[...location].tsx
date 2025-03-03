@@ -35,7 +35,7 @@ function toSlug(str: string): string {
 
 export default function LocationPage({ locationData }: LocationPageProps) {
   const router = useRouter();
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
   
   // Show loading state while page is being generated
   if (router.isFallback) {

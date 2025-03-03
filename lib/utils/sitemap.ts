@@ -31,8 +31,7 @@ export async function generateLocationSitemap(
     const startIndex = (partNumber - 1) * CITIES_PER_FILE;
     const endIndex = partNumber * CITIES_PER_FILE;
 
-    // Always use www subdomain since the site redirects there
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace('https://wetbulb35.com', 'https://www.wetbulb35.com') || 'https://www.wetbulb35.com';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
     
     res.write('<?xml version="1.0" encoding="UTF-8"?>\n');
     res.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n');
