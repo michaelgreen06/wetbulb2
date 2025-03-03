@@ -30,7 +30,8 @@ function toSlug(str: string): string {
     .replace(/[^\w\s-]/g, '') // Remove non-word chars
     .replace(/\s+/g, '-')     // Replace spaces with -
     .replace(/-+/g, '-')      // Replace multiple - with single -
-    .trim();                  // Trim - from start and end
+    .replace(/^-|-$/g, '')    // Remove leading/trailing hyphens
+    .toLowerCase();           // Ensure result is lowercase
 }
 
 export default function LocationPage({ locationData }: LocationPageProps) {
@@ -161,9 +162,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
     // Find the matching city
     const city = citiesData.find((city: LocationData) => {
-      const matchCity = toSlug(city.name) === citySlug;
-      const matchState = toSlug(city.resolvedAdmin1Code) === stateSlug;
-      const matchCountry = toSlug(city.resolvedCountryName) === countrySlug;
+      const matchCity = toSlug(city.name).toLowerCase() === citySlug.toLowerCase();
+      const matchState = toSlug(city.resolvedAdmin1Code).toLowerCase() === stateSlug.toLowerCase();
+      const matchCountry = toSlug(city.resolvedCountryName).toLowerCase() === countrySlug.toLowerCase();
       return matchCity && matchState && matchCountry;
     });
 
