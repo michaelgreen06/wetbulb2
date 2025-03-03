@@ -5,6 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import { fetchWeatherData, WeatherData } from '../../lib/api/weather';
 import { calculateWetBulb } from '../../lib/utils/wetbulb';
+import WeatherDisplay from '../../components/WeatherDisplay';
 
 interface LocationData {
   name: string;
@@ -21,6 +22,7 @@ interface LocationData {
 
 interface LocationPageProps {
   locationData: LocationData;
+  weatherData: WeatherData;
 }
 
 // Helper function to create URL-safe slugs
@@ -34,7 +36,7 @@ function toSlug(str: string): string {
     .toLowerCase();           // Ensure result is lowercase
 }
 
-export default function LocationPage({ locationData }: LocationPageProps) {
+export default function LocationPage({ locationData, weatherData }: LocationPageProps) {
   const router = useRouter();
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
   
@@ -110,22 +112,9 @@ export default function LocationPage({ locationData }: LocationPageProps) {
         />
       </Head>
 
-      <main>
-        <h1>{pageTitle}</h1>
-        <div>
-          {wetBulb !== undefined && (
-            <p>Wet Bulb Temperature: {wetBulb.toFixed(1)}°C</p>
-          )}
-          {temperature !== undefined && (
-            <p>Temperature: {temperature.toFixed(1)}°C</p>
-          )}
-          {humidity !== undefined && (
-            <p>Humidity: {humidity}%</p>
-          )}
-          {timestamp && (
-            <p>Last updated: {new Date(timestamp).toLocaleString()}</p>
-          )}
-        </div>
+      <main className="container mx-auto px-4 py-8">
+        <h1 className="text-3xl font-bold text-center mb-8">{pageTitle}</h1>
+        <WeatherDisplay data={weatherData} />
       </main>
     </>
   );
@@ -187,9 +176,24 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       timestamp: weatherData.weather.timestamp
     };
 
+    // Format the weather data to match the WeatherDisplay component's expected format
+    const formattedWeatherData: WeatherData = {
+      location: {
+        name: `${city.name}, ${city.resolvedAdmin1Code}, ${city.resolvedCountryName}`,
+        lat: city.latitude,
+        lng: city.longitude
+      },
+      weather: {
+        temperature: weatherData.weather.temperature,
+        humidity: weatherData.weather.humidity,
+        timestamp: weatherData.weather.timestamp
+      }
+    };
+
     return {
       props: {
-        locationData
+        locationData,
+        weatherData: formattedWeatherData
       },
       revalidate: 90 // Revalidate every 90 seconds
     };
