@@ -5,6 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import { fetchWeatherData, WeatherData } from '../../lib/api/weather';
 import { calculateWetBulb } from '../../lib/utils/wetbulb';
+import { toSlug } from '../../lib/utils/string';
 import WeatherDisplay from '../../components/WeatherDisplay';
 
 interface LocationData {
@@ -23,17 +24,6 @@ interface LocationData {
 interface LocationPageProps {
   locationData: LocationData;
   weatherData: WeatherData;
-}
-
-// Helper function to create URL-safe slugs
-function toSlug(str: string): string {
-  if (!str) return '';
-  return str.toLowerCase()
-    .replace(/[^\w\s-]/g, '') // Remove non-word chars
-    .replace(/\s+/g, '-')     // Replace spaces with -
-    .replace(/-+/g, '-')      // Replace multiple - with single -
-    .replace(/^-|-$/g, '')    // Remove leading/trailing hyphens
-    .toLowerCase();           // Ensure result is lowercase
 }
 
 export default function LocationPage({ locationData, weatherData }: LocationPageProps) {
@@ -184,6 +174,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
         lng: city.longitude
       },
       weather: {
+        wetBulb: weatherData.weather.wetBulb,
         temperature: weatherData.weather.temperature,
         humidity: weatherData.weather.humidity,
         timestamp: weatherData.weather.timestamp

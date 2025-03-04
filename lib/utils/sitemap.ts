@@ -2,15 +2,12 @@ import { NextApiResponse } from 'next';
 import path from 'path';
 import { createReadStream } from 'fs';
 import JSONStream from 'JSONStream';
+import { toSlug } from './string';
 
 export interface CityData {
   name: string;
   resolvedAdmin1Code: string;
   resolvedCountryName: string;
-}
-
-export function toSlug(str: string): string {
-  return str.toLowerCase().replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 }
 
 const CITIES_PER_FILE = 10000;
