@@ -43,7 +43,7 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
     name,
     resolvedCountryName,
     resolvedAdmin1Code,
-    wetBulb,
+    wetBulb: wetBulbTemperature,
     temperature,
     humidity,
     timestamp,
@@ -112,7 +112,7 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
     // Custom extension for wetbulb temperature
     "wetBulbTemperature": {
       "@type": "QuantitativeValue",
-      "value": wetBulb,
+      "value": wetBulbTemperature,
       "unitCode": "CEL" // Celsius
     },
     // Location information
