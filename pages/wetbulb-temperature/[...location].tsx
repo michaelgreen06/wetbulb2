@@ -46,7 +46,9 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
     wetBulb,
     temperature,
     humidity,
-    timestamp
+    timestamp,
+    latitude,
+    longitude
   } = locationData;
 
   // Create URL-safe versions of location parts using full names
@@ -89,6 +91,42 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
     ]
   };
 
+  // Weather report structured data
+  const weatherReportData = {
+    "@context": "https://schema.org",
+    "@type": "WeatherReport",
+    "dateIssued": new Date(timestamp).toISOString(),
+    "validFrom": new Date(timestamp).toISOString(),
+    // Set validity to a more realistic window for weather data
+    "validUntil": new Date(timestamp + 3600000).toISOString(), // Valid for 1 hour
+    "temperature": {
+      "@type": "QuantitativeValue",
+      "value": temperature,
+      "unitCode": "CEL" // Celsius
+    },
+    "humidity": {
+      "@type": "QuantitativeValue",
+      "value": humidity,
+      "unitCode": "P1" // Percentage
+    },
+    // Custom extension for wetbulb temperature
+    "wetBulbTemperature": {
+      "@type": "QuantitativeValue",
+      "value": wetBulb,
+      "unitCode": "CEL" // Celsius
+    },
+    // Location information
+    "contentLocation": {
+      "@type": "Place",
+      "name": `${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}`,
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": latitude,
+        "longitude": longitude
+      }
+    }
+  };
+
   const handleLocationSelect = (lat: number, lng: number) => {
     // Navigate to the new location page when a location is selected
     // This would require additional logic to find the location name from coordinates
@@ -114,6 +152,12 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(breadcrumbData)
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(weatherReportData)
           }}
         />
       </Head>
