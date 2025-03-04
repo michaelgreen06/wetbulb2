@@ -22,6 +22,7 @@ export default function Home() {
       const data = await fetchWeatherData(lat, lng);
       setWeatherData(data);
     } catch (err) {
+      console.error('Weather fetch error:', err);
       setError(err instanceof Error ? err.message : 'Failed to fetch weather data');
     } finally {
       setLoading(false);
@@ -39,6 +40,7 @@ export default function Home() {
       const position = await getCurrentPosition();
       await fetchWeather(position.coords.latitude, position.coords.longitude);
     } catch (err) {
+      console.error('Geolocation error:', err);
       setError(err instanceof Error ? err.message : 'Failed to get current location');
       setLoading(false);
     }
