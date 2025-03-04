@@ -109,6 +109,7 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
         <meta property="og:description" content={pageDescription} />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={`${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`} />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
