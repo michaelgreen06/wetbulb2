@@ -7,6 +7,10 @@ import { fetchWeatherData, WeatherData } from '../../lib/api/weather';
 import { calculateWetBulb } from '../../lib/utils/wetbulb';
 import { toSlug } from '../../lib/utils/string';
 import WeatherDisplay from '../../components/WeatherDisplay';
+import Header from '../../components/Header';
+import SearchBox from '../../components/SearchBox';
+import CurrentLocationButton from '../../components/CurrentLocationButton';
+import Disclaimer from '../../components/Disclaimer';
 
 interface LocationData {
   name: string;
@@ -85,6 +89,17 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
     ]
   };
 
+  const handleLocationSelect = (lat: number, lng: number) => {
+    // Navigate to the new location page when a location is selected
+    // This would require additional logic to find the location name from coordinates
+    console.log('Location selected:', lat, lng);
+  };
+
+  const handleCurrentLocation = () => {
+    // Navigate to the home page which will use current location
+    router.push('/');
+  };
+
   return (
     <>
       <Head>
@@ -102,9 +117,18 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
         />
       </Head>
 
-      <div className="container mx-auto">
-        <h1 className="text-3xl font-bold text-center mb-8">{pageTitle}</h1>
-        <WeatherDisplay data={weatherData} />
+      <div className="max-w-4xl mx-auto space-y-8">
+        <Header />
+        
+        <div className="space-y-6">
+          <SearchBox onLocationSelect={handleLocationSelect} />
+          
+          <CurrentLocationButton onClick={handleCurrentLocation} />
+          
+          <WeatherDisplay data={weatherData} />
+          
+          <Disclaimer />
+        </div>
       </div>
     </>
   );
