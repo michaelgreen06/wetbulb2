@@ -135,9 +135,8 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
   };
 
   const handleLocationSelect = (lat: number, lng: number) => {
-    // Navigate to the new location page when a location is selected
-    // This would require additional logic to find the location name from coordinates
-    console.log('Location selected:', lat, lng);
+    // Navigate to the home page with the selected coordinates
+    router.push(`/?lat=${lat}&lng=${lng}`);
   };
 
   const handleCurrentLocation = () => {
