@@ -1,7 +1,7 @@
 'use client';
 
 import { format } from 'date-fns';
-import { WeatherData } from '../lib/api/weather';
+import { WeatherData } from '../lib/utils/weather';
 import { calculateWetBulb } from '../lib/utils/wetbulb';
 
 interface WeatherDisplayProps {

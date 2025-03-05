@@ -8,7 +8,7 @@ import ErrorDisplay from '../components/ErrorDisplay';
 import Header from '../components/Header';
 import CurrentLocationButton from '../components/CurrentLocationButton';
 import Disclaimer from '../components/Disclaimer';
-import { WeatherData, fetchWeatherData, getCurrentPosition } from '../lib/api/weather';
+import { WeatherData, fetchWeatherData, getCurrentPosition } from '../lib/utils/weather';
 
 export default function Home() {
   const [weatherData, setWeatherData] = useState<WeatherData | null>(null);

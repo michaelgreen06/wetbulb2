@@ -1,4 +1,4 @@
-import { kelvinToCelsius } from '../utils/wetbulb';
+import { kelvinToCelsius } from './wetbulb';
 
 export interface WeatherData {
   location: {

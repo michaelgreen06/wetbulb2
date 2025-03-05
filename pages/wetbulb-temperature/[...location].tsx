@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import fs from 'fs';
 import path from 'path';
-import { fetchWeatherData, WeatherData } from '../../lib/api/weather';
+import { fetchWeatherData, WeatherData } from '../../lib/utils/weather';
 import { calculateWetBulb } from '../../lib/utils/wetbulb';
 import { toSlug } from '../../lib/utils/string';
 import WeatherDisplay from '../../components/WeatherDisplay';
