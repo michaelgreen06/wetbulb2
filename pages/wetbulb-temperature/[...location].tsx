@@ -58,6 +58,12 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
 
   const pageTitle = `Wet Bulb Temperature in ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}`;
   const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}. Updated ${new Date(timestamp).toLocaleString()}.`;
+  
+  // Create a canonical URL
+  const canonicalUrl = `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`;
+  
+  // Use a default image for social sharing
+  const imageUrl = `${baseUrl}/images/wetbulb-default.jpg`;
 
   // Create breadcrumb structure
   const breadcrumbData = {
@@ -143,10 +149,31 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
       <Head>
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
+        
+        {/* Viewport meta tag for responsive design */}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        {/* Robots meta tag */}
+        <meta name="robots" content="index, follow" />
+        
+        {/* Canonical URL */}
+        <link rel="canonical" href={canonicalUrl} />
+        
+        {/* Open Graph tags for social sharing */}
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:image" content={imageUrl} />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:site_name" content="Wetbulb Temperature" />
+        
+        {/* Twitter Card tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={pageTitle} />
+        <meta name="twitter:description" content={pageDescription} />
+        <meta name="twitter:image" content={imageUrl} />
+        
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <script
           type="application/ld+json"
