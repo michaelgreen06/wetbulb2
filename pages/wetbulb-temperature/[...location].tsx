@@ -11,6 +11,7 @@ import Header from '../../components/Header';
 import SearchBox from '../../components/SearchBox';
 import CurrentLocationButton from '../../components/CurrentLocationButton';
 import Disclaimer from '../../components/Disclaimer';
+import Footer from '../../components/Footer';
 
 interface LocationData {
   name: string;
@@ -195,13 +196,17 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
         <div className="space-y-6">
           <SearchBox onLocationSelect={handleLocationSelect} />
           
-          <CurrentLocationButton onClick={handleCurrentLocation} />
+          <div className="mt-8">
+            <CurrentLocationButton onClick={handleCurrentLocation} />
+          </div>
           
           <WeatherDisplay data={weatherData} />
           
           <Disclaimer />
         </div>
       </div>
+      
+      <Footer />
     </>
   );
 }
