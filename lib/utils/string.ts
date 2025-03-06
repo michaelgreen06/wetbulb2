@@ -1,11 +1,11 @@
 /**
  * Utility functions for string manipulation
  */
+import slugify from 'slugify';
 
 /**
  * Converts a string to a URL-safe slug
- * - Normalizes Unicode characters
- * - Removes diacritics/accents
+ * - Uses the slugify library to properly handle all UTF-8 characters
  * - Replaces spaces with hyphens
  * - Removes special characters
  * - Ensures lowercase output
@@ -15,12 +15,11 @@
  */
 export function toSlug(str: string): string {
   if (!str) return '';
-  return str.toLowerCase()
-    .normalize('NFD')                 // Normalize to decomposed form
-    .replace(/[\u0300-\u036f]/g, '') // Remove diacritics/accents
-    .replace(/[^\w\s-]/g, '')        // Remove remaining non-word chars
-    .replace(/\s+/g, '-')            // Replace spaces with -
-    .replace(/-+/g, '-')             // Replace multiple - with single -
-    .replace(/^-|-$/g, '')           // Remove leading/trailing hyphens
-    .toLowerCase();                   // Ensure result is lowercase
+  
+  return slugify(str, {
+    lower: true,       // Convert to lowercase
+    strict: true,      // Strip special characters
+    locale: 'en',      // Language for transliteration rules
+    trim: true         // Trim leading/trailing whitespace
+  });
 }
