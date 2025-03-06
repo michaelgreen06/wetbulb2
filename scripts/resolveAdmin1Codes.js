@@ -35,10 +35,11 @@ async function loadAdmin1Codes() {
 // Read and parse country codes
 async function loadCountryCodes() {
   const countryCodes = new Map();
-  const countries = await csv().fromFile(countryCodesFile);
+  const countryList = await csv().fromFile(countryCodesFile);
   
-  for (const country of countries) {
-    countryCodes.set(country.Code.toLowerCase(), country.Name);
+  for (const country of countryList) {
+    const code = country.Code.toLowerCase();
+    countryCodes.set(code, country.Name);
   }
 
   return countryCodes;
@@ -47,6 +48,7 @@ async function loadCountryCodes() {
 // Process cities using JSONStream
 async function processCities() {
   console.log('Loading admin1 codes and country codes...');
+  
   const [admin1Codes, countryCodes] = await Promise.all([
     loadAdmin1Codes(),
     loadCountryCodes()
@@ -66,9 +68,84 @@ async function processCities() {
       .pipe(parser)
       .on('data', (city) => {
         const countryCode = city.countryCode.toLowerCase();
+        
+        // Get the raw country name from the CSV file
+        let rawCountryName = countryCodes.get(countryCode) || null;
+        
+        // Apply normalization to the country name
+        let countryName = null;
+        
+        if (rawCountryName) {
+          // Direct mapping for problematic country names
+          const countryNameMap = {
+            // Map from the raw CSV name to the normalized name
+            'Macedonia, the Former Yugoslav Republic of': 'North Macedonia',
+            'Iran, Islamic Republic of': 'Iran',
+            'Korea, Democratic People\'s Republic of': 'North Korea',
+            'Korea, Republic of': 'South Korea',
+            'Viet Nam': 'Vietnam',
+            'Taiwan, Province of China': 'Taiwan',
+            'Holy See (Vatican City State)': 'Vatican City',
+            'Russian Federation': 'Russia',
+            'Bolivia, Plurinational State of': 'Bolivia',
+            'Venezuela, Bolivarian Republic of': 'Venezuela',
+            'Congo, the Democratic Republic of the': 'DR Congo',
+            'Congo': 'Republic of Congo',
+            'Lao People\'s Democratic Republic': 'Laos',
+            'Micronesia, Federated States of': 'Micronesia',
+            'Moldova, Republic of': 'Moldova',
+            'Palestine, State of': 'Palestine',
+            'Saint Vincent and the Grenadines': 'St Vincent and Grenadines',
+            'Brunei Darussalam': 'Brunei',
+            'Syrian Arab Republic': 'Syria',
+            'Tanzania, United Republic of': 'Tanzania',
+            'Virgin Islands, British': 'British Virgin Islands',
+            'Virgin Islands, U.S.': 'US Virgin Islands',
+            'Timor-Leste': 'East Timor',
+            'Côte d\'Ivoire': 'Ivory Coast',
+            'Falkland Islands (Malvinas)': 'Falkland Islands',
+            'Saint Kitts and Nevis': 'St Kitts and Nevis',
+            'Bosnia and Herzegovina': 'Bosnia',
+            'Czech Republic': 'Czechia',
+            'Bonaire, Sint Eustatius and Saba': 'Caribbean Netherlands',
+            'Cocos (Keeling) Islands': 'Cocos Islands',
+            'Eswatini': 'Swaziland',
+            'Heard Island and McDonald Islands': 'Heard and McDonald Islands',
+            'Saint Helena, Ascension and Tristan da Cunha': 'Saint Helena',
+            'Saint Pierre and Miquelon': 'St Pierre and Miquelon',
+            'Saint Lucia': 'St Lucia',
+            'Saint Martin (French part)': 'St Martin',
+            'Saint Barthélemy': 'St Barthelemy',
+            'Svalbard and Jan Mayen': 'Svalbard',
+            'Turks and Caicos Islands': 'Turks and Caicos',
+            'Wallis and Futuna': 'Wallis and Futuna Islands',
+            'United States Minor Outlying Islands': 'US Minor Outlying Islands',
+            'South Georgia and the South Sandwich Islands': 'South Georgia',
+            'Sao Tome and Principe': 'Sao Tome',
+            'Réunion': 'Reunion',
+            'Western Sahara': 'Western Sahara',
+            'Sint Maarten (Dutch part)': 'Sint Maarten'
+          };
+          
+          // Check if we have a direct mapping for this country name
+          if (countryNameMap[rawCountryName]) {
+            countryName = countryNameMap[rawCountryName];
+          } else {
+            // Apply general cleanup rules
+            countryName = rawCountryName
+              .replace(/^the /i, '')
+              .replace(/ of$/, '')
+              .replace(/,.*$/, '')
+              .replace(/ \(.*\)$/, '')
+              .replace(/^.*\s+of\s+/, '')
+              .replace(/^.*\s+and\s+/, '')
+              .trim();
+          }
+        }
+        
         const resolvedCity = {
           name: city.name,
-          resolvedCountryName: countryCodes.get(countryCode) || null,
+          resolvedCountryName: countryName,
           resolvedAdmin1Code: city.admin1Code ? 
             admin1Codes.get(`${countryCode}.${city.admin1Code}`) || null : 
             null,
