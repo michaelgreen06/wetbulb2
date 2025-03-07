@@ -10,8 +10,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     
     // Start with the main sitemap and category sitemap
     const sitemaps = [
-      `${baseUrl}/api/sitemap-main.xml`,
-      `${baseUrl}/api/sitemap-categories.xml`
+      `${baseUrl}/sitemap-main.xml`,
+      `${baseUrl}/sitemap-categories.xml`
     ];
 
     // Add country sitemaps
@@ -22,11 +22,11 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       // If there are multiple parts for a country, add each part
       if (partsCount > 1) {
         for (let i = 1; i <= partsCount; i++) {
-          sitemaps.push(`${baseUrl}/api/sitemap-country-${countrySlug}-${i}.xml`);
+          sitemaps.push(`${baseUrl}/sitemap-country-${countrySlug}-${i}.xml`);
         }
       } else {
         // Otherwise just add the single country sitemap
-        sitemaps.push(`${baseUrl}/api/sitemap-country-${countrySlug}.xml`);
+        sitemaps.push(`${baseUrl}/sitemap-country-${countrySlug}.xml`);
       }
     }
 
