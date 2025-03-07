@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapuna%2Fpiarco/tunapuna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapunapiarco/tunapuna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,12 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penal%2Fdebe/pe%C3%B1al</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penaldebe/penal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapuna%2Fpiarco/paradise</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapunapiarco/paradise</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -86,7 +86,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/san-juan%2Flaventille/laventille</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/san-juanlaventille/laventille</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -101,7 +101,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penal%2Fdebe/debe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penaldebe/debe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,7 +126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapuna%2Fpiarco/arouca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapunapiarco/arouca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

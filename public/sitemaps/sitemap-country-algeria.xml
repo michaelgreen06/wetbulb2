@@ -116,7 +116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/el-hed</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/el-hed</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,7 +146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/chlef/t%C3%A9n%C3%A8s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/chlef/tenes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/t%C3%A9bessa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/tebessa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,12 +196,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/touggourt/ta%C3%AFbet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/touggourt/taibet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/tadma%C3%AFt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/tadmait</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -256,7 +256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/sidi-m%C3%A9rouane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/sidi-merouane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/sidi-ben-adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/sidi-ben-adda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abb%C3%A8s/sidi-bel-abbes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abbes/sidi-bel-abbes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -291,7 +291,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/sidi-a%C3%AFssa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/sidi-aissa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abb%C3%A8s/sfizef</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abbes/sfizef</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/s%C3%A9tif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/setif</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,7 +316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/seddouk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/seddouk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,12 +336,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/salah-bey</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/salah-bey</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/saida/sa%C3%AFda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/saida/saida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,7 +381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/regha%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/reghaia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +391,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/r%C3%A2s-el-oued</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/ras-el-oued</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/r%C3%A2s-el-a%C3%AFoun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/ras-el-aioun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,17 +441,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/timimoun/oulad-sa%C3%AFd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/timimoun/oulad-said</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/timimoun/oulad-a%C3%AFssa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/timimoun/oulad-aissa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/ouenza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/ouenza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -496,7 +496,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/n%E2%80%99gaous</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/ngaous</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -516,12 +516,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/m'sila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/msila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/mouza%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/mouzaia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -536,7 +536,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/miliana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/miliana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -576,7 +576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/melouza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/melouza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -601,7 +601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/m%C3%A9d%C3%A9a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/medea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -616,7 +616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/souk-ahras/m%E2%80%99daourouch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/souk-ahras/mdaourouch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -631,12 +631,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/mansourah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/mansourah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tlemcen/manso%C3%BBra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tlemcen/mansoura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -651,12 +651,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/l%E2%80%99arbaa-na%C3%AFt-irathen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/larbaa-nait-irathen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/larba%C3%A2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/larbaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -691,7 +691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/khemis-miliana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/khemis-miliana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -706,7 +706,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/khenchela/ka%C3%AFs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/khenchela/kais</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -726,7 +726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/ighram</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/ighram</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -736,7 +736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/guelma/h%C3%A9liopolis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/guelma/heliopolis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -756,17 +756,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/hammam-righa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/hammam-righa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/hammamet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/hammamet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/hammam-bou-hadjar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/hammam-bou-hadjar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -806,7 +806,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ghardaia/gharda%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ghardaia/ghardaia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -826,7 +826,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/feraoun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/feraoun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -836,7 +836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/fedj-m%E2%80%99zala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/fedj-mzala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,17 +871,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/el-mghair/el-megha%C3%AFer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/el-mghair/el-meghaier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/el-malah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/el-malah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/el-kseur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/el-kseur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -916,7 +916,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/el-eulma</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/el-eulma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -926,7 +926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/el-attaf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/el-attaf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -941,12 +941,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/el-aouinet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/el-aouinet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/el-amria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/el-amria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -956,7 +956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/el-achir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/el-achir</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -966,7 +966,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/el-abadia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/el-abadia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -981,7 +981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/dra%C3%A2-esmar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/draa-esmar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -996,7 +996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/dou%C3%A9ra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/douera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1026,7 +1026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/dar-el-be%C3%AFda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/dar-el-beida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1056,7 +1056,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/cheria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/cheria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1071,7 +1071,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/chemini</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/chemini</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1081,7 +1081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/chelghoum-el-a%C3%AFd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/mila/chelghoum-el-aid</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1116,7 +1116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/bou-sa%C3%A2da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/bou-saada</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1136,12 +1136,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tipaza/bou-isma%C3%AFl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tipaza/bou-ismail</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bouira/bou%C3%AFra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bouira/bouira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1166,7 +1166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/bougaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/bougaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1186,22 +1186,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/bo%C3%BB-arfa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/blida/bou-arfa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/bordj-zemoura</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/bordj-zemoura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/boumerdes/bordj-mena%C3%AFel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/boumerdes/bordj-menaiel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/bordj-ghdir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/bordj-ghdir</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1211,7 +1211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj/bordj-bou-arreridj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj/bordj-bou-arreridj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1246,7 +1246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa/bir-el-ater</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa/bir-el-ater</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1286,12 +1286,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/beni-saf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/beni-saf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/barbouche</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/barbouche</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1316,7 +1316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/beni-abbes/b%C3%A9ni-abb%C3%A8s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/beni-abbes/beni-abbes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1326,12 +1326,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/b%C3%A9ja%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/bejaia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9char/b%C3%A9char</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bechar/bechar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1346,7 +1346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/barbacha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/barbacha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1411,7 +1411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/amizour</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/amizour</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1421,7 +1421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa/akbou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia/akbou</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1431,147 +1431,147 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/a%C3%AFn-touta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/batna/ain-touta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/a%C3%AFn-temouchent</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/ain-temouchent</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/a%C3%AFn-taya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/ain-taya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/constantine/a%C3%AFn-smara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/constantine/ain-smara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/naama/a%C3%AFn-sefra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/naama/ain-sefra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/djelfa/a%C3%AFn-oussera</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/djelfa/ain-oussera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/a%C3%AFn-oulmene</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/ain-oulmene</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/a%C3%AFn-m%E2%80%99lila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/ain-mlila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/chlef/%E2%80%99a%C3%AFn-merane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/chlef/ain-merane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/a%C3%AFn-lechiakh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/ain-lechiakh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/a%C3%AFn-kercha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/ain-kercha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/a%C3%AFn-fakroun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/ain-fakroun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oran/%E2%80%99a%C3%AFn-el-turk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oran/ain-el-turk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/%E2%80%99a%C3%AFn-el-melh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/ain-el-melh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/%E2%80%99a%C3%AFn-el-hammam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/ain-el-hammam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila/ain-el-hadjel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila/ain-el-hadjel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/saida/%E2%80%99a%C3%AFn-el-hadjar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/saida/ain-el-hadjar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oran/a%C3%AFn-el-bya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oran/ain-el-bya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abb%C3%A8s/%E2%80%99a%C3%AFn-el-berd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abbes/ain-el-berd</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/djelfa/%E2%80%99a%C3%AFn-el-bell</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/djelfa/ain-el-bell</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tiaret/%E2%80%99a%C3%AFn-deheb</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tiaret/ain-deheb</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla/a%C3%AFn-defla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla/ain-defla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/%E2%80%99a%C3%AFn-boucif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/medea/ain-boucif</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bouira/a%C3%AFn-bessem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bouira/ain-bessem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/%E2%80%99a%C3%AFn-benian</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/algiers/ain-benian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/a%C3%AFn-be%C3%AFda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/oum-el-bouaghi/ain-beida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/%E2%80%99a%C3%AFn-azel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/ain-azel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/a%C3%AFn-arnat</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/ain-arnat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/constantine/%E2%80%99a%C3%AFn-abid</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/constantine/ain-abid</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1581,7 +1581,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent/aghlal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent/aghlal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1601,7 +1601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9char/abadla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bechar/abadla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1611,7 +1611,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif/babor---ville</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif/babor-ville</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1641,7 +1641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tlemcen/sidi-senoussi-%D8%B3%D9%8A%D8%AF%D9%8A-%D8%B3%D9%86%D9%88%D8%B3%D9%8A</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tlemcen/sidi-senoussi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1661,7 +1661,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/ma%C3%A2tkas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tizi-ouzou/maatkas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

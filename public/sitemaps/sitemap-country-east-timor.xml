@@ -26,7 +26,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liqui%C3%A7%C3%A1/maubara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liquica/maubara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -41,7 +41,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liqui%C3%A7%C3%A1/likis%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liquica/likisa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/laut%C3%A9m/lospalos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/lautem/lospalos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

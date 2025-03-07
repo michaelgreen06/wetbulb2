@@ -16,12 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/yp%C3%A4j%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/ypaja</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/yl%C3%B6j%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/ylojarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/ylih%C3%A4rm%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/yliharma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -56,12 +56,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/yl%C3%A4ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/ylane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/yl%C3%A4maa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/ylamaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,7 +81,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/v%C3%B6r%C3%A5</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/vora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,7 +141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/vierem%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/vierema</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/varpaisj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/varpaisjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,7 +216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/v%C3%A4h%C3%A4kyr%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/vahakyro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -261,7 +261,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/utaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/utajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,7 +281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/tyrn%C3%A4v%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/tyrnava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,7 +301,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/tuulos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/tuulos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -311,7 +311,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/tuomarinkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/tuomarinkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,12 +321,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/j%C3%A4rvenper%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/jarvenpera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/t%C3%B6ys%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/toysa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +361,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/tohmaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/tohmajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/tiril%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/tirila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,7 +391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/tervakoski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/tervakoski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -426,12 +426,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/tammela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/tammela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/taka-t%C3%B6%C3%B6l%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/taka-toolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,7 +451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/sysm%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/sysma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -466,7 +466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/suomusj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/suomusjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +501,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/s%C3%B6rn%C3%A4inen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/sornainen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/sonkaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/sonkajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -526,7 +526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/sodankyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/sodankyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -541,7 +541,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/siilinj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/siilinjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,12 +566,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/sein%C3%A4joki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/seinajoki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/s%C3%A4yn%C3%A4tsalo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/saynatsalo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -621,7 +621,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/s%C3%A4kyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/sakyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -631,22 +631,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/saarij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/saarijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/saarenkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/saarenkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/saarenkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/saarenkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/rym%C3%A4ttyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/rymattyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -676,7 +676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ruotsinpyht%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ruotsinpyhtaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -686,7 +686,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/r%C3%B6ykk%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/roykka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -696,7 +696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kainuu/ristij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kainuu/ristijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -706,7 +706,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/riihim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/riihimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -716,7 +716,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/renko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/renko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -726,12 +726,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/reisj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/reisjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/rautj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/rautjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -766,7 +766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/rajakyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/rajakyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -781,7 +781,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/r%C3%A4%C3%A4kkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/raakkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -791,37 +791,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/pyht%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/pyhtaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/pyh%C3%A4selk%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/pyhaselka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/pyh%C3%A4ranta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/pyharanta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyh%C3%A4nt%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyhanta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyh%C3%A4joki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyhajoki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/pyh%C3%A4j%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/pyhajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyh%C3%A4j%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyhajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -856,7 +856,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pukinm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pukinmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -866,12 +866,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pudasj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pudasjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/p%C3%B6yty%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/poytya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -896,7 +896,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/polvij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/polvijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,7 +906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pit%C3%A4j%C3%A4nm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pitajanmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -926,7 +926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/piikki%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/piikkio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -941,7 +941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/pieks%C3%A4m%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/pieksamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,7 +951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/pet%C3%A4j%C3%A4vesi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/petajavesi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -966,12 +966,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/perni%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/pernio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pern%C3%A5</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/perna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -991,7 +991,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/peders%C3%B6re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/pedersore</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1026,7 +1026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/p%C3%A4lk%C3%A4ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/palkane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1061,7 +1061,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/oulunkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/oulunkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1086,7 +1086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/orip%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/oripaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1106,7 +1106,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nurmij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nurmijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1121,7 +1121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/n%C3%B6ykki%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/noykkio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1146,7 +1146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/nilsi%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/nilsia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1156,7 +1156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/n%C3%A4rpes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/narpes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1176,12 +1176,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/myrskyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/myrskyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/myn%C3%A4m%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/mynamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1226,12 +1226,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/mouhij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/mouhijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/monninkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/monninkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1246,7 +1246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/miehikk%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/miehikkala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1261,17 +1261,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/merij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/merijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mellunkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mellunkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/mellil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/mellila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1286,7 +1286,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/matinkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/matinkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1311,17 +1311,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/m%C3%A4ntyharju</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/mantyharju</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/m%C3%A4ntt%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/mantta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/m%C3%A4nts%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mantsala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1346,7 +1346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/luum%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/luumaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1366,7 +1366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/loppi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/loppi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1411,12 +1411,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/lepp%C3%A4virta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-savo/leppavirta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lepp%C3%A4vaara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/leppavaara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1426,7 +1426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lemp%C3%A4%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lempaala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1436,7 +1436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/leivonm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/leivonmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1491,7 +1491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/lappaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/lappajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1501,22 +1501,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lapinj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lapinjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/l%C3%A4ngelm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/langelmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lamminp%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lamminpaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/lammi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/lammi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1551,7 +1551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/kyyj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/kyyjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1561,7 +1561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kylm%C3%A4koski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kylmakoski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1571,7 +1571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/kuusim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/kuusimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1636,7 +1636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kuhmalahden-kirkonkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kuhmalahden-kirkonkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1656,7 +1656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/k%C3%B6yli%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/koylio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1671,7 +1671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/h%C3%A4meenkoski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/hameenkoski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1696,7 +1696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/kortesj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/kortesjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1706,7 +1706,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/korsn%C3%A4s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/korsnas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1746,12 +1746,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/kokem%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/kokemaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/koivistonkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/koivistonkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1761,7 +1761,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/kivij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/kivijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1776,7 +1776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/kittil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/kittila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1821,7 +1821,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kihni%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kihnio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1831,17 +1831,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/kestil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/kestila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/kes%C3%A4lahti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/kesalahti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/kerim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/kerimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1856,7 +1856,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/kemij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/kemijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1941,12 +1941,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/k%C3%A4rs%C3%A4m%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/karsamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/k%C3%A4rk%C3%B6l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/karkola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1971,7 +1971,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/karinaisten-kirkonkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/karinaisten-kirkonkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1986,7 +1986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/k%C3%A4pyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kapyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2001,7 +2001,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/kankaanp%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/kankaanpaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2026,17 +2026,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/k%C3%A4mmenniemi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kammenniemi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/kalvola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/kalvola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-ostrobothnia/k%C3%A4lvi%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-ostrobothnia/kalvia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2046,7 +2046,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/k%C3%A5llby</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/ostrobothnia/kallby</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2076,7 +2076,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/jyv%C3%A4skyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/jyvaskyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2126,7 +2126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/jokioinen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/jokioinen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2146,37 +2146,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/j%C3%A4rvenp%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/jarvenpaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/j%C3%A4ppil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-savo/jappila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/janakkala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/janakkala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/j%C3%A4ms%C3%A4nkoski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/jamsankoski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/j%C3%A4ms%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/jamsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/j%C3%A4mij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/satakunta/jamijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/jalasj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/jalasjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2186,7 +2186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/j%C3%A4%C3%A4li</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/jaali</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2201,7 +2201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/isokyr%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/isokyro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2211,7 +2211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ing%C3%A5</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/inga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2276,7 +2276,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/humppila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/humppila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2326,12 +2326,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/hein%C3%A4vesi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-karelia/heinavesi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/hausj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/hausjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2346,7 +2346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/hauho</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/hauho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2376,17 +2376,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/h%C3%A4meenlinna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/hameenlinna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/h%C3%A4meenkyr%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/hameenkyro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/h%C3%A4meenkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/hameenkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2416,7 +2416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/haapaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/haapajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2426,7 +2426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/gumb%C3%B6le</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/gumbole</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2436,12 +2436,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me/forssa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame/forssa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/evij%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/evijarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2456,7 +2456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/etu-t%C3%B6%C3%B6l%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/etu-toolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2466,12 +2466,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/epil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/epila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/enonteki%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/lapland/enontekio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2486,17 +2486,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/elim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kymenlaakso/elimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/eken%C3%A4s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ekenas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/dragsfj%C3%A4rd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/dragsfjard</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2541,7 +2541,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/artj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/paijat-hame/artjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2556,7 +2556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/alppikyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/alppikyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2571,22 +2571,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/alaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/alajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/alah%C3%A4rm%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/alaharma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/%C3%A4ht%C3%A4ri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/ahtari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/%C3%A4%C3%A4nekoski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/central-finland/aanekoski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2641,7 +2641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lapinkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lapinkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2666,7 +2666,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/sep%C3%A4nkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/sepankyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2681,17 +2681,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/etel%C3%A4-haaga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/etela-haaga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mets%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/metsala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/l%C3%A4nsi-pasila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lansi-pasila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2711,7 +2711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/l%C3%A4nsi-herttoniemi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lansi-herttoniemi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2746,12 +2746,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/it%C3%A4keskus</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/itakeskus</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/h%C3%B6yhty%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/hoyhtya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2761,12 +2761,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/puoliv%C3%A4linkangas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/puolivalinkangas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/v%C3%A4livainio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/valivainio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2776,12 +2776,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/rajakyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/rajakyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/kuivasj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/kuivasjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2791,7 +2791,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/%C3%A4ets%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/aetsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2801,7 +2801,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/h%C3%A4mevaara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/hamevaara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2826,12 +2826,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kalaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kalajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kivist%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kivisto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2846,7 +2846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/myyrm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/myyrmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2866,7 +2866,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kannelm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kannelmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2886,7 +2886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ver%C3%A4j%C3%A4m%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/verajamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2901,17 +2901,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/l%C3%A4nsi-pakila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lansi-pakila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/palohein%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/paloheina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/torpparinm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/torpparinmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2921,17 +2921,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/siltam%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/siltamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/yl%C3%A4st%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ylasto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/vierum%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/vierumaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2946,7 +2946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/koivukyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/koivukyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2956,7 +2956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/simonkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/simonkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2971,7 +2971,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/suurmets%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/suurmetsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2981,12 +2981,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/tapaninkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/tapaninkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/yl%C3%A4-malmi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/yla-malmi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3001,12 +3001,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pihlajam%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pihlajamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kurkim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/kurkimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3016,27 +3016,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mellunm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/mellunmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/l%C3%A4nsim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lansimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/jakom%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/jakomaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/it%C3%A4-hakkila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ita-hakkila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/p%C3%A4iv%C3%A4kumpu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/paivakumpu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3051,7 +3051,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nikinm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nikinmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3061,7 +3061,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lepp%C3%A4korpi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/leppakorpi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3161,7 +3161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lukonm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lukonmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3171,7 +3171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kaukaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kaukajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3186,7 +3186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/hatanp%C3%A4%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/hatanpaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3196,7 +3196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/korkinm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/korkinmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3206,7 +3206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kytt%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/kyttala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3251,12 +3251,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/j%C3%A4rvensivu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/jarvensivu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lent%C3%A4v%C3%A4nniemi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/lentavanniemi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3266,7 +3266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/tesomaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/tesomajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3281,12 +3281,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/rantaperki%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/rantaperkio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/juhannuskyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/juhannuskyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3311,12 +3311,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/etel%C3%A4-hervanta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/etela-hervanta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/it%C3%A4-pakila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ita-pakila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3396,7 +3396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lippaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lippajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3406,7 +3406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/it%C3%A4-pasila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/ita-pasila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3426,7 +3426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyyk%C3%B6sj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/pyykosjarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3466,7 +3466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/v%C3%A4rtt%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/vartto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3481,17 +3481,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/villil%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/villila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/korvenkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/korvenkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/heikkil%C3%A4nkangas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/heikkilankangas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3566,12 +3566,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/l%C3%A4nsiranta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/lansiranta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/j%C3%A4tk%C3%A4saari</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/jatkasaari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3601,7 +3601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/ristim%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/ristimaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3616,12 +3616,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/niemenm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/niemenmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pajam%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pajamaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3646,7 +3646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/v%C3%A4st%C3%A5boland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/southwest-finland/vastaboland</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3661,17 +3661,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/%C3%A4laj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-ostrobothnia/alajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/vartiokyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/vartiokyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/l%C3%A4nsisatama</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/lansisatama</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3701,7 +3701,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nurmij%C3%A4rven-kirkonkyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/nurmijarven-kirkonkyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3756,7 +3756,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/kylpyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/kylpyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3771,12 +3771,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/alakyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/alakyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/myllym%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/south-karelia/myllymaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3811,7 +3811,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/hervantaj%C3%A4rvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/hervantajarvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3821,7 +3821,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/yl%C3%A4-pispala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/yla-pispala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3861,7 +3861,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/malmin-lentokentt%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/malmin-lentokentta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3886,7 +3886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pit%C3%A4j%C3%A4nm%C3%A4en-yritysalue</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/uusimaa/pitajanmaen-yritysalue</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3956,17 +3956,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/pohjois-kytt%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/pohjois-kyttala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/etel%C3%A4-kytt%C3%A4l%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/etela-kyttala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/osmonm%C3%A4ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/osmonmaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4006,7 +4006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/uusikyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/pirkanmaa/uusikyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4056,12 +4056,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/inti%C3%B6</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/intio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/m%C3%A4ntyl%C3%A4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/north-ostrobothnia/mantyla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -11,7 +11,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/yaound%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/yaounde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,7 +51,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/tign%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/tignere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,12 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/north/tchollir%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/north/tchollire</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/north/tch%C3%A9boa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/north/tcheboa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/sangm%C3%A9lima</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/sangmelima</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,7 +106,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/omb%C3%A9sa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/ombesa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,7 +151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/njomb%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/njombe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,17 +176,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/ngaound%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/ngaoundere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/ngamb%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/ngambe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/ndikinim%C3%A9ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/ndikinimeki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,7 +201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/mvangu%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/mvangue</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -256,7 +256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/me%C3%AFganga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/meiganga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -366,7 +366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/far-north/kouss%C3%A9ri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/far-north/kousseri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -386,7 +386,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/far-north/ka%C3%A9l%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/far-north/kaele</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -406,7 +406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/garoua-boula%C3%AF</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/garoua-boulai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,17 +441,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/%C3%A9vodoula</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/evodoula</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/ess%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/esse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/es%C3%A9ka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/centre/eseka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -461,12 +461,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/ed%C3%A9a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/edea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/%C3%A9bolowa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/south/ebolowa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -476,7 +476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/doum%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/doume</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,7 +491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/dizangu%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/dizangue</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -516,7 +516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/bonab%C3%A9ri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/littoral/bonaberi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -526,7 +526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/b%C3%A9tar%C3%A9-oya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/betare-oya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -541,12 +541,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/b%C3%A9lel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/belel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/b%C3%A9labo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/east/belabo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -586,7 +586,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/west/bangangt%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/west/bangangte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -691,7 +691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/somi%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cameroon/adamaoua/somie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

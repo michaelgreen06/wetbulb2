@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bandraboua/handr%C3%A9ma</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bandraboua/handrema</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,12 +76,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/m'tsangamouji/chemb%C3%A9nyoumba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mtsangamouji/chembenyoumba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/m'tsangamouji/m'tsangamouji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mtsangamouji/mtsangamouji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,7 +91,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/tsingoni/mir%C3%A9r%C3%A9ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/tsingoni/mirereni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,7 +111,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/koungou/tr%C3%A9vani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/koungou/trevani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -131,7 +131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/kaou%C3%A9ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/kaoueni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,7 +141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/mtsap%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/mtsapere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/vahib%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mamoudzou/vahibe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/chirongui/mir%C3%A9r%C3%A9ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/chirongui/mirereni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,22 +266,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bou%C3%A9ni/mzouazia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/boueni/mzouazia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bou%C3%A9ni/mouanatrindri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/boueni/mouanatrindri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bou%C3%A9ni/bou%C3%A9ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/boueni/boueni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/kani-k%C3%A9li/kani-k%C3%A9li</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/kani-keli/kani-keli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

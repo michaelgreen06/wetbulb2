@@ -51,7 +51,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/moxico/l%C3%A9ua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/moxico/leua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,12 +91,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/u%C3%ADge</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/uige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/zaire/tomb%C3%B4co</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/zaire/tomboco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,12 +106,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/songo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/songo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/sanza-pombo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/sanza-pombo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,7 +121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/puri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/puri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -131,12 +131,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/negage</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/negage</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/cuanza-norte/n'dalatando</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/cuanza-norte/ndalatando</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,7 +151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/maquela-do-zombo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/maquela-do-zombo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/malanje/cunda-di%C3%A1-baze</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/malanje/cunda-dia-baze</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,12 +196,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/damba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/damba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/zaire/cu%C3%ADmba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/zaire/cuimba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,7 +271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge/banza-damba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige/banza-damba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -326,7 +326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/namibe/t%C3%B4mbua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/namibe/tombua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/quipungo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/quipungo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,7 +361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/nhar%C3%AAa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/nharea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,7 +381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/matala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/matala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -396,7 +396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/lubango</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/lubango</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -416,7 +416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/cu%C3%ADto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/cuito</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,17 +456,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/dala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/dala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/cunhinga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/cunhinga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/cuemba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/cuemba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,32 +491,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/chitembo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/chitembo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/chissamba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/chissamba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/chipindo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/chipindo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/chinguar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/chinguar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/chicomba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/chicomba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/chibia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/chibia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,7 +531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/catabola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/catabola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -551,12 +551,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/camacupa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/camacupa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/caluquembe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/caluquembe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,7 +566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/calucinga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/calucinga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -591,7 +591,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/caconda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/caconda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -601,7 +601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huambo/ca%C3%A1la</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huambo/caala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -626,12 +626,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/benguela/ba%C3%ADa-farta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/benguela/baia-farta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe/andulo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie/andulo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -676,7 +676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla/calonamba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila/calonamba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

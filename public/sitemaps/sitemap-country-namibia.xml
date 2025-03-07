@@ -221,12 +221,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/hardap-region/maltah%C3%B6he</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/hardap-region/maltahohe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/karas-region/l%C3%BCderitz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/karas-region/luderitz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,7 +236,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/karas-region/ko%C3%ABs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/namibia/karas-region/koes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

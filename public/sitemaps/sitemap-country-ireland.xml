@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ireland/munster/tr%C3%A1-mh%C3%B3r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ireland/munster/tra-mhor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -886,7 +886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ireland/leinster/d%C3%BAn-laoghaire</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ireland/leinster/dun-laoghaire</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

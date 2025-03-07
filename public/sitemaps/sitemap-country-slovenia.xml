@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEu%C5%BEemberk/%C5%BEu%C5%BEemberk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zuzemberk/zuzemberk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEiri/%C5%BEiri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ziri/ziri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/medvode/zgornje-pirni%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/medvode/zgornje-pirnice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,12 +31,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEelezniki-municipality/%C5%BEelezniki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zelezniki-municipality/zelezniki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEalec/%C5%BEalec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zalec/zalec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEalec/zabukovica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zalec/zabukovica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -56,7 +56,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1empeter-vrtojba/vrtojba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sempeter-vrtojba/vrtojba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,7 +81,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivan%C4%8Dna-gorica/vi%C5%A1nja-gora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivancna-gorica/visnja-gora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,7 +96,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/turni%C5%A1%C4%8De/turni%C5%A1%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/turnisce/turnisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,7 +106,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/tr%C5%BEi%C4%8D/tr%C5%BEi%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/trzic/trzic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,7 +126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1o%C5%A1tanj/topol%C5%A1ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sostanj/topolsica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,17 +141,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofja-loka/sv.-duh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofja-loka/sv-duh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/koper-capodistria/sv.-anton</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/koper-capodistria/sv-anton</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1tore/%C5%A1tore</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/store/store</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,7 +161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ho%C4%8De-slivnica/spodnje-ho%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/hoce-slivnica/spodnje-hoce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,32 +171,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1o%C5%A1tanj/%C5%A1o%C5%A1tanj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sostanj/sostanj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/slovenj-gradec/%C5%A1martno-pri-slovenj-gradcu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/slovenj-gradec/smartno-pri-slovenj-gradcu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1martno-pri-litiji/%C5%A1martno-pri-litiji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/smartno-pri-litiji/smartno-pri-litiji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1marje-pri-jel%C5%A1ah/%C5%A1marje-pri-jel%C5%A1ah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/smarje-pri-jelsah/smarje-pri-jelsah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/grosuplje/%C5%A1marje-sap</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/grosuplje/smarje-sap</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kamnik/%C5%A1marca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kamnik/smarca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,17 +216,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofljica/%C5%A1kofljica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofljica/skofljica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofja-loka/%C5%A1kofja-loka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofja-loka/skofja-loka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/se%C5%BEana/se%C5%BEana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sezana/sezana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,67 +236,67 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivan%C4%8Dna-gorica/%C5%A1entvid-pri-sti%C4%8Dni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivancna-gorica/sentvid-pri-sticni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentjur/%C5%A1entjur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentjur/sentjur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1entjernej/%C5%A1entjernej</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentjernej/sentjernej</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1entilj/%C5%A1entilj-v-slov.-goricah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentilj/sentilj-v-slov-goricah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kr%C5%A1ko/senovo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/krsko/senovo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1en%C4%8Dur/%C5%A1en%C4%8Dur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sencur/sencur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEalec/%C5%A1empeter-v-savinj.-dolini</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zalec/sempeter-v-savinj-dolini</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1empeter-vrtojba/%C5%A1empeter-pri-gorici</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sempeter-vrtojba/sempeter-pri-gorici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/nova-gorica/%C5%A1empas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/nova-gorica/sempas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/semi%C4%8D/semi%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/semic/semic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1entilj/selnica-ob-muri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentilj/selnica-ob-muri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ru%C5%A1e-municipality/ru%C5%A1e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ruse-municipality/ruse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ho%C4%8De-slivnica/rogoza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/hoce-slivnica/rogoza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -306,7 +306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/roga%C5%A1ka-slatina/roga%C5%A1ka-slatina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rogaska-slatina/rogaska-slatina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,7 +316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ren%C4%8De-vogrsko/ren%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rence-vogrsko/rence</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -326,17 +326,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koro%C5%A1kem/ravne-na-koro%C5%A1kem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koroskem/ravne-na-koroskem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1o%C5%A1tanj/ravne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sostanj/ravne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/murska-sobota/raki%C4%8Dan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/murska-sobota/rakican</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -351,7 +351,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/dom%C5%BEale/radomlje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/domzale/radomlje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -366,12 +366,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rade%C4%8De-municipality/rade%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/radece-municipality/radece</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ra%C4%8De-fram/ra%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/race-fram/race</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,7 +381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/nova-gorica/prva%C4%8Dina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/nova-gorica/prvacina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,7 +391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menge%C5%A1/preserje-pri-radomljah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menges/preserje-pri-radomljah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -416,7 +416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/piran-pirano/portoro%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/piran-pirano/portoroz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -426,7 +426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/polj%C4%8Dane/polj%C4%8Dane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/poljcane/poljcane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -446,12 +446,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/slovenj-gradec/pame%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/slovenj-gradec/pamece</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ormo%C5%BE/ormo%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ormoz/ormoz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -506,7 +506,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ra%C4%8De-fram/morje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/race-fram/morje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -536,12 +536,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/miklav%C5%BE-na-dravskem-polju/miklav%C5%BE-na-dravskem-polju</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/miklavz-na-dravskem-polju/miklavz-na-dravskem-polju</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/me%C5%BEica/me%C5%BEica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/mezica/mezica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -551,7 +551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menge%C5%A1/menge%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menges/menges</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -576,12 +576,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdov%C5%A1%C4%8Dina-municipality/lokavec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdovscina-municipality/lokavec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log%E2%80%93dragomer/log-pri-brezovici</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log-dragomer/log-pri-brezovici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -601,7 +601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/celje/ljube%C4%8Dna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/celje/ljubecna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -616,12 +616,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/maribor-city-municipality/limbu%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/maribor-city-municipality/limbus</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kr%C5%A1ko/leskovec-pri-kr%C5%A1kem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/krsko/leskovec-pri-krskem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -636,17 +636,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/lenart/lenart-v-slov.-goricah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/lenart/lenart-v-slov-goricah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/la%C5%A1ko-municipality/la%C5%A1ko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/lasko-municipality/lasko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kr%C5%A1ko/kr%C5%A1ko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/krsko/krsko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -671,7 +671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koro%C5%A1kem/kotlje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koroskem/kotlje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -686,7 +686,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ko%C4%8Devje/ko%C4%8Devje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kocevje/kocevje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -696,12 +696,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kidri%C4%8Devo/kidri%C4%8Devo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kidricevo/kidricevo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-so%C4%8Di-municipality/kanal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-soci-municipality/kanal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -731,7 +731,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivan%C4%8Dna-gorica/ivan%C4%8Dna-gorica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivancna-gorica/ivancna-gorica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -756,7 +756,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/jesenice/hru%C5%A1ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/jesenice/hrusica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -766,12 +766,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1en%C4%8Dur/hrastje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sencur/hrastje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ho%C4%8De-slivnica/hotinja-vas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/hoce-slivnica/hotinja-vas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -786,7 +786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEalec/gotovlje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zalec/gotovlje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -801,12 +801,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ob%C4%8Dina-gorenja-vas-poljane/gorenja-vas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/obcina-gorenja-vas-poljane/gorenja-vas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/stra%C5%BEa/stra%C5%BEa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/straza/straza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -816,12 +816,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/beltinci/gan%C4%8Dani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/beltinci/gancani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ra%C4%8De-fram/fram</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/race-fram/fram</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -831,7 +831,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log%E2%80%93dragomer/dragomer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log-dragomer/dragomer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -841,7 +841,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/dom%C5%BEale/dom%C5%BEale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/domzale/domzale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -851,17 +851,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/dom%C5%BEale/dob</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/domzale/dob</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/diva%C4%8Da/diva%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/divaca/divaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-so%C4%8Di-municipality/deskle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-soci-municipality/deskle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,22 +871,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Drnomelj-municipality/%C4%8Drnomelj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crnomelj-municipality/crnomelj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Drna-na-koro%C5%A1kem-municipality/%C4%8Drna-na-koro%C5%A1kem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crna-na-koroskem-municipality/crna-na-koroskem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Dren%C5%A1ovci/%C4%8Dren%C5%A1ovci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crensovci/crensovci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/murska-sobota/%C4%8Dernelavci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/murska-sobota/cernelavci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,7 +906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kamnik/bu%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kamnik/buc</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -921,7 +921,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/bre%C5%BEice/bre%C5%BEice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/brezice/brezice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,7 +951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/tr%C5%BEi%C4%8D/bistrica-pri-tr%C5%BEi%C4%8Du</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/trzic/bistrica-pri-trzicu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -971,7 +971,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdov%C5%A1%C4%8Dina-municipality/ajdov%C5%A1%C4%8Dina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdovscina-municipality/ajdovscina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -986,7 +986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/jesenice/koro%C5%A1ka-bela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/jesenice/koroska-bela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1011,12 +1011,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zre%C4%8De-municipality/zre%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zrece-municipality/zrece</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ho%C4%8De-slivnica/radizel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/hoce-slivnica/radizel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1041,12 +1041,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/koper-capodistria/spodnje-%C5%A1kofije</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/koper-capodistria/spodnje-skofije</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1empeter-vrtojba/ro%C5%BEna-dolina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sempeter-vrtojba/rozna-dolina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1056,17 +1056,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/dom%C5%BEale/vir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/domzale/vir</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofljica/lavrica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofljica/lavrica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/piran-pirano/se%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/piran-pirano/seca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1081,7 +1081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ru%C5%A1e-municipality/bistrica-ob-dravi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ruse-municipality/bistrica-ob-dravi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

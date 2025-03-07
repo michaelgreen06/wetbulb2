@@ -6,7 +6,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/skidel%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/skidel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26,7 +26,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/%C5%BEytkavi%C4%8Dy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/zytkavicy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,7 +51,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/zel%E2%80%99va</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/zelva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/yel%E2%80%99sk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/yelsk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,7 +166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/tura%C5%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/tura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/stan%E2%80%99kava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/stankava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,17 +246,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/smarho%C5%84</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/smarhon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/smaliavi%C4%8Dy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/smaliavicy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/smilavi%C4%8Dy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/smilavicy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,7 +356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/ross%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/ross</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -376,12 +376,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/rada%C5%A1kovi%C4%8Dy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/radaskovicy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/puchavi%C4%8Dy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/puchavicy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,7 +481,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/novy-svyerzhan%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/novy-svyerzhan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,12 +491,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/novosel%E2%80%99ye</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/novoselye</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/novolukoml%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/novolukoml</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,7 +566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/brest/motal%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/brest/motal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -611,7 +611,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/mar%E2%80%99ina-gorka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/marina-gorka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -621,7 +621,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/maladzie%C4%8Dna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/maladziecna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -636,7 +636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/lyuban%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/lyuban</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -646,7 +646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/lyepyel%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/lyepyel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -736,7 +736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/krasnosel%E2%80%99skiy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/krasnoselskiy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -771,7 +771,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/korol%C3%ABv-stan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/korolev-stan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -786,7 +786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/kopyl%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/kopyl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -816,7 +816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/mogilev/kli%C4%8Da%C5%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/mogilev/klica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -846,7 +846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/khal%E2%80%99ch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/khalch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -891,7 +891,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/i%C4%BAja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/ija</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,7 +906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/homyel'</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/gomel-oblast/homyel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -941,7 +941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/hal%E2%80%99shany</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/grodnenskaya/halshany</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1036,7 +1036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/%C4%8Dervie%C5%84</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/cervien</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1126,7 +1126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/blon%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/blon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1156,7 +1156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/byahoml%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/byahoml</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1171,7 +1171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/baran%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/vitebsk/baran</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1186,7 +1186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/brest/antopal%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/brest/antopal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1231,7 +1231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/pryvol%E2%80%99ny</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/pryvolny</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1261,7 +1261,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/chyst%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/chyst</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1276,7 +1276,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/bal%E2%80%99shavik</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/balshavik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1286,7 +1286,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/minsk/oktyabrskij</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1296,7 +1296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/mogilev/pos%C3%ABlok-voskhod</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/belarus/mogilev/poselok-voskhod</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

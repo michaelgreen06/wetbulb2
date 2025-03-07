@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/%C5%BEie%C5%BEmariai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/ziezmariai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/%C5%BEemai%C4%8Di%C5%B3-naumiestis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/zemaiciu-naumiestis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/%C5%BEagar%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/zagare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -36,7 +36,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/vilkaviskis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/vilkaviskis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/telsiai/viek%C5%A1niai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/telsiai/vieksniai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,7 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/alytus/var%C4%97na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/alytus/varena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/tytuv%C4%97n%C4%97liai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/tytuveneliai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,42 +91,42 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county/taurage</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county/taurage</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/%C5%A1ventoji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/sventoji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/%C5%A1ven%C4%8Dionys</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/svencionys</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/%C5%A1ven%C4%8Dion%C4%97liai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/svencioneliai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/skuodas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/skuodas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county/b%C5%ABgai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county/bugai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/skaidi%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/skaidiskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/%C5%A1irvintos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/sirvintos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -136,17 +136,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/silute</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/silute</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county/%C5%A1ilal%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county/silale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/%C5%A1iauliai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/siauliai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/%C5%A1eduva</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/seduva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,37 +166,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/sarg%C4%97nai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/sargenai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/%C5%A1al%C4%8Dininkai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/salcininkai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/salantai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/salantai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/%C5%A1akiai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/sakiai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/rusn%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/rusne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/r%C5%ABdi%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/rudiskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/roki%C5%A1kis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/rokiskis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,12 +211,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/ramygala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/ramygala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/ramu%C4%8Diai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/ramuciai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/priekul%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/priekule</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,22 +246,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/pervalka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/pervalka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/pasvalys</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/pasvalys</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/panev%C4%97%C5%BEys</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/panevezys</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/palanga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/palanga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,42 +271,42 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county/pag%C4%97giai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county/pagegiai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pabrad%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pabrade</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/fabijoni%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/fabijoniskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/obeliai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/obeliai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/nida</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/nida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/neringa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/neringa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/nem%C4%97%C5%BEis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/nemezis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/nemen%C4%8Din%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/nemencine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,7 +321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/utena/mol%C4%97tai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/utena/moletai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/marijampol%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/marijampole</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,17 +356,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/kybartai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/kybartai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/kur%C5%A1%C4%97nai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/kursenai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/kupiskis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/kupiskis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -376,32 +376,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/kudirkos-naumiestis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/kudirkos-naumiestis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/kretinga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/kretinga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/klaip%C4%97da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/klaipeda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/kelm%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/kelme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/k%C4%97dainiai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/kedainiai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/kazl%C5%B3-r%C5%ABda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/kazlu-ruda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,32 +411,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/karm%C4%97lava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/karmelava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/kalvarija</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/kalvarija</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/kai%C5%A1iadorys</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/kaisiadorys</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county/jurbarkas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county/jurbarkas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/juodup%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/juodupe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/joni%C5%A1kis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/joniskis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,12 +456,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/grigi%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/grigiskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county/gelgaudi%C5%A1kis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county/gelgaudiskis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,22 +471,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county/garg%C5%BEdai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county/gargzdai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/e%C5%BEer%C4%97lis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/ezerelis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/elektr%C4%97nai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/elektrenai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/ei%C5%A1i%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/eisiskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,17 +501,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys/birzai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys/birzai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/bir%C5%A1tonas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/birstonas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/baltoji-vok%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/baltoji-voke</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -521,7 +521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/utena/anyk%C5%A1%C4%8Diai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/utena/anyksciai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -541,12 +541,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/akmen%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/siauliai/akmene</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/dainava-(kaunas)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/dainava-kaunas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -556,12 +556,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/karolini%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/karoliniskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/%C5%A1ilainiai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/silainiai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -571,7 +571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/akademija-(kaunas)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/kaunas/akademija-kaunas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -581,22 +581,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pa%C5%A1ilai%C4%8Diai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pasilaiciai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pilait%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/pilaite</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/justini%C5%A1k%C4%97s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/justiniskes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/%C5%A1e%C5%A1kin%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/seskine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -606,7 +606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/vilkp%C4%97d%C4%97</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/vilnius/vilkpede</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

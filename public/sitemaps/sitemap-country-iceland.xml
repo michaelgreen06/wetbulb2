@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/siglufj%C3%B6r%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/siglufjordur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northwest/sau%C3%B0%C3%A1rkr%C3%B3kur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northwest/saudarkrokur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/neskaupsta%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/neskaupstadur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/nor%C3%B0ur%C3%BEing</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/nordurthing</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/h%C3%B6fn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/hofn</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/eskifj%C3%B6r%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/eskifjordur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/egilssta%C3%B0ir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/egilsstadir</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/dalv%C3%ADk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/northeast/dalvik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/rey%C3%B0arfj%C3%B6r%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/east/reydarfjordur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,12 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/%C3%BEorl%C3%A1ksh%C3%B6fn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/thorlakshofn</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/west/stykkish%C3%B3lmur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/west/stykkisholmur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,17 +76,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/sandger%C3%B0i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/sandgerdi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/reykjav%C3%ADk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/reykjavik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/west/%C3%B3lafsv%C3%ADk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/west/olafsvik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,57 +96,57 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/mosfellsb%C3%A6r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/mosfellsbaer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/k%C3%B3pavogur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/kopavogur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/keflav%C3%ADk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/keflavik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/westfjords/%C3%ADsafj%C3%B6r%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/westfjords/isafjordur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/hvolsv%C3%B6llur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/hvolsvollur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/hverager%C3%B0i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/south/hveragerdi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/hafnarfj%C3%B6r%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/hafnarfjordur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/grindav%C3%ADk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/grindavik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/gar%C3%B0ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/gardur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/gar%C3%B0ab%C3%A6r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/gardabaer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/%C3%A1lftanes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/capital-region/alftanes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,7 +166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/reykjanesb%C3%A6r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iceland/southern-peninsula/reykjanesbaer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

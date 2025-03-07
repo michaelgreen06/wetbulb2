@@ -11,7 +11,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98ein-qun%C4%ABya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ein-quniya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,32 +31,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/na%E1%BA%96al-teqoa%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/naal-teqoa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/mi%E1%BA%95p%C3%A9-yeri%E1%BA%96o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/mipe-yerio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/modi%E2%80%98in-makkabbim-re%E2%80%98ut</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/modiin-makkabbim-reut</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/kokhav-hasha%E1%BA%96ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/kokhav-hashaar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/el%E2%80%98azar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/elazar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/be%E2%80%99er-toviyya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/beer-toviyya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/zikhron-ya%E2%80%98aqov</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/zikhron-yaaqov</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,12 +111,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yoqne%E2%80%98am-%E2%80%98illit</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yoqneam-illit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yirk%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yirka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,17 +126,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yif%E2%80%98at</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yifat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yesud-hama%E2%80%98ala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yesud-hamaala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/yero%E1%BA%96am</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/yeroam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,12 +146,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yavne%E2%80%99el</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yavneel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/yavn%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/yavne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,7 +161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/yar%E1%BA%96iv</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/yariv</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/y%C4%81f%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/yafa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -191,17 +191,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98uzeir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/uzeir</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/umm-el-qu%E1%B9%AD%C5%ABf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/umm-el-quuf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/umm-el-fa%E1%B8%A5m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/umm-el-fam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,7 +211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/t%C5%ABb%C4%81-zangar%C4%ABya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/tuba-zangariya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/tifra%E1%BA%96</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/tifra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -241,7 +241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/tel-yits%E1%BA%96aq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/tel-yitsaq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -256,12 +256,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/tel-%E2%80%98adashim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/tel-adashim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/maalot-tarsh%C4%ABh%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/maalot-tarshiha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/tal-sha%E1%BA%96ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/tal-shaar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/s%C5%ABlam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sulam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -306,7 +306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/shefar%E2%80%98am</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/shefaram</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,22 +316,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yits%E1%BA%96aq-sha%E2%80%99ar-h%CC%B1efer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yitsaq-shaar-hefer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/sha%E2%80%98ar-efrayim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/shaar-efrayim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/sha%E2%80%98alvim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/shaalvim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sha%E2%80%98av</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/shaav</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -346,7 +346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sde-ya%E2%80%98aqov</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sde-yaaqov</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,7 +356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/sde-%E2%80%98uziyyahu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/sde-uziyyahu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -366,12 +366,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sde-ne%E1%BA%96emya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sde-neemya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/sde-h%CC%B1emed</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/sde-hemed</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,22 +381,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E1%B9%A3andala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sandala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sakhn%C4%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sakhnin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/s%C4%81j%C5%ABr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/sajur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/rumm%C4%81na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/rummana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -406,7 +406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/rosh-ha%E2%80%98ayin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/rosh-haayin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -426,7 +426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ri%E1%BA%96aniya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/rianiya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -446,7 +446,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/re%E1%BA%96ovot</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/reovot</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,7 +471,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ramat-yo%E1%BA%96anan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ramat-yoanan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -486,7 +486,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ramat-hakov%C3%A9sh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ramat-hakovesh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +501,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ra'anana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/raanana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/qiryat-ye%E2%80%98arim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/qiryat-yearim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -516,7 +516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/qiryat-tiv%E2%80%98on</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/qiryat-tivon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,7 +531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/qiryat-mal%E2%80%99akhi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/qiryat-malakhi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -571,7 +571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/peta%E1%BA%96-tiqva</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/peta-tiqva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -596,12 +596,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/%E2%80%98omer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/omer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/%E2%80%98olesh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/olesh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -616,7 +616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ni%E1%BA%95%E1%BA%95an%C3%A9-%E2%80%98oz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/niane-oz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -671,7 +671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/ne%E1%BA%96usha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/neusha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -681,12 +681,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ne%E1%BA%96alim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/nealim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/na%E1%BA%95erat-%E2%80%98illit</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/naerat-illit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -696,12 +696,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/n%C4%81%E2%80%98%C5%ABra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/naura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/na%E1%B8%A5f</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/naf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -711,12 +711,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/na%E2%80%98an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/naan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/mu%E1%B9%A3mu%E1%B9%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/musmus</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -726,7 +726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/motsa-%E2%80%98illit</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/motsa-illit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -751,7 +751,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/mishmar-ha%E2%80%98emeq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/mishmar-haemeq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -761,12 +761,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/mi%E2%80%98ily%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/miilya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/migdal-ha%E2%80%98emeq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/migdal-haemeq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -791,7 +791,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/mena%E1%BA%96emya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/menaemya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -811,7 +811,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/matslia%E1%BA%96</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/matslia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -821,22 +821,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/mash%E2%80%98%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/mashen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ma%E2%80%99or</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/maor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/majd-el-kur%C5%ABm</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/majd-el-kurum</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/magh%C4%81r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/maghar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -846,17 +846,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/ma%E2%80%98galim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/magalim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/mabbu%E2%80%98im</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/mabbuim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ma%E2%80%98agan-mikha%E2%80%99el</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/maagan-mikhael</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,7 +871,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/lahavot-h%CC%B1aviva</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/lahavot-haviva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -936,12 +936,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/kfar-mena%E1%BA%96em</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/kfar-menaem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kfar-h%CC%B1ittim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kfar-hittim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,22 +951,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kfar-haro%E2%80%99e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kfar-haroe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/ni%E1%BA%95%E1%BA%95an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/nian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kfar-h%CC%B1abad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kfar-habad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/qiryat-%E2%80%98eqron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/qiryat-eqron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -976,12 +976,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kaukab-ab%C5%AB-el-h%C4%ABj%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kaukab-abu-el-hija</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/karmi%E2%80%99el</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/karmiel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -991,42 +991,42 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kafr-q%C4%81sim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kafr-qasim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/kafr-qari%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/kafr-qari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-mi%E1%B9%A3r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-misr</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-mand%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-manda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-kann%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-kanna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-kamm%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kafr-kamma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kafr-bar%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kafr-bara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/k%C4%81b%C5%ABl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kabul</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1036,7 +1036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/j%C5%ABlis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/julis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1046,12 +1046,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/jisr-ez-zarq%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/jisr-ez-zarqa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/j%C4%ABsh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/jish</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1061,52 +1061,52 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/jalj%C5%ABlya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/jaljulya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/%E2%80%98isfiy%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/isfiya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98il%C5%AB%E1%B9%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ilu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/iks%C4%81l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/iksal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ib%E1%B9%AD%C4%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/ibin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/i%E2%80%98bill%C4%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ibillin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E1%B8%A5urfeish</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/urfeish</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/h%CC%B1ulda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/hulda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/h%CC%B1osen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hosen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/tel-aviv/h%CC%B1olon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/tel-aviv/holon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1121,12 +1121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/h%CC%B1erut</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/herut</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/h%CC%B1emed</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/hemed</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1136,17 +1136,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hazore%E2%80%98im</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hazoreim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/h%CC%B1atsor-hagelilit</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hatsor-hagelilit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/h%CC%B1agor</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/hagor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1156,27 +1156,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/giv%E2%80%98at-ye%E2%80%98arim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/givat-yearim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/tel-aviv/giv'at-shmuel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/tel-aviv/givat-shmuel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/giv%E2%80%98ati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/givati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/giv%E2%80%98at-h%CC%B1ayyim-i%E1%BA%96ud</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/givat-hayyim-iud</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/giv%E2%80%98at-brenner</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/givat-brenner</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1196,7 +1196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/geva%E2%80%98-karmel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/geva-karmel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1221,7 +1221,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/fass%C5%ABta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/fassuta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1231,17 +1231,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/even-shemu%E2%80%99el</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/even-shemuel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/e%E1%B9%AD-%E1%B9%AD%C4%ABra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/e-ira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/e%E1%B9%AD-%E1%B9%ADaiyiba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/e-aiyiba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1251,12 +1251,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/eshta%E2%80%99ol</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/eshtaol</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/esh-sheikh-dann%C5%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/esh-sheikh-dannun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1266,7 +1266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98en-ya%E2%80%98aqov</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/en-yaaqov</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1281,22 +1281,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98en-hamifrats</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/en-hamifrats</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98en-dor</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/en-dor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/%E2%80%98en-boqeq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/en-boqeq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/%E2%80%98en-ayyala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/en-ayyala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1311,17 +1311,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/el-mazra%E2%80%98a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/el-mazraa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/elishama%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/elishama</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/el-fureid%C4%ABs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/el-fureidis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1331,17 +1331,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/%E2%80%98ein-r%C4%81fa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/ein-rafa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98ein-m%C4%81hil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ein-mahil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98eilabun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/eilabun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1356,7 +1356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/deir-%E1%B8%A5ann%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/deir-anna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1371,7 +1371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/dabb%C5%ABr%C4%ABya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/dabburiya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1386,22 +1386,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/buqei%E2%80%98a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/buqeia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bu%E2%80%98eina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bueina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/bi%E1%BA%95%E1%BA%95aron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/biaron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/b%C4%ABr-el-maks%C5%ABr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bir-el-maksur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1411,7 +1411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bi%E2%80%99na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1421,12 +1421,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yits%E1%BA%96aq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yitsaq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yehoshua%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-yehoshua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1436,7 +1436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bet-she%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bet-shean</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1451,7 +1451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-h%CC%B1ilqiyya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-hilqiyya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1466,17 +1466,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-gamli%E2%80%99%C3%A9l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-gamliel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/bet-%E2%80%98ezra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/bet-ezra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-el%E2%80%98azari</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-elazari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1486,7 +1486,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-%E2%80%98arif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-arif</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1506,7 +1506,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bne-re%E2%80%99em</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bne-reem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1536,7 +1536,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/be%E2%80%99er-ya%E2%80%98aqov</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/beer-yaaqov</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1546,17 +1546,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/be%E2%80%99erotayim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/beerotayim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/be%E2%80%99er-ora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/beer-ora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/be%E2%80%99eri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/beeri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1571,7 +1571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/basmat-%E1%B9%ADab%E2%80%98%C5%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/basmat-abun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1581,17 +1581,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/b%C4%81qa-el-gharb%C4%ABya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/baqa-el-gharbiya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/ba%E1%BA%96an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/baan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/%E2%80%98azriqam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/azriqam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1601,7 +1601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ayyelet-hasha%E1%BA%96ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ayyelet-hashaar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1616,7 +1616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ashdot-ya%E2%80%98aqov-i%E1%BA%96ud</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ashdot-yaaqov-iud</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1626,12 +1626,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/%E2%80%98arugot</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/arugot</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/%E2%80%98ar%E2%80%98ara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/arara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1641,7 +1641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/%E2%80%98amminadav</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/amminadav</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1651,17 +1651,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/a%E1%BA%96ituv</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/aituv</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/a%E1%BA%96isamakh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/aisamakh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/a%E1%BA%96i%E2%80%98ezer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/aiezer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1676,12 +1676,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ab%C5%AB-sin%C4%81n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/abu-sinan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/ab%C5%AB-ghaush</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/abu-ghaush</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1691,7 +1691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hosha%E2%80%98ya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hoshaya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1726,7 +1726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-h%CC%B1ashmonay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bet-hashmonay</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1736,7 +1736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/h%CC%B1aspin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/haspin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1766,7 +1766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98aramsha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/aramsha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1776,12 +1776,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/a%E1%BA%96uzzat-baraq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/auzzat-baraq</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/giv%E2%80%98at-avni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/givat-avni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1791,17 +1791,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kokhav-ya%E2%80%99ir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/kokhav-yair</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bat-h%CC%B1efer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/bat-hefer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/h%CC%B1arish</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/harish</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1811,12 +1811,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/karm%C3%A9-yosef</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/karme-yosef</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/%E2%80%98ein-naq%C5%ABb%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/jerusalem/ein-naquba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1886,7 +1886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/giv%E2%80%98at-ela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/givat-ela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1896,7 +1896,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/ka%E2%80%98abiyya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kaabiyya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1911,22 +1911,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/%E2%80%98adi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/adi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bar-yu%E1%BA%96ay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bar-yuay</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/h%CC%B1amam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/hamam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/tel-sheva%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/tel-sheva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1941,17 +1941,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/khirbat-abu-tul%C5%ABl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/khirbat-abu-tulul</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/%E2%80%98ar%E2%80%98ara-banegev</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/arara-banegev</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/h%CC%B1ura</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/hura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1966,7 +1966,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/el%E2%80%98ad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/elad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1986,7 +1986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/mansh%C4%AByet-zabda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/manshiyet-zabda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1996,12 +1996,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/giv%E2%80%98at-h%CC%B1ayyim-me%E2%80%99u%E1%BA%96ad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/central-district/givat-hayyim-meuad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/giv'ot-bar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/givot-bar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2011,7 +2011,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/bu'ayna-nujaydat</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/buayna-nujaydat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2026,7 +2026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kisra---sume'a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/kisra-sumea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2041,7 +2041,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/be'er-ganim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/southern-district/beer-ganim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2066,7 +2066,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/binyamina-giv'at-ada</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/haifa/binyamina-givat-ada</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2086,7 +2086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/shibli%E2%80%93umm-al-ghanam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/israel/northern-district/shibli-umm-al-ghanam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

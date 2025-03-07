@@ -71,7 +71,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/anosy/t%C3%B4lanaro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/anosy/tolanaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,7 +321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/sava/iharan%CC%88a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/sava/iharana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,7 +361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoron'i-mania/fandriana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoroni-mania/fandriana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -576,7 +576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoron'i-mania/ambositra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoroni-mania/ambositra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -646,7 +646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoron'i-mania/ambatofinandrahana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoroni-mania/ambatofinandrahana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

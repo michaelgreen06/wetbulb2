@@ -51,7 +51,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gyeonggi-do/yangp'y%C5%8Fng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gyeonggi-do/yangpyng</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/w%C5%8Fnju</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/wnju</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -116,7 +116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/t%E2%80%99aebaek</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/taebaek</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -366,7 +366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/jeollabuk-do/koch'ang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/jeollabuk-do/kochang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -446,7 +446,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/hongch%E2%80%99%C5%8Fn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gangwon-do/hongchn</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,7 +501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/north-chungcheong/chinch'%C5%8Fn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/north-chungcheong/chinchn</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -561,7 +561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/chungcheongnam-do/y%C5%8Fnmu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/chungcheongnam-do/ynmu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -606,12 +606,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gyeongsangnam-do/naes%C5%8F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/gyeongsangnam-do/naes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/daegu/hwaw%C5%8Fn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-korea/daegu/hwawn</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

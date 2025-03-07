@@ -186,12 +186,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/dib%C3%ABr-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/diber-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/durr%C3%ABs-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/durres-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -206,27 +206,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/gjirokast%C3%ABr-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/gjirokaster-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/kor%C3%A7%C3%AB-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/korce-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/kuk%C3%ABs-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/kukes-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/lezh%C3%AB-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/lezhe-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/shkod%C3%ABr-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/shkoder-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -236,7 +236,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/vlor%C3%AB-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/albania/vlore-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -261,12 +261,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-defla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-defla</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/a%C3%AFn-t%C3%A9mouchent</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/ain-temouchent</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -296,7 +296,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arr%C3%A9ridj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bordj-bou-arreridj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -311,12 +311,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9char</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bechar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/b%C3%A9ja%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/bejaia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,7 +396,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/m'sila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/msila</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -456,7 +456,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abb%C3%A8s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/sidi-bel-abbes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,7 +471,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/s%C3%A9tif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/setif</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -521,7 +521,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/t%C3%A9bessa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/algeria/tebessa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -576,7 +576,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/andorra/sant-juli%C3%A0-de-loria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/andorra/sant-julia-de-loria</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +596,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/b%C3%ADe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/bie</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,7 +626,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/hu%C3%ADla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/huila</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -666,7 +666,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/u%C3%ADge</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/angola/uige</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -696,7 +696,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/argentina/buenos-aires-f.d.</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/argentina/buenos-aires-fd</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -971,7 +971,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/ab%C5%9Feron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/abseron</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -986,22 +986,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/a%C4%9Fcab%C7%9Ddi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/agcabdi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/a%C4%9Fdam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/agdam</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/a%C4%9Fda%C5%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/agdas</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/a%C4%9Fstafa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/agstafa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1021,7 +1021,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/beyl%C9%99qan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/beyleqan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1031,7 +1031,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/da%C5%9Fk%C7%9Ds%C7%9Dn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/dasksn</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1056,17 +1056,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/g%C3%B6y%C3%A7ay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/goycay</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/g%C7%9Dnc%C7%9D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/gnc</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/hac%C4%B1qabul</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/haciqabul</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1101,7 +1101,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/la%C3%A7%C4%B1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/lacin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1111,7 +1111,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/l%C9%99nk%C9%99ran</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/lenkeran</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1121,7 +1121,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/ming%C7%9Dcevir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/mingcevir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1136,12 +1136,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/neft%C3%A7ala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/neftcala</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/o%C4%9Fuz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/oguz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1171,7 +1171,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/qubadl%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/qubadli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1181,7 +1181,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/saatl%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/saatli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1226,7 +1226,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/siy%C7%9Dz%C7%9Dn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/siyzn</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1251,22 +1251,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xank%C7%9Dndi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xankndi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xa%C3%A7maz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xacmaz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xocal%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xocali</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/x%C4%B1z%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/xizi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1296,22 +1296,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/z%C9%99rdab</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/zerdab</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/i%CC%87mi%C5%9Fli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/imisli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/%C5%9Famax%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/samaxi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/%C5%9F%C7%9Dmkir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/azerbaijan/smkir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1661,7 +1661,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/benin/ou%C3%A9m%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/benin/oueme</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1816,7 +1816,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/bolivia/potos%C3%AD-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/bolivia/potosi-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1836,12 +1836,12 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/bosnia/br%C4%8Dko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/bosnia/brcko</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/bosnia/federation-of-b%26h</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/bosnia/federation-of-bandh</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1951,7 +1951,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/amap%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/amapa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1966,12 +1966,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/cear%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/ceara</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/esp%C3%ADrito-santo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/espirito-santo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1981,12 +1981,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/goi%C3%A1s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/goias</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/maranh%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/maranhao</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2006,17 +2006,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/paran%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/parana</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/para%C3%ADba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/paraiba</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/par%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/para</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2026,7 +2026,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/piau%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/piaui</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2046,7 +2046,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/rond%C3%B4nia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/rondonia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2066,7 +2066,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/s%C3%A3o-paulo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/brazil/sao-paulo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2536,7 +2536,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/%C5%8Ft%C3%A2r-m%C3%A9anchey</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/tar-meanchey</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2736,27 +2736,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-domingos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-domingos</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-filipe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-filipe</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-miguel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-miguel</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-salvador-do-mundo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-salvador-do-mundo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-vicente</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-vicente</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2766,7 +2766,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/tarrafal-de-s%C3%A3o-nicolau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/tarrafal-de-sao-nicolau</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2851,12 +2851,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/k%C3%A9mo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/kemo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/lim-pend%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/lim-pende</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2866,12 +2866,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/mamb%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/mambere</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/mamb%C3%A9r%C3%A9-kad%C3%A9%C3%AF</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/mambere-kadei</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2881,17 +2881,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/nana-gr%C3%A9bizi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/nana-grebizi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/nana-mamb%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/nana-mambere</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/ombella-m'poko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/ombella-mpoko</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2911,12 +2911,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/ouham-pend%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/ouham-pende</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/sangha-mba%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/central-african-republic/sangha-mbaere</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2961,7 +2961,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/gu%C3%A9ra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/guera</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3011,12 +3011,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/n%E2%80%99djam%C3%A9na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ndjamena</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouada%C3%AF</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouadai</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3031,7 +3031,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjil%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjile</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3056,7 +3056,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/araucan%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/araucania</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3071,12 +3071,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/ays%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/aysen</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/biob%C3%ADo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/biobio</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3091,7 +3091,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/los-r%C3%ADos-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/los-rios-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3101,7 +3101,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/o'higgins-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/ohiggins-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3116,17 +3116,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/tarapac%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/tarapaca</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/valpara%C3%ADso</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/valparaiso</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/%C3%B1uble</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chile/nuble</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3311,22 +3311,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/atl%C3%A1ntico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/atlantico</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/bogota-d.c.</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/bogota-dc</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/bolivar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/boyac%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/boyaca</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3336,7 +3336,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/caquet%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/caqueta</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3356,7 +3356,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/choc%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/choco</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3366,12 +3366,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/c%C3%B3rdoba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/cordoba</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/guain%C3%ADa-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/guainia-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3401,7 +3401,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/nari%C3%B1o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/narino</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3416,7 +3416,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/quind%C3%ADo-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/quindio-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3451,7 +3451,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/vaup%C3%A9s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/colombia/vaupes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3476,7 +3476,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/comoros/moh%C3%A9li</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/comoros/moheli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3516,7 +3516,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/costa-rica/lim%C3%B3n-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/costa-rica/limon-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3526,7 +3526,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/costa-rica/san-jos%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/costa-rica/san-jose</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3566,7 +3566,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3581,12 +3581,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3606,7 +3606,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3636,7 +3636,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3651,12 +3651,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/camag%C3%BCey</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/camaguey</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/ciego-de-%C3%A1vila-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/ciego-de-avila-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3671,7 +3671,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/guant%C3%A1namo-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/guantanamo-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3681,7 +3681,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/holgu%C3%ADn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/holguin-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3706,12 +3706,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/pinar-del-r%C3%ADo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/pinar-del-rio</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/sancti-sp%C3%ADritus-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cuba/sancti-spiritus-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3771,42 +3771,42 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/jiho%C4%8Desk%C3%BD-kraj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/jihocesky-kraj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/karlovarsk%C3%BD-kraj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/karlovarsky-kraj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/kr%C3%A1lov%C3%A9hradeck%C3%BD-kraj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/kralovehradecky-kraj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/libereck%C3%BD-kraj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/liberecky-kraj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/moravskoslezsk%C3%BD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/moravskoslezsky</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/olomouck%C3%BD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/olomoucky</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/pardubick%C3%BD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/pardubicky</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/plze%C5%88-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/plzen-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3821,17 +3821,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/vyso%C4%8Dina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/vysocina</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/zl%C3%ADn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/zlin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/%C3%BAsteck%C3%BD-kraj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/czechia/ustecky-kraj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3881,7 +3881,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasa%C3%AF-oriental</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasai-oriental</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3966,7 +3966,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/%C3%A9quateur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/equateur</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4106,7 +4106,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4116,12 +4116,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-se%C3%ADbo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-seibo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4161,12 +4161,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monse%C3%B1or-nouel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monsenor-nouel</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4201,17 +4201,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/saman%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/samana</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-jos%C3%A9-de-ocoa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-jose-de-ocoa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4221,7 +4221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4231,7 +4231,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodr%C3%ADguez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodriguez</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4241,7 +4241,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/s%C3%A1nchez-ram%C3%ADrez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/sanchez-ramirez</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4291,12 +4291,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/laut%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/lautem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liqui%C3%A7%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/east-timor/liquica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4331,7 +4331,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bolivar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4341,7 +4341,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/ca%C3%B1ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/canar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4366,7 +4366,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/gal%C3%A1pagos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/galapagos</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4386,12 +4386,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4426,12 +4426,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/santo-domingo-de-los-ts%C3%A1chilas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/santo-domingo-de-los-tsachilas</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/sucumb%C3%ADos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/sucumbios</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4591,12 +4591,12 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/caba%C3%B1as</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cabanas</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4606,7 +4606,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4621,12 +4621,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4656,7 +4656,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4686,7 +4686,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/equatorial-guinea/ki%C3%A9-ntem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/equatorial-guinea/kie-ntem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4756,32 +4756,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/j%C3%A4rvamaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/jarvamaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/j%C3%B5gevamaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/jogevamaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/l%C3%A4%C3%A4ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/laane</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/l%C3%A4%C3%A4ne-virumaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/laane-virumaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/p%C3%A4rnumaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/parnumaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/p%C3%B5lvamaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/polvamaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4811,7 +4811,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/v%C3%B5rumaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/estonia/vorumaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4831,7 +4831,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/b%C4%ABnshangul-gumuz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/binshangul-gumuz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4876,7 +4876,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4886,7 +4886,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4901,7 +4901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/nor%C3%B0oyar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/nordoyar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4911,12 +4911,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/su%C3%B0uroy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/suduroy</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/v%C3%A1gar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/faroe-islands/vagar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4966,7 +4966,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-h%C3%A4me</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/finland/kanta-hame</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5046,12 +5046,12 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/auvergne-rh%C3%B4ne-alpes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/auvergne-rhone-alpes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/bourgogne-franche-comt%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/bourgogne-franche-comte</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5101,12 +5101,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/provence-alpes-c%C3%B4te-d'azur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/provence-alpes-cote-dazur</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/%C3%AEle-de-france</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/france/ile-de-france</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5131,22 +5131,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/%C3%AEles-australes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/iles-australes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/%C3%AEles-marquises</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/iles-marquises</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/%C3%AEles-tuamotu-gambier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/iles-tuamotu-gambier</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/%C3%AEles-du-vent</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/french-polynesia/iles-du-vent</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5161,12 +5161,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/haut-ogoou%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/haut-ogooue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/moyen-ogoou%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/moyen-ogooue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5181,17 +5181,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogoou%C3%A9-ivindo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogooue-ivindo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogoou%C3%A9-lolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogooue-lolo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogoou%C3%A9-maritime</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/gabon/ogooue-maritime</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5776,7 +5776,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/pet%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/peten</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5786,7 +5786,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/quich%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/quiche</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5796,7 +5796,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/sacatep%C3%A9quez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/sacatepequez</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5811,7 +5811,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/solol%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/solola</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5821,7 +5821,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/totonicap%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guatemala/totonicapan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5851,7 +5851,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/bok%C3%A9-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/boke-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5876,7 +5876,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/lab%C3%A9-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/labe-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5886,7 +5886,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/nz%C3%A9r%C3%A9kor%C3%A9-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea/nzerekore-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5896,7 +5896,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea-bissau/bafat%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea-bissau/bafata</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5921,7 +5921,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea-bissau/gab%C3%BA</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guinea-bissau/gabu</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6001,7 +6001,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6046,7 +6046,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/atl%C3%A1ntida-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/atlantida-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6061,7 +6061,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/col%C3%B3n-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/colon-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6071,22 +6071,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/cop%C3%A1n-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/copan-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/cort%C3%A9s-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/cortes-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/el-para%C3%ADso-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/el-paraiso-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/francisco-moraz%C3%A1n-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/francisco-morazan-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6096,7 +6096,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/intibuc%C3%A1-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/intibuca-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6121,7 +6121,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/santa-b%C3%A1rbara-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/honduras/santa-barbara-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6246,7 +6246,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/borsod-aba%C3%BAj-zempl%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/borsod-abauj-zemplen</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6256,27 +6256,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/b%C3%A1cs-kiskun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/bacs-kiskun</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/csongr%C3%A1d</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/csongrad</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/fej%C3%A9r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/fejer</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/gy%C5%91r-moson-sopron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/gyor-moson-sopron</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/hajd%C3%BA-bihar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/hajdu-bihar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6286,17 +6286,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/j%C3%A1sz-nagykun-szolnok</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/jasz-nagykun-szolnok</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/kom%C3%A1rom-esztergom</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/komarom-esztergom</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/n%C3%B3gr%C3%A1d</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/nograd</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6311,7 +6311,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/szabolcs-szatm%C3%A1r-bereg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/szabolcs-szatmar-bereg</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6326,7 +6326,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/veszpr%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/hungary/veszprem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6581,7 +6581,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/indonesia/bangka%E2%80%93belitung-islands</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/indonesia/bangka-belitung-islands</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6861,7 +6861,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iran/m%C4%81zandar%C4%81n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iran/mazandaran</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6936,7 +6936,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6956,7 +6956,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/b%C4%81bil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/babil</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6966,7 +6966,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6981,7 +6981,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbal%C4%81%CA%BC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbala</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7011,7 +7011,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7201,17 +7201,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/como%C3%A9-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/comoe-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/dengu%C3%A9l%C3%A9-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/denguele-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/g%C3%B4h-djiboua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/goh-djiboua</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7231,7 +7231,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/sassandra-marahou%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/sassandra-marahoue</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7241,7 +7241,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/vall%C3%A9e-du-bandama-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ivory-coast/vallee-du-bandama-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7321,7 +7321,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/jamaica/st.-elizabeth</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/jamaica/st-elizabeth</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7401,7 +7401,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/japan/hy%C5%8Dgo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/japan/hyogo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7641,7 +7641,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/jordan/ma%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/jordan/maan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7666,7 +7666,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kazakhstan/aktyubinskaya-oblast%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kazakhstan/aktyubinskaya-oblast</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7721,7 +7721,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kazakhstan/mangghysta%C5%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kazakhstan/mangghystau</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7911,7 +7911,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kenya/murang'a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kenya/muranga</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7971,7 +7971,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kenya/tharaka---nithi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kenya/tharaka-nithi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8031,7 +8031,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kuwait/al-a%E1%B8%A9mad%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kuwait/al-amadi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8051,7 +8051,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/kuwait/mub%C4%81rak-al-kab%C4%ABr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/kuwait/mubarak-al-kabir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8146,12 +8146,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/oud%C3%B4mxai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/oudomxai</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/ph%C3%B4ngsali</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/phongsali</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8186,7 +8186,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/x%C3%A9kong</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xekong</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8201,12 +8201,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/al%C5%ABksne-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/aluksne-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/aug%C5%A1daugava-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/augsdaugava-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8221,7 +8221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/c%C4%93sis-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/cesis-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8251,32 +8251,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/j%C4%93kabpils-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/jekabpils-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/j%C5%ABrmala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/jurmala</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/kr%C4%81slava-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/kraslava-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/kuld%C4%ABga-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/kuldiga-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/liep%C4%81ja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/liepaja</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/limba%C5%BEi-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/limbazi-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8286,7 +8286,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/l%C4%ABv%C4%81ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/livani</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8296,7 +8296,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/m%C4%81rupe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/marupe</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8311,7 +8311,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/prei%C4%BCu-novads</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/preilu-novads</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8321,17 +8321,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/ropa%C5%BEi-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/ropazi-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/r%C4%93zekne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/rezekne</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/r%C4%93zekne-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/rezekne-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8386,7 +8386,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/varak%C4%BC%C4%81ni-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/varaklani-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8401,12 +8401,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/%C4%81da%C5%BEi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/adazi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/%C4%B7ekava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/latvia/kekava</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8416,7 +8416,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/aakk%C3%A2r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/aakkar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8431,7 +8431,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/b%C3%A9qaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/beqaa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8446,7 +8446,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/nabat%C3%AEy%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lebanon/nabatiye</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8486,7 +8486,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lesotho/mohale's-hoek-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lesotho/mohales-hoek-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8496,7 +8496,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lesotho/qacha's-nek-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lesotho/qachas-nek-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8596,17 +8596,17 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-bu%C5%A3n%C4%81n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-butnan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-jabal-al-akh%E1%B8%91ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-jabal-al-akhar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-jaf%C4%81rah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-jafarah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8631,27 +8631,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-w%C4%81%E1%B8%A9%C4%81t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/al-waat</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/an-nuq%C4%81%C5%A3-al-khams</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/an-nuqat-al-khams</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/ash-sh%C4%81%C5%A3i%CA%BC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/ash-shati</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/az-z%C4%81wiyah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/az-zawiyah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/bangh%C4%81z%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/banghazi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8661,7 +8661,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/gh%C4%81t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/ghat</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8671,7 +8671,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/mi%C5%9Fr%C4%81tah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/misratah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8681,7 +8681,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/n%C4%81l%C5%ABt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/nalut</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8701,7 +8701,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/w%C4%81d%C4%AB-al-%E1%B8%A9ay%C4%81t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/libya/wadi-al-ayat</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8776,17 +8776,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaip%C4%97da-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/klaipeda-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampol%C4%97-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/marijampole-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panev%C4%97%C5%BEys</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/panevezys</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8796,7 +8796,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurag%C4%97-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/lithuania/taurage-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8891,7 +8891,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/macao/s%C3%A3o-francisco-xavier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/macao/sao-francisco-xavier</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8906,7 +8906,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoron'i-mania</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/madagascar/amoroni-mania</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9246,7 +9246,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/m%C3%A9naka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/menaka</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9256,12 +9256,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/s%C3%A9gou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/segou</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/taoud%C3%A9nit</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mali/taoudenit</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9291,7 +9291,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/bir%C5%BCebbu%C4%A1a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/birzebbua</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9311,7 +9311,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/g%C4%A7ajnsielem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/gajnsielem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9331,7 +9331,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-g%C5%BCira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-gzira</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9346,7 +9346,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-mellie%C4%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-melliea</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9366,7 +9366,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-%C4%A7amrun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/il-amrun</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9386,7 +9386,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/is-si%C4%A1%C4%A1iewi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/is-siiewi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9396,7 +9396,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ix-xag%C4%A7ra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ix-xagra</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9406,22 +9406,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ix-xg%C4%A7ajra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ix-xgajra</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/i%C5%BC-%C5%BCebbu%C4%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/iz-zebbu</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/i%C5%BC-%C5%BCejtun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/iz-zejtun</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/i%C5%BC-%C5%BCurrieq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/iz-zurrieq</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9431,7 +9431,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/l-g%C4%A7arb</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/l-garb</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9451,7 +9451,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/l-im%C4%A1arr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/l-imarr</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9516,7 +9516,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/saint-paul%E2%80%99s-bay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/saint-pauls-bay</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9536,7 +9536,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/tal-piet%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/tal-pieta</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9551,12 +9551,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ta%E2%80%99-ker%C4%8Bem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ta-kerem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ta%E2%80%99-xbiex</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/ta-xbiex</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9571,22 +9571,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/%C4%A7al-g%C4%A7arg%C4%A7ur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/al-gargur</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/%C4%A7al-g%C4%A7axaq</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/al-gaxaq</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/%C4%A7a%C5%BC-%C5%BCabbar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/az-zabbar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/%C4%A7a%C5%BC-%C5%BCebbu%C4%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/malta/az-zebbu</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9776,7 +9776,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9811,7 +9811,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/bou%C3%A9ni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/boueni</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9836,7 +9836,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/kani-k%C3%A9li</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/kani-keli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9846,7 +9846,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/m'tsangamouji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mayotte/mtsangamouji</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9956,7 +9956,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/michoac%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/michoacan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9966,7 +9966,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/m%C3%A9xico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/mexico</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9976,7 +9976,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/nuevo-le%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/nuevo-leon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9991,7 +9991,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/quer%C3%A9taro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/queretaro</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10001,7 +10001,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/san-luis-potos%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/san-luis-potosi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10036,7 +10036,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/yucat%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mexico/yucatan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10096,7 +10096,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/b%C4%83l%C5%A3i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/balti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10111,12 +10111,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/chi%C8%99in%C4%83u-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/chisinau-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/cimi%C5%9Flia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/cimislia</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10126,17 +10126,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/c%C4%83l%C4%83ra%C5%9Fi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/calarasi</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/c%C4%83u%C5%9Feni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/causeni</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/dondu%C5%9Feni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/donduseni</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10146,17 +10146,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/dub%C4%83sari-district</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/dubasari-district</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/flore%C5%9Fti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/floresti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/f%C4%83le%C8%99ti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/falesti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10171,7 +10171,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/h%C3%AEnce%C5%9Fti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/hincesti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10196,12 +10196,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/raionul-edine%C5%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/raionul-edinet</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/raionul-ocni%C5%A3a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/raionul-ocnita</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10211,7 +10211,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/r%C3%AE%C5%9Fcani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/riscani</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10221,12 +10221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/str%C4%83%C8%99eni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/straseni</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/s%C3%AEngerei</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/singerei</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10236,7 +10236,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/telene%C5%9Fti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/telenesti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10251,12 +10251,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/%C5%9Fold%C4%83ne%C5%9Fti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/soldanesti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/%C5%9Ftefan-vod%C4%83</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/moldova/stefan-voda</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10281,7 +10281,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/bayan-%C3%B6lgii-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/bayan-olgii-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10321,7 +10321,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/gov%C4%AD-sumber</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/gov-sumber</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10336,12 +10336,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/kh%C3%B6vsg%C3%B6l-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/khovsgol-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/middle-gov%C4%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/middle-gov</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10356,7 +10356,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/s%C3%BChbaatar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/suhbaatar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10371,12 +10371,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6mn%C3%B6gov%C4%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/omnogov</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6v%C3%B6rhangay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/ovorhangay</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10441,27 +10441,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/op%C5%A1tina-kola%C5%A1in</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/opstina-kolasin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/op%C5%A1tina-nik%C5%A1i%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/opstina-niksic</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/op%C5%A1tina-plav</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/opstina-plav</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/op%C5%A1tina-plu%C5%BEine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/opstina-pluzine</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/op%C5%A1tina-%C5%BEabljak</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/opstina-zabljak</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10476,7 +10476,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/ro%C5%BEaje-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/montenegro/rozaje-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10516,7 +10516,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/b%C3%A9ni-mellal-kh%C3%A9nifra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/beni-mellal-khenifra</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10531,12 +10531,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/dr%C3%A2a-tafilalet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/draa-tafilalet</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/f%C3%A8s-mekn%C3%A8s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/fes-meknes</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10546,7 +10546,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/la%C3%A2youne-sakia-el-hamra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/laayoune-sakia-el-hamra</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10561,7 +10561,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/rabat-sal%C3%A9-k%C3%A9nitra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/morocco/rabat-sale-kenitra</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10961,7 +10961,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/new-zealand/hawke's-bay-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/new-zealand/hawkes-bay-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11046,7 +11046,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/estel%C3%AD-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/esteli-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11061,7 +11061,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/le%C3%B3n-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/leon-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11101,7 +11101,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/r%C3%ADo-san-juan-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/nicaragua/rio-san-juan-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11146,7 +11146,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/niger/tillab%C3%A9ri-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/niger/tillaberi-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11361,7 +11361,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-korea/kangw%C5%8Fn-do</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-korea/kangwn-do</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11381,7 +11381,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-korea/p'y%C5%8Fngan-bukto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-korea/pyngan-bukto</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11606,7 +11606,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/mavrovo-and-rostu%C5%A1a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/mavrovo-and-rostusa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11686,7 +11686,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/sopi%C5%A1te</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/sopiste</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11771,7 +11771,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/%C4%8De%C5%A1inovo-oble%C5%A1evo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/north-macedonia/cesinovo-oblesevo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11821,7 +11821,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/m%C3%B8re-og-romsdal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/more-og-romsdal</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11851,7 +11851,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/tr%C3%B8ndelag</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/trondelag</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11866,7 +11866,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/%C3%B8stfold</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/norway/ostfold</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11936,7 +11936,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/pakistan/azad-jammu-and-kashmir(pok)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/pakistan/azad-jammu-and-kashmirpok</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11946,7 +11946,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/pakistan/gilgit-baltistan(pok)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/pakistan/gilgit-baltistanpok</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12006,27 +12006,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/chiriqu%C3%AD-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/chiriqui-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/cocl%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/cocle</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/col%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/colon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/dari%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/darien</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/ember%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/embera</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12046,17 +12046,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/ng%C3%B6be-bugl%C3%A9-comarca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/ngobe-bugle-comarca</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/panam%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/panama</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/panam%C3%A1-oeste-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/panama/panama-oeste-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12181,7 +12181,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/alto-paran%C3%A1-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/alto-parana-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12191,27 +12191,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/asunci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/asuncion</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/boquer%C3%B3n-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/boqueron-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/caaguaz%C3%BA-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/caaguazu-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/caazap%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/caazapa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/canindey%C3%BA</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/canindeyu</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12221,7 +12221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/concepci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/concepcion</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12231,12 +12231,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/guair%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/guaira</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/itap%C3%BAa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/itapua</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12246,7 +12246,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/paraguar%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/paraguari</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12261,7 +12261,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/%C3%B1eembuc%C3%BA-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/paraguay/neembucu-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12281,7 +12281,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/apur%C3%ADmac-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/apurimac-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12316,7 +12316,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/hu%C3%A1nuco-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/huanuco-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12381,7 +12381,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/san-mart%C3%ADn-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/peru/san-martin-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12566,12 +12566,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/poland/%C5%82%C3%B3d%C5%BA-voivodeship</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/poland/lodz-voivodeship</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/poland/%C5%9Bwi%C4%99tokrzyskie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/poland/swietokrzyskie</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12601,7 +12601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12651,12 +12651,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12676,7 +12676,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12721,7 +12721,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/a%C3%B1asco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/anasco</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12736,7 +12736,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/bayam%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/bayamon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12756,7 +12756,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/can%C3%B3vanas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/canovanas</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12766,7 +12766,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/cata%C3%B1o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/catano</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12796,7 +12796,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/comer%C3%ADo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/comerio</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12846,7 +12846,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/gu%C3%A1nica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/guanica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12876,7 +12876,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/juana-d%C3%ADaz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/juana-diaz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12896,7 +12896,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/las-mar%C3%ADas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/las-marias</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12906,7 +12906,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/lo%C3%ADza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/loiza</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12916,7 +12916,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/manat%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/manati</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12931,7 +12931,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/mayag%C3%BCez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/mayaguez</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12961,7 +12961,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/pe%C3%B1uelas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/penuelas</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12976,12 +12976,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/rinc%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/rincon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/r%C3%ADo-grande</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/rio-grande</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12996,7 +12996,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/san-germ%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/san-german</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13011,7 +13011,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/san-sebasti%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/puerto-rico/san-sebastian</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13091,17 +13091,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/balad%C4%AByat-ad-daw%E1%B8%A9ah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/baladiyat-ad-dawah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/balad%C4%AByat-ar-rayy%C4%81n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/baladiyat-ar-rayyan</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/mad%C4%ABnat-ash-sham%C4%81l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/qatar/madinat-ash-shamal</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13146,7 +13146,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/republic-of-congo/l%C3%A9koumou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/republic-of-congo/lekoumou</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13181,7 +13181,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/reunion/r%C3%A9union</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/reunion/reunion</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13206,7 +13206,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bac%C4%83u-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bacau-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13216,37 +13216,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bistri%C8%9Ba-n%C4%83s%C4%83ud-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bistrita-nasaud-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/boto%C8%99ani-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/botosani-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bra%C8%99ov-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/brasov-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/br%C4%83ila-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/braila-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bucure%C8%99ti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/bucuresti</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/buz%C4%83u-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/buzau-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/cara%C8%99-severin-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/caras-severin-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13256,7 +13256,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/constan%C8%9Ba-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/constanta-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13266,7 +13266,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/c%C4%83l%C4%83ra%C8%99i-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/calarasi-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13276,12 +13276,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/d%C3%A2mbovi%C8%9Ba-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/dambovita-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/gala%C8%9Bi-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/galati-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13306,12 +13306,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/ialomi%C8%9Ba-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/ialomita-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/ia%C8%99i-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/iasi-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13321,22 +13321,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/maramure%C5%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/maramures</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/mehedin%C8%9Bi-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/mehedinti-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/mure%C8%99-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/mures-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/neam%C8%9B-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/neamt-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13366,7 +13366,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/s%C4%83laj-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/salaj-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13376,7 +13376,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/timi%C8%99-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/timis-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13396,7 +13396,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/v%C3%A2lcea-county</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/romania/valcea-county</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13591,7 +13591,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/leningradskaya-oblast'</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/leningradskaya-oblast</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13641,7 +13641,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/north-ossetia%E2%80%93alania</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/north-ossetia-alania</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13731,7 +13731,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/st.-petersburg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/st-petersburg</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13816,7 +13816,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/zabaykalskiy-(transbaikal)-kray</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/russia/zabaykalskiy-transbaikal-kray</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13876,7 +13876,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/samoa/a'ana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/samoa/aana</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13891,7 +13891,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/samoa/gaga'ifomauga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/samoa/gagaifomauga</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13956,12 +13956,12 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sao-tome/pr%C3%ADncipe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sao-tome/principe</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sao-tome/s%C3%A3o-tom%C3%A9-island</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sao-tome/sao-tome-island</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13971,7 +13971,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/saudi-arabia/'asir-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/saudi-arabia/asir-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13996,7 +13996,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/saudi-arabia/ha'il-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/saudi-arabia/hail-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14071,7 +14071,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/k%C3%A9dougou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/kedougou</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14091,7 +14091,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/s%C3%A9dhiou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/sedhiou</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14101,7 +14101,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/thi%C3%A8s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/senegal/thies</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14156,7 +14156,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/seychelles/la-rivi%C3%A8re-anglaise</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/seychelles/la-riviere-anglaise</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14206,7 +14206,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/bansk%C3%A1-bystrica-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/banska-bystrica-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14216,7 +14216,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/ko%C5%A1ice-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/kosice-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14226,12 +14226,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/pre%C5%A1ov-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/presov-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/tren%C4%8D%C3%ADn-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/trencin-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14241,7 +14241,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/%C5%BEilina-region</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovakia/zilina-region</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14251,7 +14251,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdov%C5%A1%C4%8Dina-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ajdovscina-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14291,7 +14291,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/bre%C5%BEice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/brezice</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14316,12 +14316,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/diva%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/divaca</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/dom%C5%BEale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/domzale</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14361,7 +14361,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ho%C4%8De-slivnica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/hoce-slivnica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14386,7 +14386,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivan%C4%8Dna-gorica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ivancna-gorica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14406,12 +14406,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-so%C4%8Di-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kanal-ob-soci-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kidri%C4%8Devo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kidricevo</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14431,7 +14431,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ko%C4%8Devje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kocevje</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14446,12 +14446,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/kr%C5%A1ko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/krsko</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/la%C5%A1ko-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/lasko-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14491,7 +14491,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log%E2%80%93dragomer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/log-dragomer</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14511,7 +14511,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menge%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/menges</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14521,12 +14521,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/me%C5%BEica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/mezica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/miklav%C5%BE-na-dravskem-polju</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/miklavz-na-dravskem-polju</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14576,7 +14576,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ob%C4%8Dina-gorenja-vas-poljane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/obcina-gorenja-vas-poljane</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14591,7 +14591,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ormo%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ormoz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14606,7 +14606,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/polj%C4%8Dane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/poljcane</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14646,7 +14646,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rade%C4%8De-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/radece-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14661,17 +14661,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koro%C5%A1kem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ravne-na-koroskem</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ra%C4%8De-fram</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/race-fram</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ren%C4%8De-vogrsko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rence-vogrsko</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14686,12 +14686,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/roga%C5%A1ka-slatina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/rogaska-slatina</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ru%C5%A1e-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ruse-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14701,7 +14701,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/semi%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/semic</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14716,7 +14716,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/se%C5%BEana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sezana</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14736,7 +14736,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/stra%C5%BEa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/straza</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14761,12 +14761,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/tr%C5%BEi%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/trzic</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/turni%C5%A1%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/turnisce</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14806,92 +14806,92 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zre%C4%8De-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zrece-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Dren%C5%A1ovci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crensovci</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Drna-na-koro%C5%A1kem-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crna-na-koroskem-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C4%8Drnomelj-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/crnomelj-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1empeter-vrtojba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sempeter-vrtojba</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1entilj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentilj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1entjernej</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sentjernej</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1en%C4%8Dur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sencur</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofja-loka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofja-loka</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1kofljica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/skofljica</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1marje-pri-jel%C5%A1ah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/smarje-pri-jelsah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1martno-pri-litiji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/smartno-pri-litiji</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1o%C5%A1tanj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/sostanj</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%A1tore</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/store</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEalec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zalec</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEelezniki-municipality</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zelezniki-municipality</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEiri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/ziri</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/%C5%BEu%C5%BEemberk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/slovenia/zuzemberk</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15266,7 +15266,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/spain/castille-and-le%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/spain/castille-and-leon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15471,7 +15471,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/soufri%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/soufriere</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15521,12 +15521,12 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15581,7 +15581,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15716,7 +15716,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/g%C3%A4vleborg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/gavleborg</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15726,12 +15726,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/j%C3%A4mtland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/jamtland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/j%C3%B6nk%C3%B6ping</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/jonkoping</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15751,7 +15751,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/sk%C3%A5ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/skane</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15761,7 +15761,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/s%C3%B6dermanland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/sodermanland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15771,37 +15771,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/v%C3%A4rmland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/varmland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/v%C3%A4sterbotten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/vasterbotten</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/v%C3%A4sternorrland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/vasternorrland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/v%C3%A4stmanland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/vastmanland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/v%C3%A4stra-g%C3%B6taland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/vastra-gotaland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/%C3%B6rebro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/orebro</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/%C3%B6sterg%C3%B6tland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sweden/ostergotland</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15871,7 +15871,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16216,7 +16216,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tanzania/zanzibar-central%2Fsouth</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tanzania/zanzibar-centralsouth</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16226,7 +16226,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tanzania/zanzibar-urban%2Fwest</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tanzania/zanzibar-urbanwest</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16651,7 +16651,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penal%2Fdebe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/penaldebe</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16676,7 +16676,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/san-juan%2Flaventille</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/san-juanlaventille</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16696,7 +16696,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapuna%2Fpiarco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tobago/tunapunapiarco</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16736,7 +16736,7 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/ha%E2%80%98apai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/haapai</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16746,12 +16746,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/vava%E2%80%98u</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/vavau</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/%CA%BBeua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tonga/eua</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16776,12 +16776,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tunisia/b%C3%A9ja-governorate</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tunisia/beja-governorate</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/tunisia/gab%C3%A8s-governorate</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/tunisia/gabes-governorate</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16891,7 +16891,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/ad%C4%B1yaman-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/adiyaman-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16931,22 +16931,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/ayd%C4%B1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/aydin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/a%C4%9Fr%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/agri</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/bal%C4%B1kesir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/balikesir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/bart%C4%B1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/bartin</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16966,7 +16966,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/bing%C3%B6l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/bingol</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17001,12 +17001,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/diyarbak%C4%B1r-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/diyarbakir-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/d%C3%BCzce</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/duzce</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17016,7 +17016,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/elaz%C4%B1%C4%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/elazig</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17031,7 +17031,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/eski%C5%9Fehir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/eskisehir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17046,12 +17046,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/g%C3%BCm%C3%BC%C5%9Fhane-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/gumushane-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/hakk%C3%A2ri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/hakkari</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17071,17 +17071,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/i%C4%9Fd%C4%B1r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/igdir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kahramanmara%C5%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kahramanmaras</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/karab%C3%BCk-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/karabuk-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17121,22 +17121,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/k%C3%BCtahya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kutahya</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/k%C4%B1rklareli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kirklareli</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/k%C4%B1r%C4%B1kkale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kirikkale</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/k%C4%B1r%C5%9Fehir</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/kirsehir</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17161,22 +17161,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/mu%C4%9Fla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/mugla</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/mu%C5%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/mus</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/nev%C5%9Fehir-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/nevsehir-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/ni%C4%9Fde-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/nigde-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17221,7 +17221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/tekirda%C4%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/tekirdag</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17241,7 +17241,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/u%C5%9Fak</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/usak</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17266,27 +17266,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/%C3%A7ank%C4%B1r%C4%B1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/cankiri</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/%C3%A7orum</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/corum</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/i%CC%87zmir-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/izmir-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/%C5%9Fanl%C4%B1urfa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/sanliurfa</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/%C5%9F%C4%B1rnak</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkey/sirnak</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17311,7 +17311,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkmenistan/da%C5%9Foguz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/turkmenistan/dasoguz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17421,7 +17421,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ukraine/kharkivs%E2%80%99ka-oblast%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ukraine/kharkivska-oblast</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17546,12 +17546,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/united-arab-emirates/im%C4%81rat-umm-al-qaywayn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/united-arab-emirates/imarat-umm-al-qaywayn</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/united-arab-emirates/ra%CA%BCs-al-khaymah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/united-arab-emirates/ras-al-khaymah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17901,7 +17901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/paysand%C3%BA-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/paysandu-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17916,7 +17916,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/r%C3%ADo-negro-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/rio-negro-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17926,7 +17926,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/san-jos%C3%A9-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/san-jose-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17936,7 +17936,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/tacuaremb%C3%B3-department</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/uruguay/tacuarembo-department</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18061,7 +18061,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/anzo%C3%A1tegui</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/anzoategui</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18081,7 +18081,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/bolivar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18111,12 +18111,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/falc%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/falcon</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/gu%C3%A1rico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/guarico</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18136,7 +18136,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/m%C3%A9rida</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/merida</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18161,7 +18161,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/t%C3%A1chira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/venezuela/tachira</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18191,52 +18191,52 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%C3%A0-r%E1%BB%8Ba%E2%80%93v%C5%A9ng-t%C3%A0u-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ba-ria-vung-tau-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%C3%ACnh-d%C6%B0%C6%A1ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/binh-duong-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%C3%ACnh-ph%C6%B0%E1%BB%9Bc-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/binh-phuoc-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%C3%ACnh-thu%E1%BA%ADn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/binh-thuan-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%C3%ACnh-%C4%91%E1%BB%8Bnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/binh-djinh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%E1%BA%A1c-li%C3%AAu-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/bac-lieu-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%E1%BA%AFc-giang-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/bac-giang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%E1%BA%AFc-k%E1%BA%A1n-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/bac-kan-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%E1%BA%AFc-ninh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/bac-ninh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/b%E1%BA%BFn-tre-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ben-tre-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18246,12 +18246,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/cao-b%E1%BA%B1ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/cao-bang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/c%C3%A0-mau-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ca-mau-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18281,47 +18281,47 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%C3%A0-giang-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ha-giang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%C3%A0-nam-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ha-nam-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%C3%A0-t%C4%A9nh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ha-tinh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%C3%B2a-b%C3%ACnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/hoa-binh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%C6%B0ng-y%C3%AAn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/hung-yen-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%E1%BA%A3i-d%C6%B0%C6%A1ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/hai-duong-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/h%E1%BA%ADu-giang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/hau-giang</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/kh%C3%A1nh-h%C3%B2a-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/khanh-hoa-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ki%C3%AAn-giang-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/kien-giang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18331,7 +18331,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/lai-ch%C3%A2u-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/lai-chau-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18341,162 +18341,162 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/l%C3%A0o-cai-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/lao-cai-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/l%C3%A2m-%C4%91%E1%BB%93ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/lam-djong-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/l%E1%BA%A1ng-s%C6%A1n-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/lang-son-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/nam-%C4%91%E1%BB%8Bnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/nam-djinh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ngh%E1%BB%87-an-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/nghe-an-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ninh-b%C3%ACnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ninh-binh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ninh-thu%E1%BA%ADn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ninh-thuan-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ph%C3%BA-th%E1%BB%8D-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/phu-tho-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ph%C3%BA-y%C3%AAn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/phu-yen-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/qu%E1%BA%A3ng-b%C3%ACnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/quang-binh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/qu%E1%BA%A3ng-nam-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/quang-nam-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/qu%E1%BA%A3ng-ng%C3%A3i-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/quang-ngai-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/qu%E1%BA%A3ng-ninh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/quang-ninh</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/qu%E1%BA%A3ng-tr%E1%BB%8B-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/quang-tri-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/s%C3%B3c-tr%C4%83ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/soc-trang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/s%C6%A1n-la-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/son-la-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/thanh-h%C3%B3a-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/thanh-hoa-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/th%C3%A1i-b%C3%ACnh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/thai-binh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/th%C3%A1i-nguy%C3%AAn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/thai-nguyen-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/th%E1%BB%ABa-thi%C3%AAn-hu%E1%BA%BF-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/thua-thien-hue-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/ti%E1%BB%81n-giang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tien-giang</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tr%C3%A0-vinh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tra-vinh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tuy%C3%AAn-quang-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tuyen-quang-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/t%C3%A2y-ninh-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/tay-ninh-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/v%C4%A9nh-long-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/vinh-long-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/v%C4%A9nh-ph%C3%BAc-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/vinh-phuc-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/y%C3%AAn-b%C3%A1i-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/yen-bai-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/%C4%91i%E1%BB%87n-bi%C3%AAn-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/djien-bien-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/%C4%91%C4%83k-n%C3%B4ng-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/djak-nong-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/%C4%91%E1%BA%AFk-l%E1%BA%AFk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/djak-lak</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/%C4%91%E1%BB%93ng-nai-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/djong-nai-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/%C4%91%E1%BB%93ng-th%C3%A1p-province</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/vietnam/djong-thap-province</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18556,12 +18556,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/a%E1%B8%91-%E1%B8%91%C4%81li%E2%80%98</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/a-ali</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/dham%C4%81r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/dhamar</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18571,12 +18571,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/la%E1%B8%A9ij</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/laij</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/ma%E2%80%99rib</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/marib</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18606,17 +18606,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/ta%E2%80%98izz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/taizz</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/%C5%9Fa%E2%80%98dah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/sadah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/%E1%B8%A9ajjah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/yemen/ajjah</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18731,17 +18731,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/%C3%A5land-islands</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/aland-islands</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/%C3%A5land-islands/mariehamns-stad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/aland-islands/mariehamns-stad</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/%C3%A5land-islands/%C3%A5lands-landsbygd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/aland-islands/alands-landsbygd</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

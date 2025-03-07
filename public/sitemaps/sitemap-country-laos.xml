@@ -21,7 +21,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/ph%C3%B4ngsali/ph%C3%B4ngsali</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/phongsali/phongsali</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,7 +31,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/oud%C3%B4mxai/muang-xay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/oudomxai/muang-xay</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,17 +46,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/x%C3%A9kong/ban-that%C3%A8ng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xekong/ban-thateng</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xiangkhoang/muang-ph%C3%B4nsavan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xiangkhoang/muang-phonsavan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/vientiane/muang-ph%C3%B4n-h%C3%B4ng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/vientiane/muang-phon-hong</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -71,12 +71,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/champasak-province/muang-kh%C3%B4ng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/champasak-province/muang-khong</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/khammouane-province/thakh%C3%A8k</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/khammouane-province/thakhek</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,7 +96,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/x%C3%A9kong/lamam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xekong/lamam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,7 +121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/x%C3%A9kong/sekong</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/laos/xekong/sekong</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

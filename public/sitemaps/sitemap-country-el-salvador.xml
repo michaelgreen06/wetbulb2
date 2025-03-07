@@ -11,12 +11,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/caba%C3%B1as/victoria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cabanas/victoria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/usulut%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/usulutan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,22 +31,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n/tenancingo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan/tenancingo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n/tecoluca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan/tecoluca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/tacuba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/tacuba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n/suchitoto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan/suchitoto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/sociedad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/sociedad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/caba%C3%B1as/sensuntepeque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cabanas/sensuntepeque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -86,7 +86,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-salvador-department/santo-tom%C3%A1s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-salvador-department/santo-tomas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,17 +96,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/santiago-de-mar%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/santiago-de-maria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/santa-rosa-de-lima</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/santa-rosa-de-lima</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/santa-elena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/santa-elena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -116,7 +116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-vicente-department/san-sebasti%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-vicente-department/san-sebastian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,7 +146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n/san-mart%C3%ADn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan/san-martin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,12 +161,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/san-francisco-men%C3%A9ndez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/san-francisco-menendez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/san-francisco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/san-francisco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,12 +176,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/san-alejo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/san-alejo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/san-agust%C3%ADn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/san-agustin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,12 +196,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/puerto-el-triunfo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/puerto-el-triunfo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/pasaquina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/pasaquina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,7 +211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/ozatl%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/ozatlan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,7 +221,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-libertad-department/nuevo-cuscatl%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-libertad-department/nuevo-cuscatlan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,12 +236,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/nueva-esparta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/nueva-esparta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/chalatenango-department/nueva-concepci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/chalatenango-department/nueva-concepcion</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -256,7 +256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/santa-ana-department/metap%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/santa-ana-department/metapan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,7 +271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/la-uni%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/la-union</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,32 +281,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/jujutla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/jujutla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/jucuar%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/jucuaran</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/jucuapa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/jucuapa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/sonsonate-department/juay%C3%BAa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/sonsonate-department/juayua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/jocoro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/jocoro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/jiquilisco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/jiquilisco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,7 +316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/intipuc%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/intipuca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,17 +331,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/guaymango</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/guaymango</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/guatajiagua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/guatajiagua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-miguel-department/el-tr%C3%A1nsito</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/san-miguel-department/el-transito</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -371,27 +371,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/corinto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/corinto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/conchagua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/conchagua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/concepci%C3%B3n-de-ataco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/concepcion-de-ataco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/concepci%C3%B3n-batres</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/concepcion-batres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatl%C3%A1n/cojutepeque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/cuscatlan/cojutepeque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,12 +441,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/moraz%C3%A1n/cacaopera</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/morazan/cacaopera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulut%C3%A1n/berl%C3%ADn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/usulutan/berlin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,7 +456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/atiquizaya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/atiquizaya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -476,17 +476,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-libertad-department/antiguo-cuscatl%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-libertad-department/antiguo-cuscatlan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-uni%C3%B3n/anamor%C3%B3s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/la-union/anamoros</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachap%C3%A1n/ahuachap%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/el-salvador/ahuachapan/ahuachapan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

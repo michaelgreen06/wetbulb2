@@ -21,7 +21,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -86,7 +86,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/z%C3%A4ziwil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/zaziwil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -116,12 +116,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/w%C3%BCrenlos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/wurenlos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/w%C3%BCrenlingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/wurenlingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-7)-%2F-witikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-7-witikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,7 +236,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wiesendangen-%2F-wiesendangen-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wiesendangen-wiesendangen-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,7 +246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-3)-%2F-alt-wiedikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-3-alt-wiedikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,7 +316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/w%C3%A4ngi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/wangi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,7 +391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -416,7 +416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/volketswil-%2F-volketswil-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/volketswil-volketswil-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,7 +471,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/villars-sur-gl%C3%A2ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/villars-sur-glane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,7 +501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/v%C3%A9troz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/vetroz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,7 +531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-(kreis-5)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-kreis-5</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -551,7 +551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/vand%C5%93uvres</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/vandoeuvres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -601,12 +601,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/appenzell-ausserrhoden/urn%C3%A4sch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/appenzell-ausserrhoden/urnasch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-%2F-unter-wetzikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-unter-wetzikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -636,7 +636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/illnau-%2F-unter-illnau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/illnau-unter-illnau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -656,7 +656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zug/unter%C3%A4geri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zug/unterageri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -766,12 +766,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/tr%C3%A9lex</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/trelex</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/travers</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/travers</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -786,7 +786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/t%C3%B6ss-(kreis-4)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/toss-kreis-4</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -856,7 +856,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/t%C3%A4uffelen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/tauffelen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -876,7 +876,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/t%C3%A4gerwilen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/tagerwilen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -986,7 +986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/st%C3%A4fa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stafa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1071,7 +1071,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seuzach-%2F-seuzach-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seuzach-seuzach-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1131,7 +1131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-11)-%2F-seebach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-11-seebach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1161,37 +1161,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/sch%C3%BCpfheim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/schupfheim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/sch%C3%BCpfen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/schupfen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/sch%C3%BCbelbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/schubelbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/sch%C3%B6tz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/schotz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/sch%C3%B6nenwerd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/schonenwerd</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/sch%C3%B6nenbuch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/schonenbuch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/sch%C3%B6ftland</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/schoftland</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1246,7 +1246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/sch%C3%A4nis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/schanis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1271,7 +1271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/savi%C3%A8se</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/saviese</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1316,7 +1316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/st.-moritz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/st-moritz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1366,7 +1366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/s%C3%A2les</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/sales</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1381,7 +1381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/saint-l%C3%A9onard</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/saint-leonard</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1401,12 +1401,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/saint-blaise</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/saint-blaise</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/saint-aubin-sauges</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/saint-aubin-sauges</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1416,7 +1416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/saignel%C3%A9gier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/saignelegier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1446,12 +1446,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/ruti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/r%C3%BCthi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/ruthi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1466,12 +1466,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCschlikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/ruschlikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/r%C3%BCschegg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/ruschegg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1481,12 +1481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCmlang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/rumlang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/r%C3%BCeggisberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/rueggisberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1501,7 +1501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/r%C3%BCderswil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/ruderswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1526,7 +1526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/r%C3%B6schenz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/roschenz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1551,7 +1551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/r%C3%B6merswil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/romerswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1606,7 +1606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-%2F-rikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-rikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1651,7 +1651,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/rh%C3%A4z%C3%BCns</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/rhazuns</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1706,7 +1706,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elsau-r%C3%A4terschen-%2F-r%C3%A4terschen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elsau-raterschen-raterschen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1841,22 +1841,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pf%C3%A4ffikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pfaffikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/pf%C3%A4ffikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/pfaffikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/peseux</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/peseux</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/p%C3%A9ry</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/pery</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1881,7 +1881,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/pal%C3%A9zieux</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/palezieux</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1906,7 +1906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/orsi%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/orsieres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1961,7 +1961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-11)-%2F-oerlikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-11-oerlikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1981,7 +1981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-%2F-ober-wetzikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-ober-wetzikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2006,7 +2006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/oberr%C3%BCti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/oberruti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2036,7 +2036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/oberg%C3%B6sgen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/obergosgen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2096,7 +2096,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/n%C3%BCrensdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/nurensdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2141,7 +2141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/niederg%C3%B6sgen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/niedergosgen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2151,7 +2151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/niederb%C3%BCren</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/niederburen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2191,7 +2191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/neuch%C3%A2tel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/neuchatel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2201,7 +2201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/neftenbach-%2F-dorf-neftenbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/neftenbach-dorf-neftenbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2216,12 +2216,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/n%C3%A4nikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/nanikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/glarus/n%C3%A4fels</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/glarus/nafels</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2231,7 +2231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/murten%2Fmorat</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/murtenmorat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2261,32 +2261,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/m%C3%BCntschemier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/muntschemier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/m%C3%BCnsterlingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/munsterlingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/m%C3%BCnsingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/munsingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/m%C3%BCnchwilen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/munchwilen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/m%C3%BCnchenstein</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/munchenstein</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/m%C3%BCnchenbuchsee</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/munchenbuchsee</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2296,17 +2296,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/m%C3%BCllheim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/mullheim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/m%C3%BChlethurnen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/muhlethurnen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/m%C3%BChleberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/muhleberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2331,7 +2331,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/m%C3%B6rschwil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/morschwil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2381,7 +2381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%B6nchaltorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/monchaltorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2391,7 +2391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/m%C3%B6hlin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/mohlin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2406,7 +2406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/m%C3%A9zi%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/mezieres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2546,7 +2546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/m%C3%A4rstetten-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/marstetten-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2561,7 +2561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%A4nnedorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mannedorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2626,7 +2626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/l%C3%BCtzelfl%C3%BCh</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/lutzelfluh</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2636,7 +2636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/l%C3%BCtisburg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/lutisburg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2766,12 +2766,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/les-ponts-de-martel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/les-ponts-de-martel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/les-geneveys-sur-coffrane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/les-geneveys-sur-coffrane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2781,7 +2781,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/les-brenets</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/les-brenets</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2826,12 +2826,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/le-locle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/le-locle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/le-landeron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/le-landeron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2891,12 +2891,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/l%C3%A4ufelfingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/laufelfingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/la-tour-de-tr%C3%AAme</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/la-tour-de-treme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2921,7 +2921,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/langnau-%2F-langnau-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/langnau-langnau-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2951,7 +2951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/la-chaux-de-fonds</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/la-chaux-de-fonds</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2961,22 +2961,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/k%C3%BCttigen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/kuttigen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/k%C3%BCssnacht</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/kussnacht</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/k%C3%BCnten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/kunten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3016,12 +3016,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/k%C3%B6niz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/koniz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/k%C3%B6lliken</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/kolliken</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3061,7 +3061,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/kleinl%C3%BCtzel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/kleinlutzel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3166,7 +3166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pf%C3%A4ffikon-%2F-irgenhausen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pfaffikon-irgenhausen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3211,7 +3211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/h%C3%BCttwilen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/huttwilen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3221,7 +3221,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zug/h%C3%BCnenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zug/hunenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3241,7 +3241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-10)-%2F-h%C3%B6ngg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-10-hongg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3256,7 +3256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/h%C3%B6lstein</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/holstein</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3281,7 +3281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hittnau-%2F-hittnau-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hittnau-hittnau-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3341,7 +3341,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/h%C3%A9r%C3%A9mence</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/heremence</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3371,12 +3371,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-(kreis-2)-%2F-hegi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-kreis-2-hegi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hausen-am-albis-%2F-hausen-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hausen-am-albis-hausen-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3391,22 +3391,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/h%C3%A4gglingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/hagglingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/h%C3%A4ggenschwil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/haggenschwil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/h%C3%A4gendorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/hagendorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/g%C3%BCttingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/guttingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3436,12 +3436,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/gruy%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/gruyeres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/gr%C3%BCsch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/grusch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3461,7 +3461,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/gr%C3%B4ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/grone</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3501,7 +3501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/gr%C3%A4nichen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/granichen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3511,7 +3511,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/grand-savagnier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/grand-savagnier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3521,7 +3521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/gr%C3%A4chen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/grachen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3541,7 +3541,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/gorgier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/gorgier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3651,7 +3651,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/gen%C3%A8ve</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/geneve</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3696,7 +3696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/f%C3%BCllinsdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/basel-landschaft/fullinsdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3761,7 +3761,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/fontainemelon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/fontainemelon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3776,12 +3776,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/fl%C3%BChli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/fluhli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/uri/fl%C3%BCelen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/uri/fluelen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3791,7 +3791,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/fleurier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/fleurier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3846,7 +3846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/f%C3%A4llanden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/fallanden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3856,7 +3856,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/evol%C3%A8ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/evolene</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3961,7 +3961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/nidwalden/ennetb%C3%BCrgen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/nidwalden/ennetburgen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4071,27 +4071,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/d%C3%BCrrenroth</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/durrenroth</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/d%C3%BCrren%C3%A4sch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/durrenasch</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCrnten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/durnten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/d%C3%BCdingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/dudingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCbendorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dubendorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4111,7 +4111,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/dombresson</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/dombresson</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4126,7 +4126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietlikon-%2F-dietlikon-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietlikon-dietlikon-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4161,7 +4161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/del%C3%A9mont</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/delemont</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4221,17 +4221,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/cressier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/cressier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/couvet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/couvet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/court%C3%A9telle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/jura/courtetelle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4276,7 +4276,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/cortaillod</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/cortaillod</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4286,7 +4286,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/cornaux</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/cornaux</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4296,7 +4296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/corg%C3%A9mont</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/corgemont</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4351,7 +4351,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/ch%C3%A9zard-saint-martin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/chezard-saint-martin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4366,12 +4366,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/chermignon-d'en-haut</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/chermignon-den-haut</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/ch%C3%AAne-bourg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/chene-bourg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4386,12 +4386,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/ch%C3%A2tel-saint-denis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/chatel-saint-denis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/ch%C3%A2teau-d'oex</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/chateau-doex</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4411,7 +4411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/champ%C3%A9ry</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/valais/champery</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4436,7 +4436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/cernier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/cernier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4511,7 +4511,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/b%C3%BCtschwil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/butschwil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4521,22 +4521,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/b%C3%BCsserach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/solothurn/busserach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/b%C3%BCron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/buron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/b%C3%BCrglen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/thurgau/burglen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/uri/b%C3%BCrglen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/uri/burglen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4561,12 +4561,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/b%C3%BClach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bulach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/appenzell-ausserrhoden/b%C3%BChler</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/appenzell-ausserrhoden/buhler</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4601,12 +4601,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/br%C3%BCttisellen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bruttisellen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/br%C3%BCtten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/brutten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4621,7 +4621,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/br%C3%BCgg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/brugg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4671,7 +4671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/bre%C3%ADl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/grisons/breil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4681,7 +4681,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/boudry</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/boudry</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4701,7 +4701,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/b%C3%B6singen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/fribourg/bosingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4716,7 +4716,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/b%C3%B6nigen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/bonigen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4796,12 +4796,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/bi%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/biere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/biel%2Fbienne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/bielbienne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4821,12 +4821,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/b%C3%A9vilard</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/bevilard</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/bevaix</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/bevaix</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4841,7 +4841,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/berom%C3%BCnster</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/lucerne/beromunster</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4926,7 +4926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/b%C3%A4tterkinden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/batterkinden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4951,12 +4951,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/b%C3%A4riswil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/bariswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/b%C3%A4retswil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/baretswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5001,12 +5001,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bachenb%C3%BClach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bachenbulach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/b%C3%A4ch</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schwyz/bach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5036,12 +5036,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/auvernier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/auvernier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-4)-%2F-aussersihl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-4-aussersihl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5141,7 +5141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/ani%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/anieres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5166,7 +5166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/altst%C3%A4tten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/altstatten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5236,7 +5236,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/aeschi-b.-spiez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/bern/aeschi-b-spiez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5296,7 +5296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/ch%C3%AAne-bougeries</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/chene-bougeries</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5311,17 +5311,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/th%C3%B4nex</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/geneva/thonex</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wettswil-%2F-wettswil-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wettswil-wettswil-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/sellenb%C3%BCren</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/sellenburen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5336,22 +5336,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-%2F-hasenb%C3%BCel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-hasenbuel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-%2F-oberdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-oberdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-%2F-unterdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-unterdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-%2F-sonnenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/affoltern-sonnenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5366,17 +5366,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/obfelden-%2F-oberlunnern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/obfelden-oberlunnern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/obfelden-%2F-toussen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/obfelden-toussen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wettswil-%2F-ausser-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wettswil-ausser-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5386,32 +5386,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/b%C3%BClach-%2F-solig%C3%A4nter</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bulach-soliganter</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/b%C3%BClach-%2F-gst%C3%BCckt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bulach-gstuckt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/b%C3%BClach-%2F-seematt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/bulach-seematt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietlikon-%2F-eichwiesen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietlikon-eichwiesen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/embrach-%2F-embrach-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/embrach-embrach-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/embrach-%2F-kellersacker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/embrach-kellersacker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5426,52 +5426,52 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/h%C3%B6ri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hori</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-kloten-(zentrum)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-kloten-zentrum</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-freienberg-(chanzler-chlini-chaseren)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-freienberg-chanzler-chlini-chaseren</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-horainli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-horainli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-geissberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-geissberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-hostrass</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-hostrass</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-holberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-holberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-balsberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-balsberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-spitz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-spitz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-%2F-r%C3%BCtlen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kloten-rutlen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5481,37 +5481,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/glattbrugg-%2F-wydacker%2Fbettacker%2Fl%C3%A4ttenwiesen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/glattbrugg-wydackerbettackerlattenwiesen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/grossacker%2Fopfikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/grossackeropfikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/glattbrugg-%2F-rohr%2Fplatten-balsberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/glattbrugg-rohrplatten-balsberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-%2F-wallisellen-west</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-wallisellen-west</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-%2F-wallisellen-ost</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-wallisellen-ost</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-%2F-rieden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wallisellen-rieden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%A4llikon-%2F-d%C3%A4llikon-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dallikon-dallikon-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5521,7 +5521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/niederglatt-%2F-niederglatt-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/niederglatt-niederglatt-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5531,12 +5531,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberglatt-%2F-oberglatt-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberglatt-oberglatt-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberglatt-%2F-bahnhofquartier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberglatt-bahnhofquartier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5551,32 +5551,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-%2F-hofacher-geeren</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-hofacher-geeren</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-%2F-feldblumen-riedthofstrasse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-feldblumen-riedthofstrasse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-%2F-obstgarten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/regensdorf-obstgarten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCmlang-%2F-r%C3%BCmlang-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/rumlang-rumlang-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/tann-%2F-tann-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/tann-tann-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/gr%C3%BCt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/grut</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5591,142 +5591,142 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCti-%2F-westlicher-dorfteil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/ruti-westlicher-dorfteil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCti-%2F-dorfzentrum%2C-s%C3%BCdl.-teil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/ruti-dorfzentrum-sudl-teil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/r%C3%BCti-%2F-oberdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/ruti-oberdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-%2F-robenhausen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-robenhausen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-%2F-kempten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wetzikon-kempten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-adliswil-(stadtkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-adliswil-stadtkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-oberleimbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-oberleimbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-sood</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-sood</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-h%C3%BCndli-zopf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-hundli-zopf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-sonnenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-sonnenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-%2F-tal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/adliswil-tal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-%2F-horgen-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-horgen-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-%2F-allmend</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-allmend</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-%2F-scheller-stockerstrasse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-scheller-stockerstrasse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-%2F-oberdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/horgen-oberdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kilchberg-%2F-b%C3%A4chler-stocken</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kilchberg-bachler-stocken</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kilchberg-%2F-kilchberg-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kilchberg-kilchberg-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/langnau-%2F-vitaquartier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/langnau-vitaquartier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%BChlehalde</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/muhlehalde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberrieden-%2F-mitte</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberrieden-mitte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberrieden-%2F-berg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberrieden-berg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-%2F-dorfkern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-%2F-richterswil-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-richterswil-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-%2F-burghalde</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/richterswil-burghalde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-%2F-dorfkern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-%2F-berg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-berg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-%2F-nord</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-nord</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-%2F-s%C3%BCd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-sud</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5736,92 +5736,92 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-dorf-(w%C3%A4denswil)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-dorf-wadenswil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/au-%2F-unter-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/au-unter-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/au-%2F-mittel-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/au-mittel-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-hangenmoos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-hangenmoos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-b%C3%BCelen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-buelen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-untermosen-fuhr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-untermosen-fuhr</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-leihof-m%C3%BChlebach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-leihof-muhlebach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-eichweid</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-eichweid</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%A4denswil-%2F-boller-giessen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wadenswil-boller-giessen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/erlenbach-%2F-rechts-des-dorfbachs-oberhalb-bahnlinie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/erlenbach-rechts-des-dorfbachs-oberhalb-bahnlinie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/erlenbach-%2F-links-des-dorfbachs-oberhalb-bahnlinie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/erlenbach-links-des-dorfbachs-oberhalb-bahnlinie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht-%2F-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht-%2F-goldbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht-goldbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht-%2F-itschnach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht-itschnach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht-%2F-schiedhalden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht-schiedhalden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/k%C3%BCsnacht-%2F-heslibach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kusnacht-heslibach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%A4nnedorf-%2F-dorfkern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mannedorf-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%A4nnedorf-%2F-ausserfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mannedorf-ausserfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5831,7 +5831,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uetikon-%2F-grossdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uetikon-grossdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5841,12 +5841,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-%2F-watt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-watt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-%2F-rappenhalde-bannhalde</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/effretikon-rappenhalde-bannhalde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5856,27 +5856,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pf%C3%A4ffikon-%2F-pf%C3%A4ffikon-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/pfaffikon-pfaffikon-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCbendorf-%2F-vogelquartier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dubendorf-vogelquartier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCbendorf-%2F-wasserfurren</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dubendorf-wasserfurren</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCbendorf-%2F-sonnenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dubendorf-sonnenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%BCbendorf-%2F-kunklerstrasse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dubendorf-kunklerstrasse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5896,12 +5896,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/greifensee-%2F-m%C3%BCllerwis-%2F-seilerwis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/greifensee-mullerwis-seilerwis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/greifensee-%2F-pfisterh%C3%B6lzli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/greifensee-pfisterholzli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5916,62 +5916,62 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/m%C3%B6nchaltorf-%2F-dorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/monchaltorf-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schwerzenbach-%2F-chimli</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schwerzenbach-chimli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schwerzenbach-%2F-blatten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schwerzenbach-blatten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-%2F-kirch-uster</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-kirch-uster</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-%2F-nieder-uster</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-nieder-uster</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-%2F-gschwader</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-gschwader</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-%2F-ober-uster</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-ober-uster</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-%2F-nossikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/uster-nossikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/n%C3%A4nikon-%2F-n%C3%A4nikon-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/nanikon-nanikon-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kindhausen-%2F-kindhausen-(dorf)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kindhausen-kindhausen-dorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hegnau-%2F-sunneb%C3%BCel-eich</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hegnau-sunnebuel-eich</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hegnau-%2F-dammboden-grindel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/hegnau-dammboden-grindel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5986,402 +5986,402 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elgg-%2F-st%C3%A4dtchen-und-umgebung</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elgg-stadtchen-und-umgebung</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seuzach-dorf-%2F-breite-weid</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seuzach-dorf-breite-weid</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-altstadt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-altstadt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-lind</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-lind</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-heiligberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-heiligberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-t%C3%B6ssfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-tossfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-br%C3%BChlberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-bruhlberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)-%2F-neuwiesen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1-neuwiesen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-(kreis-2)-%2F-talacker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-kreis-2-talacker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-(kreis-2)-%2F-guggenb%C3%BChl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-kreis-2-guggenbuhl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-(kreis-2)-%2F-zinzikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-kreis-2-zinzikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)-%2F-waser</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3-waser</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)-%2F-b%C3%BCelwiesen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3-buelwiesen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)-%2F-waldegg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3-waldegg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)-%2F-ganzenb%C3%BChl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3-ganzenbuhl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)-%2F-oberseen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3-oberseen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/t%C3%B6ss-(kreis-4)-%2F-vorder-d%C3%A4ttnau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/toss-kreis-4-vorder-dattnau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/t%C3%B6ss-(kreis-4)-%2F-schlosstal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/toss-kreis-4-schlosstal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/t%C3%B6ss-(kreis-4)-%2F-eichliacker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/toss-kreis-4-eichliacker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-(kreis-5)-%2F-rosenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-kreis-5-rosenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-(kreis-5)-%2F-blumenau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/veltheim-kreis-5-blumenau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%BClflingen-(kreis-6)-%2F-oberfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wulflingen-kreis-6-oberfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%BClflingen-(kreis-6)-%2F-lindenplatz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wulflingen-kreis-6-lindenplatz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%BClflingen-(kreis-6)-%2F-niederfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wulflingen-kreis-6-niederfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%BClflingen-(kreis-6)-%2F-h%C3%A4rti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wulflingen-kreis-6-harti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-(kreis-7)-%2F-deutweg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-kreis-7-deutweg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-(kreis-7)-%2F-gutschick</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-kreis-7-gutschick</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-(kreis-7)-%2F-endliker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-kreis-7-endliker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kollbrunn-%2F-kollbrunn-(dorfkern)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/kollbrunn-kollbrunn-dorfkern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-vorstadt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-vorstadt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-almend</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-almend</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-oberdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-oberdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-kreuzacker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-kreuzacker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-guggenb%C3%BChl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-guggenbuhl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-hofacker</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-hofacker</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-%2F-sch%C3%B6nenwerd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/dietikon-schonenwerd</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-%2F-zentrum</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-zentrum</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-%2F-sonnenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-sonnenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-%2F-rauchacher</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberengstringen-rauchacher</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-zentrum</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-zentrum</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-engstringerquartier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-engstringerquartier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-spital</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-spital</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-freiestrasse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-freiestrasse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-kamp</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-kamp</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-%2F-boden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/schlieren-boden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-%2F-bodenfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-bodenfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-%2F-moos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-moos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-%2F-oberurdorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/urdorf-oberurdorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-12)-%2F-auzelg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-12-auzelg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-11)-%2F-schwandenholz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-11-schwandenholz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-2)-%2F-mittel-leimbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-2-mittel-leimbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-2)-%2F-unter-leimbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-2-unter-leimbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-10)-%2F-wipkingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-10-wipkingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-10)-%2F-r%C3%BCtihof</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-10-rutihof</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-1)-%2F-rathaus</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-1-rathaus</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-11)-%2F-affoltern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-11-affoltern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-12)-%2F-saatlen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-12-saatlen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-12)-%2F-schwamendingen-mitte</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-12-schwamendingen-mitte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-12)-%2F-hirzenbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-12-hirzenbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-1)-%2F-lindenhof</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-1-lindenhof</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-1)-%2F-city</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-1-city</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-2)-%2F-wollishofen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-2-wollishofen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-2)-%2F-enge</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-2-enge</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-3)-%2F-friesenberg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-3-friesenberg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-3)-%2F-sihlfeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-3-sihlfeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-4)-%2F-werd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-4-werd</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-4)-%2F-langstrasse</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-4-langstrasse</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-4)-%2F-hard</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-4-hard</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-5)-%2F-gewerbeschule</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-5-gewerbeschule</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-5)-%2F-escher-wyss</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-5-escher-wyss</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-6)-%2F-unterstrass</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-6-unterstrass</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-6)-%2F-oberstrass</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-6-oberstrass</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-7)-%2F-fluntern</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-7-fluntern</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-7)-%2F-hottingen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-7-hottingen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-7)-%2F-hirslanden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-7-hirslanden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-8)-%2F-seefeld</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-8-seefeld</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-8)-%2F-m%C3%BChlebach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-8-muhlebach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-8)-%2F-weinegg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-8-weinegg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-9)-%2F-albisrieden</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-9-albisrieden</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-9)-%2F-altstetten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-9-altstetten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6406,27 +6406,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-(kreis-1)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/stadt-winterthur-kreis-1</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-5)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-5</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/d%C3%A4nikon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/danikon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-12)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-12</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/w%C3%BClflingen-(kreis-6)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/wulflingen-kreis-6</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6451,27 +6451,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-(kreis-3)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/seen-kreis-3</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-3)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-3</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-11)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-11</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-9)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-9</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-(kreis-2)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/oberwinterthur-kreis-2</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6481,17 +6481,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-10)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-10</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-2)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-2</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-8)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-8</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6506,17 +6506,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-1)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-1</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-(kreis-7)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/mattenbach-kreis-7</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-7)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-7</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6526,17 +6526,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/z%C3%BCrich-(kreis-6)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/zurich-kreis-6</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elsau-r%C3%A4terschen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/elsau-raterschen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-%2F-see</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/zurich/thalwil-see</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6551,7 +6551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/pr%C3%A9verenges</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/preverenges</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6591,12 +6591,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schaffhausen/l%C3%B6hningen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/schaffhausen/lohningen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/lauffohr-(brugg)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/aargau/lauffohr-brugg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6606,7 +6606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/haag-(rheintal)</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/saint-gallen/haag-rheintal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6641,7 +6641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuch%C3%A2tel/marin-epagnier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/neuchatel/marin-epagnier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6651,7 +6651,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/bl%C3%A9cherette</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/switzerland/vaud/blecherette</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { createReadStream } from 'fs';
 import JSONStream from 'JSONStream';
+import { toSlug } from '../lib/utils/string.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
@@ -19,10 +20,7 @@ if (!fs.existsSync(SITEMAPS_DIR)) {
 // Maximum URLs per sitemap (keeping under 10,000 as requested)
 const MAX_URLS_PER_SITEMAP = 9999;
 
-// Helper function to convert a string to a URL-friendly slug
-function toSlug(str) {
-  return encodeURIComponent(str.toLowerCase().replace(/\s+/g, '-'));
-}
+// We're now importing the proper toSlug function from lib/utils/string.js
 
 // Get a list of all countries from the dataset
 async function getAllCountries() {
@@ -96,7 +94,7 @@ async function generateSitemapIndex() {
     
     // Process this batch in parallel
     const batchPromises = countryBatch.map(async (country) => {
-      const countrySlug = encodeURIComponent(country.toLowerCase().replace(/\s+/g, '-'));
+      const countrySlug = toSlug(country);
       const partsCount = await getSitemapPartsForCountry(country);
       
       const countrySitemaps = [];

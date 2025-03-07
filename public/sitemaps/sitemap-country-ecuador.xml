@@ -21,12 +21,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/vinces</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/vinces</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/ventanas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/ventanas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -41,12 +41,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/carchi/tulc%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/carchi/tulcan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/tosagua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/tosagua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -56,22 +56,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/morona-santiago-province/suc%C3%BAa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/morona-santiago-province/sucua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/sucre</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/sucre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/saquisil%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/saquisili</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/santo-domingo-de-los-ts%C3%A1chilas/santo-domingo-de-los-colorados</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/santo-domingo-de-los-tsachilas/santo-domingo-de-los-colorados</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,7 +81,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/santa-luc%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/santa-lucia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,7 +91,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/santa-ana-de-vuelta-larga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/santa-ana-de-vuelta-larga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -101,7 +101,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bol%C3%ADvar/san-miguel-de-bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bolivar/san-miguel-de-bolivar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,12 +111,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/san-juan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/san-juan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/pichincha/sangolqu%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/pichincha/sangolqui</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,7 +126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/samborond%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/samborondon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,7 +141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/rocafuerte</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/rocafuerte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/quevedo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/quevedo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,12 +166,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/pujil%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/pujili</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/gal%C3%A1pagos/puerto-villamil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/galapagos/puerto-villamil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,17 +181,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/el-oro/puerto-bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/el-oro/puerto-bolivar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/gal%C3%A1pagos/puerto-baquerizo-moreno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/galapagos/puerto-baquerizo-moreno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/gal%C3%A1pagos/puerto-ayora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/galapagos/puerto-ayora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,7 +201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/portoviejo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/portoviejo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,7 +221,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/el-oro/pi%C3%B1as</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/el-oro/pinas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/tungurahua-province/p%C3%ADllaro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/tungurahua-province/pillaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,7 +246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/pedernales</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/pedernales</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,12 +266,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/palenque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/palenque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/paj%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/pajan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,12 +301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/montecristi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/montecristi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/montalvo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/montalvo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,7 +316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/manta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/manta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/loja/macar%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/loja/macara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,12 +356,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/azuay/la-uni%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/azuay/la-union</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/ca%C3%B1ar/la-troncal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/canar/la-troncal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -371,7 +371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/la-man%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/cotopaxi/la-mana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,17 +381,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/sucumb%C3%ADos/nueva-loja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/sucumbios/nueva-loja</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/jun%C3%ADn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/junin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/jipijapa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/jipijapa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,7 +411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bol%C3%ADvar/guaranda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/bolivar/guaranda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -446,7 +446,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/carchi/el-%C3%A1ngel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/carchi/el-angel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -466,7 +466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/coronel-marcelino-maridue%C3%B1a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/guayas/coronel-marcelino-mariduena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -476,7 +476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/chone</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/chone</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,7 +491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/catarama</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/catarama</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,17 +511,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/ca%C3%B1ar/ca%C3%B1ar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/canar/canar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/calceta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/calceta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/esmeraldas/pampanal-de-bol%C3%ADvar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/esmeraldas/pampanal-de-bolivar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,7 +531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/tungurahua-province/ba%C3%B1os</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/tungurahua-province/banos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -546,17 +546,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manab%C3%AD/bah%C3%ADa-de-car%C3%A1quez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/manabi/bahia-de-caraquez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-r%C3%ADos/babahoyo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/los-rios/babahoyo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/ca%C3%B1ar/azogues</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/canar/azogues</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -581,7 +581,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/chimborazo-province/alaus%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ecuador/chimborazo-province/alausi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

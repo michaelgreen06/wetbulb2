@@ -71,12 +71,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasa%C3%AF-oriental/miabi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasai-oriental/miabi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasa%C3%AF-oriental/mbuji-mayi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasai-oriental/mbuji-mayi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,7 +216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasa%C3%AF-oriental/kabeya-kamwanga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/kasai-oriental/kabeya-kamwanga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -431,7 +431,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/%C3%A9quateur/mbandaka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/equateur/mbandaka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,7 +451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/%C3%A9quateur/lukolela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/equateur/lukolela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -546,7 +546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/%C3%A9quateur/basankusu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dr-congo/equateur/basankusu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -11,7 +11,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/vila-vi%C3%A7osa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/vila-vicosa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21,12 +21,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/vila-velha-de-r%C3%B3d%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/vila-velha-de-rodao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/vila-real-de-santo-ant%C3%B3nio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/vila-real-de-santo-antonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -36,7 +36,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/vila-nova-da-barquinha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/vila-nova-da-barquinha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -56,7 +56,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/vila-ch%C3%A3-de-ourique</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/vila-cha-de-ourique</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,7 +91,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/vendas-novas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/vendas-novas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -101,12 +101,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/vale-de-santar%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/vale-de-santarem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/vale-de-figueira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/vale-de-figueira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -136,12 +136,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/tramagal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/tramagal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/trafaria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/trafaria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,12 +151,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/torres-novas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/torres-novas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/tomar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/tomar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/sobreda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/sobreda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -186,7 +186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sobral-de-monte-agra%C3%A7o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sobral-de-monte-agraco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,7 +196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/sines</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/sines</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,12 +211,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/sesimbra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/sesimbra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/set%C3%BAbal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/setubal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/sert%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/serta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,152 +246,152 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/seixal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/seixal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/sarilhos-pequenos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/sarilhos-pequenos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/sardoal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/sardoal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/s%C3%A3o-vicente-do-paul</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/sao-vicente-do-paul</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/s%C3%A3o-vicente</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/sao-vicente</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/s%C3%A3o-teot%C3%B3nio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/sao-teotonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/s%C3%A3o-roque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/sao-roque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-pedro-da-cadeira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-pedro-da-cadeira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/s%C3%A3o-miguel-de-rio-torto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/sao-miguel-de-rio-torto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/s%C3%A3o-martinho-do-porto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/sao-martinho-do-porto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/s%C3%A3o-martinho</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/sao-martinho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/s%C3%A3o-marcos-da-serra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/sao-marcos-da-serra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/s%C3%A3o-luis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/sao-luis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-juli%C3%A3o-do-tojal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-juliao-do-tojal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/s%C3%A3o-jorge</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/sao-jorge</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-jo%C3%A3o-dos-montes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-joao-dos-montes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-jo%C3%A3o-da-talha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-joao-da-talha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-jo%C3%A3o-das-lampas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-joao-das-lampas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/s%C3%A3o-gon%C3%A7alo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/sao-goncalo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-domingos-de-rana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-domingos-de-rana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/s%C3%A3o-br%C3%A1s-de-alportel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/sao-bras-de-alportel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/s%C3%A3o-bartolomeu-de-messines</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/sao-bartolomeu-de-messines</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-bartolomeu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-bartolomeu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/santo-ant%C3%B3nio-da-charneca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/santo-antonio-da-charneca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/santo-ant%C3%B3nio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/santo-antonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santo-ant%C3%A3o-do-tojal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santo-antao-do-tojal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/santo-andr%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/santo-andre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/santo-andr%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/santo-andre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/santiago-do-cac%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/santiago-do-cacem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/santar%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/santarem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -406,7 +406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/santa-margarida-da-coutada</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/santa-margarida-da-coutada</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,7 +421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santa-iria-da-az%C3%B3ia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santa-iria-da-azoia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -436,22 +436,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/santa-b%C3%A1rbara-de-nexe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/santa-barbara-de-nexe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/samouco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/samouco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/samora-correia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/samora-correia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/salvaterra-de-magos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/salvaterra-de-magos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,17 +471,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sacav%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sacavem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/rosairinho</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/rosairinho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/rio-maior</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/rio-maior</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -496,17 +496,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/riachos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/riachos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/reguengos-de-monsaraz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/reguengos-de-monsaraz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/redondo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/redondo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -516,12 +516,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/quinta-do-anjo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/quinta-do-anjo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/quinta-de-santo-ant%C3%B3nio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/quinta-de-santo-antonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -546,27 +546,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/proen%C3%A7a-a-nova</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/proenca-a-nova</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/praia-do-ribatejo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/praia-do-ribatejo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/pragal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/pragal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/p%C3%B3voa-de-santo-adri%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/povoa-de-santo-adriao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/p%C3%B3voa-de-santa-iria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/povoa-de-santa-iria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -581,12 +581,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/porto-de-m%C3%B3s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/porto-de-mos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/porto-de-m%C3%B3s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/porto-de-mos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -596,12 +596,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/porto-covo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/porto-covo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/portim%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/portimao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -621,12 +621,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/pont%C3%A9vel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/pontevel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/ponte-de-s%C3%B4r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/ponte-de-sor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -641,22 +641,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/poceir%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/poceirao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/pinheiro-grande</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/pinheiro-grande</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/pinhal-novo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/pinhal-novo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/piedade</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/piedade</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -666,7 +666,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/p%C3%AAra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/pera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -681,12 +681,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/pego</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/pego</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/pedr%C3%B3g%C3%A3o-grande</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/pedrogao-grande</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -706,12 +706,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/palmela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/palmela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/paialvo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/paialvo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -721,12 +721,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/pa%C3%A7o-de-arcos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/paco-de-arcos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/our%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/ourem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -751,7 +751,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/olhos-de-%C3%A1gua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/olhos-de-agua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -761,7 +761,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/olh%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/olhao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -796,7 +796,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/%C3%B3bidos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/obidos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -816,7 +816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/nazar%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/nazare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -836,7 +836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/montijo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/montijo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -851,7 +851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/montemor-o-novo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/montemor-o-novo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,17 +871,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/montalvo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/montalvo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/montalvinho</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/montalvinho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/monsanto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/monsanto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,7 +906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/moita</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/moita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -916,12 +916,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/minde</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/minde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/minas-de-s%C3%A3o-domingos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/minas-de-sao-domingos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -941,7 +941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/m%C3%A9rtola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/mertola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,7 +951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/meia-via</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/meia-via</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -961,7 +961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/massam%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/massama</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -971,7 +971,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/marv%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/marvao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -981,7 +981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/marinhais</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/marinhais</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1006,7 +1006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/madalena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/madalena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1036,12 +1036,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/lourinh%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/lourinha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/louri%C3%A7al</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/lourical</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1056,7 +1056,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/loul%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/loule</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1066,7 +1066,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/linh%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/linho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1081,7 +1081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/lavradio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/lavradio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1091,7 +1091,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/laranjeiro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/laranjeiro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1116,17 +1116,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/gr%C3%A2ndola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/grandola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/goleg%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/golega</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/gavi%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/gaviao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1156,7 +1156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/figueir%C3%B3-dos-vinhos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/figueiro-dos-vinhos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1181,12 +1181,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/fazendas-de-almeirim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/fazendas-de-almeirim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/f%C3%A1tima</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/fatima</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1196,17 +1196,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/fanh%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/fanhoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/fam%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/famoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/famalic%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/famalicao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1216,7 +1216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/faj%C3%A3-da-ovelha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/faja-da-ovelha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1226,17 +1226,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/%C3%A9vora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/evora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/estremoz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/estremoz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/estreito-de-c%C3%A2mara-de-lobos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/estreito-de-camara-de-lobos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1251,12 +1251,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/est%C3%B4mbar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/estombar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/est%C3%B3i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/estoi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1266,7 +1266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/entroncamento</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/entroncamento</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1296,7 +1296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/costa-de-caparica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/costa-de-caparica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1306,22 +1306,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/coruche</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/coruche</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/corroios</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/corroios</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/concei%C3%A7%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/conceicao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/comporta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/comporta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1346,12 +1346,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/charneca-de-caparica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/charneca-de-caparica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/cercal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/cercal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1406,7 +1406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/cartaxo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/cartaxo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1441,17 +1441,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/caparica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/caparica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/cani%C3%A7o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/canico</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/cani%C3%A7al</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/canical</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1461,7 +1461,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/cane%C3%A7as</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/canecas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1486,7 +1486,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/campan%C3%A1rio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/campanario</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1496,7 +1496,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/c%C3%A2mara-de-lobos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/camara-de-lobos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1531,12 +1531,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/cacilhas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/cacilhas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/cac%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/cacem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1546,7 +1546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/cabe%C3%A7a-gorda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/cabeca-gorda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1566,7 +1566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/%C3%A9vora/borba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/evora/borba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1616,12 +1616,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/benavente</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/benavente</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/bemfica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/bemfica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1631,7 +1631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/bel%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/belem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1646,7 +1646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/beato-ant%C3%B3nio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/beato-antonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1656,7 +1656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/barreiro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/barreiro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1686,7 +1686,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/azinhaga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/azinhaga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1731,17 +1731,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/arrentela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/arrentela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/arranh%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/arranho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/arma%C3%A7%C3%A3o-de-p%C3%AAra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/faro/armacao-de-pera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1756,17 +1756,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/apela%C3%A7%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/apelacao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/ansi%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/ansiao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/amora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/amora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1776,7 +1776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/ami%C3%A3es-de-baixo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/amiaes-de-baixo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1811,17 +1811,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/alter-do-ch%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/portalegre/alter-do-chao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alqueid%C3%A3o-da-serra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alqueidao-da-serra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/alpiar%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/alpiarca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1831,12 +1831,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/almod%C3%B4var</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/beja/almodovar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/almeirim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/almeirim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1851,7 +1851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/almada</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/almada</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1871,7 +1871,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/alhos-vedros</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/alhos-vedros</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1881,7 +1881,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/algueir%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/algueirao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1891,7 +1891,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alg%C3%A9s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alges</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1901,12 +1901,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/alferrarede</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/alferrarede</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alfeizer%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alfeizerao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1926,12 +1926,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/aldeia-de-paio-pires</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/aldeia-de-paio-pires</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alcoit%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alcoitao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1941,12 +1941,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/alcochete</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/alcochete</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alcoba%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/leiria/alcobaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1956,22 +1956,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alc%C3%A2ntara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/alcantara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/alcanh%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/alcanhoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/alcanena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/alcanena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/alcanede</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/alcanede</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1981,7 +1981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/alc%C3%A1cer-do-sal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/alcacer-do-sal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2001,7 +2001,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/%C3%A1gua-de-pena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/madeira/agua-de-pena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2021,7 +2021,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santar%C3%A9m/abrantes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/santarem/abrantes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2036,7 +2036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/vinhais</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/vinhais</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2066,7 +2066,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vilar-do-para%C3%ADso</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vilar-do-paraiso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2086,7 +2086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viana-do-castelo/vila-praia-de-%C3%A2ncora</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viana-do-castelo/vila-praia-de-ancora</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2106,12 +2106,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/vila-nova-de-foz-c%C3%B4a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/vila-nova-de-foz-coa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/vila-nova-de-famalic%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/vila-nova-de-famalicao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2121,7 +2121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vila-me%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vila-mea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2151,12 +2151,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/vila-ch%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/vila-cha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/vila%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/vilaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2181,12 +2181,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/v%C3%A1rzea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/varzea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/valpa%C3%A7os</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/valpacos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2201,7 +2201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/v%C3%A1lega</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/valega</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2226,7 +2226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vair%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/vairao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2256,7 +2256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/torre-de-moncorvo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/torre-de-moncorvo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2271,7 +2271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/tel%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/teloes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2301,12 +2301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/tabua%C3%A7o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/tabuaco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/t%C3%A1bua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/tabua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2396,7 +2396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/sendim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/sendim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2421,17 +2421,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/s%C3%A1t%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/satao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/s%C3%A3o-tiago-de-custoias</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sao-tiago-de-custoias</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/s%C3%A3o-roque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/sao-roque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2441,72 +2441,72 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/s%C3%A3o-rom%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/sao-romao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/s%C3%A3o-pedro-do-sul</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/sao-pedro-do-sul</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/s%C3%A3o-pedro-de-alva</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/sao-pedro-de-alva</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/s%C3%A3o-pedro-da-cova</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sao-pedro-da-cova</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/s%C3%A3o-paulo-de-frades</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/sao-paulo-de-frades</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/s%C3%A3o-miguel-do-couto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sao-miguel-do-couto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/s%C3%A3o-martinho-do-bispo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/sao-martinho-do-bispo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/s%C3%A3o-mamede-de-infesta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sao-mamede-de-infesta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/s%C3%A3o-jo%C3%A3o-de-ver</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/sao-joao-de-ver</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/s%C3%A3o-jo%C3%A3o-de-areias</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/sao-joao-de-areias</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/s%C3%A3o-jo%C3%A3o-da-pesqueira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/sao-joao-da-pesqueira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/s%C3%A3o-jo%C3%A3o-da-madeira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/sao-joao-da-madeira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/s%C3%A3o-jo%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/sao-joao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/s%C3%A3o-f%C3%A9lix-da-marinha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sao-felix-da-marinha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2516,7 +2516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/santo-ov%C3%ADdio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/santo-ovidio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2526,7 +2526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/santo-ant%C3%B3nio-dos-olivais</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/santo-antonio-dos-olivais</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2546,7 +2546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/santa-comba-d%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viseu/santa-comba-dao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2576,7 +2576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/samil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/samil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2601,7 +2601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/rio-me%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/rio-meao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2621,7 +2621,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ribeir%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ribeirao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2666,7 +2666,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/rebord%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/rebordoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2681,7 +2681,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sard%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/sardao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2696,12 +2696,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/p%C3%B3voa-de-varzim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/povoa-de-varzim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/p%C3%B3voa-de-lanhoso</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/povoa-de-lanhoso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2736,7 +2736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/peso-da-r%C3%A9gua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/peso-da-regua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2776,7 +2776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pedrou%C3%A7os</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pedroucos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2796,7 +2796,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/pardilh%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/pardilho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2821,22 +2821,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/palha%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/palhaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pa%C3%A7os-de-ferreira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pacos-de-ferreira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/pa%C3%A7os-de-brand%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/pacos-de-brandao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pa%C3%A7os</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/pacos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2886,7 +2886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/oi%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/oia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2951,7 +2951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/mosteir%C3%B4</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/mosteiro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2981,7 +2981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viana-do-castelo/mon%C3%A7%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/viana-do-castelo/moncao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2991,22 +2991,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/mogadouro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/mogadouro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/mire-de-tib%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/mire-de-tibaes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/mirandela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/mirandela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/miranda-do-douro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/miranda-do-douro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3031,17 +3031,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/milheir%C3%B3s-de-poiares</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/milheiros-de-poiares</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/milheir%C3%B3s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/milheiros</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/mes%C3%A3o-frio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/mesao-frio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3061,7 +3061,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/m%C3%AAda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/guarda/meda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3151,7 +3151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/macedo-de-cavaleiros</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/macedo-de-cavaleiros</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3171,7 +3171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/lous%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/lousa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3181,7 +3181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/lorv%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/lorvao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3206,7 +3206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/lob%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/lobao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3216,12 +3216,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/le%C3%A7a-do-bailio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/leca-do-bailio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/le%C3%A7a-da-palmeira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/leca-da-palmeira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3261,7 +3261,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/%C3%ADlhavo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/ilhavo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3276,17 +3276,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/gueif%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/gueifaes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/guimar%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/guimaraes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/guif%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/guifoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3306,7 +3306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/grij%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/grijo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3326,7 +3326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/g%C3%B3is</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/gois</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3366,12 +3366,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/gafanha-da-encarna%C3%A7%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/gafanha-da-encarnacao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/fund%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/fundao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3381,7 +3381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/freixo-de-espada-%C3%A0-cinta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/freixo-de-espada-a-cinta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3391,7 +3391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/fraz%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/frazao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3416,7 +3416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/figueir%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/figueiro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3426,7 +3426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/fi%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/fiaes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3466,17 +3466,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ap%C3%BAlia-e-f%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/apulia-e-fao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/f%C3%A2nzeres</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/fanzeres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/falc%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/falcao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3496,7 +3496,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/espor%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/esporoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3561,7 +3561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/cucuj%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/cucujaes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3581,7 +3581,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/covilh%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/castelo-branco/covilha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3591,7 +3591,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/cortega%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/cortegaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3616,7 +3616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/chav%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/chavao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3631,7 +3631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/castel%C3%B5es-de-cepeda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/casteloes-de-cepeda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3646,7 +3646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/carrazeda-de-anci%C3%A3es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/carrazeda-de-anciaes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3701,12 +3701,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/campanh%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/campanha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/calend%C3%A1rio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/calendario</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3756,7 +3756,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/bragan%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/braganca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3786,7 +3786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/bragan%C3%A7a/belver</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braganca/belver</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3851,7 +3851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/bai%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/baiao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3906,7 +3906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/%C3%A1rvore</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/arvore</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3921,7 +3921,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ar%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/aroes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3981,7 +3981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ap%C3%BAlia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/apulia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4001,7 +4001,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/an%C3%A7%C3%A3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/coimbra/anca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4031,7 +4031,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/alij%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/vila-real/alijo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4071,22 +4071,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/%C3%A1gueda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/aveiro/agueda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/agu%C3%A7adoura</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/agucadoura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/%C3%A1guas-santas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/aguas-santas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/%C3%A1gua-longa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/porto/agua-longa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4101,7 +4101,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/ada%C3%BAfe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/braga/adaufe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4121,37 +4121,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/senhora-do-ros%C3%A1rio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/senhora-do-rosario</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-vicente</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-vicente</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-sebasti%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-sebastiao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-roque-do-pico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-roque-do-pico</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-roque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-roque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-mateus</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-mateus</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/s%C3%A3o-bartolomeu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/sao-bartolomeu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4166,12 +4166,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/santa-b%C3%A1rbara</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/santa-barbara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/rosto-de-c%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/rosto-de-cao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4216,12 +4216,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/praia-da-vit%C3%B3ria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/praia-da-vitoria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/povoa%C3%A7%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/povoacao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4236,7 +4236,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/ponta-gar%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/ponta-garca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4306,7 +4306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/faj%C3%A3-de-baixo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/faja-de-baixo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4341,17 +4341,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/ang%C3%BAstias</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/angustias</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/angra-do-hero%C3%ADsmo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/angra-do-heroismo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/%C3%A1gua-de-pau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/azores/agua-de-pau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4366,7 +4366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/quinta-do-conde</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/quinta-do-conde</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4401,7 +4401,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/gra%C3%A7a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/graca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4421,7 +4421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santa-maria-de-bel%C3%A9m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/santa-maria-de-belem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4431,22 +4431,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-jorge-de-arroios</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-jorge-de-arroios</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-mamede</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-mamede</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-paulo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-paulo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/s%C3%A3o-sebasti%C3%A3o-da-pedreira</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/sao-sebastiao-da-pedreira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4456,7 +4456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/costa-da-caparica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/costa-da-caparica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4471,7 +4471,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/set%C3%BAbal/azeit%C3%A3o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/setubal/azeitao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4481,12 +4481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/parque-das-na%C3%A7%C3%B5es</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/parque-das-nacoes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/cidade-universit%C3%A1ria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/portugal/lisbon/cidade-universitaria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

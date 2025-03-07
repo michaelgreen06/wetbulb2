@@ -6,17 +6,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/umm-qa%C5%9Fr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/umm-qasr</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/%C5%A3%C5%ABz-kh%C5%ABrm%C4%81t%C5%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/tuz-khurmatu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/tikr%C4%ABt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/tikrit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26,7 +26,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/duhok/s%C4%ABnah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/duhok/sinah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -36,22 +36,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/s%C4%81marr%C4%81%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/samarra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/b%C4%81bil/n%C4%81%E1%B8%A9%C4%AByat-saddat-al-hind%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/babil/naiyat-saddat-al-hindiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/erbil/%E1%B9%9Fuwandiz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/erbil/uwandiz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/r%C4%81wah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/rawah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1/mandal%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala/mandali</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1/kifr%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala/kifri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -86,7 +86,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbal%C4%81%CA%BC/karbala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbala/karbala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,17 +96,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/h%C4%ABt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/hit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/%E1%B8%A9alabja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/alabja</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/%E1%B8%A9ad%C4%ABthah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/adithah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,17 +121,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/jamjam%C4%81l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/jamjamal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/duhok/gund%C3%AA-%C3%A7%C3%AA</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/duhok/gunde-ce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/bayj%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/salah-ad-din/bayji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,12 +141,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/bar%C5%A3alah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/bartalah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1/baqubah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala/baqubah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,12 +171,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3/a%C5%9F-%C5%9Fuwayrah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit/as-suwayrah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/as-sulaym%C4%81n%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/sulaymaniyah/as-sulaymaniyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -186,22 +186,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah/n%C4%81%E1%B8%A9iyat-ash-shin%C4%81f%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah/naiyat-ash-shinafiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/dhi-qar/ash-sha%C5%A3rah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/dhi-qar/ash-shatrah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah/ash-sh%C4%81m%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah/ash-shamiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/ar-ru%C5%A3bah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/ar-rutbah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,12 +216,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/%E2%80%98aqrah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/aqrah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3/an-nu%E2%80%98m%C4%81n%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit/an-numaniyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,32 +236,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/%E2%80%98anat-al-qad%C4%ABmah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/anat-al-qadimah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/b%C4%81bil/al-qasim</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/babil/al-qasim</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/b%C4%81bil/al-musayyib</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/babil/al-musayyib</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/an-najaf/al-mishkh%C4%81b</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/an-najaf/al-mishkhab</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1/al-miqd%C4%81d%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala/al-miqdadiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/al-maw%C5%9Fil-al-jad%C4%ABdah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/al-mawsil-al-jadidah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,7 +271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3/al-k%C5%ABt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit/al-kut</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,52 +281,52 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diy%C4%81l%C3%A1/kh%C4%81li%C5%9F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/diyala/khalis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/maysan/%E2%80%98al%C4%AB-al-gharb%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/maysan/ali-al-gharbi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbal%C4%81%CA%BC/al-hind%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/karbala/al-hindiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/b%C4%81bil/al-%E1%B8%A9illah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/babil/al-illah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3/al-%E1%B8%A9ayy</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit/al-ayy</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-h%C4%81rithah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-harithah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah/nahiyat-ghammas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah/nahiyat-ghammas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/dhi-qar/n%C4%81%E1%B8%A9iyat-al-fuh%C5%ABd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/dhi-qar/naiyat-al-fuhud</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-f%C4%81w</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-faw</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/al-fall%C5%ABjah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/al-fallujah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,17 +336,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/w%C4%81si%C5%A3/al-%E2%80%98az%C4%ABz%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/wasit/al-aziziyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/maysan/al-%E2%80%98am%C4%81rah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/maysan/al-amarah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah/%E2%80%98afak</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah/afak</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,17 +356,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-q%C4%81dis%C4%AByah/ad-d%C4%ABw%C4%81n%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-qadisiyah/ad-diwaniyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/baghdad/ab%C5%AB-ghurayb</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/baghdad/abu-ghurayb</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-ba%C5%9Frah-al-qad%C4%ABmah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/basra/al-basrah-al-qadimah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -376,12 +376,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/sinj%C4%81r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/nineveh/sinjar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/%E2%80%98anah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/iraq/al-anbar/anah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

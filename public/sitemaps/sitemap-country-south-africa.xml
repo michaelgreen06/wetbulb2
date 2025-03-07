@@ -796,7 +796,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/eastern-cape/port-saint-john%E2%80%99s</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/eastern-cape/port-saint-johns</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -841,7 +841,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/mpumalanga/pilgrim%E2%80%99s-rest</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/mpumalanga/pilgrims-rest</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2281,7 +2281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/northern-cape/dani%C3%ABlskuil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/northern-cape/danielskuil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2506,7 +2506,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/kwazulu-natal/botha%E2%80%99s-hill</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/kwazulu-natal/bothas-hill</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2871,7 +2871,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/western-cape/simon's-town</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/western-cape/simons-town</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3191,7 +3191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/western-cape/betty%E2%80%99s-bay</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/western-cape/bettys-bay</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3836,7 +3836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/mpumalanga/betty's-goed</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/south-africa/mpumalanga/bettys-goed</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

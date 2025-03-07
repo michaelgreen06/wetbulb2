@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/bayan-%C3%B6lgii-province/%C3%B6lgii</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/bayan-olgii-province/olgii</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -41,7 +41,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/kh%C3%B6vsg%C3%B6l-province/turt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/khovsgol-province/turt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,17 +51,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/kh%C3%B6vsg%C3%B6l-province/tsengel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/khovsgol-province/tsengel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/s%C3%BChbaatar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/suhbaatar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/shar%C3%AFngol</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/sharingol</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -71,17 +71,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/kh%C3%B6vsg%C3%B6l-province/m%C3%B6r%C3%B6n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/khovsgol-province/moron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/middle-gov%C4%AD/mandalgovi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/middle-gov/mandalgovi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6v%C3%B6rhangay/bogd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/ovorhangay/bogd</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,7 +96,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/dz%C3%BC%C3%BCnharaa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/selenge-province/dzuunharaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,12 +106,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6mn%C3%B6gov%C4%AD/dalandzadgad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/omnogov/dalandzadgad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/gov%C4%AD-sumber/choyr</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/gov-sumber/choyr</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -131,12 +131,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/s%C3%BChbaatar/baruun-urt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/suhbaatar/baruun-urt</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6v%C3%B6rhangay/arvayheer</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/ovorhangay/arvayheer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,7 +146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/%C3%B6v%C3%B6rhangay/kharkhorin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mongolia/ovorhangay/kharkhorin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

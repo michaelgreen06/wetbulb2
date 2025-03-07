@@ -6,12 +6,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/wadi-fira/gu%C3%A9r%C3%A9da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/wadi-fira/guereda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouada%C3%AF/goz-b%C3%A9%C3%AFda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouadai/goz-beida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -41,17 +41,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouada%C3%AF/adr%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouadai/adre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouada%C3%AF/ab%C3%A9ch%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouadai/abeche</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouada%C3%AF/abdi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ouadai/abdi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,7 +81,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/batha/umm-h%C4%81jar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/batha/umm-hajar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,7 +106,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/n%E2%80%99djam%C3%A9na/n'djamena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/ndjamena/ndjamena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,7 +121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/gu%C3%A9ra/mongo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/guera/mongo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -131,17 +131,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mandoul/mo%C3%AFssala</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mandoul/moissala</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/gu%C3%A9ra/melfi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/guera/melfi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mayo-kebbi-ouest/mboursou-l%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mayo-kebbi-ouest/mboursou-lere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,7 +171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/gu%C3%A9ra/mangalm%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/guera/mangalme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,17 +181,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mayo-kebbi-ouest/l%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mayo-kebbi-ouest/lere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjil%C3%A9/la%C3%AF</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjile/lai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/moyen-chari/kyab%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/moyen-chari/kyabe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -206,7 +206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjil%C3%A9/kelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjile/kelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/gor%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/gore</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -276,12 +276,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/gu%C3%A9ra/bitkine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/guera/bitkine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjil%C3%A9/b%C3%A9r%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tandjile/bere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -291,32 +291,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-occidental/be%C3%AFnamar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-occidental/beinamar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mandoul/b%C3%A9diondo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/mandoul/bediondo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/b%C3%A9boto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/beboto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/b%C3%A9b%C3%A9dja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/bebedja</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tibesti/barda%C3%AF</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/tibesti/bardai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/ba%C3%AFbokoum</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/logone-oriental/baibokoum</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,7 +331,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/salamat/abou-d%C3%A9%C3%AFa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/chad/salamat/abou-deia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

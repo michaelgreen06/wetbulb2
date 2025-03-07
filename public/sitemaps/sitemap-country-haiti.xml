@@ -41,12 +41,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/saint-rapha%C3%ABl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/saint-raphael</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/saint-michel-de-l'atalaye</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/saint-michel-de-latalaye</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/roche-%C3%A0-bateau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/roche-a-bateau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,7 +96,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/port-%C3%A0-piment</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/port-a-piment</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,7 +121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/pha%C3%ABton</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/phaeton</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -136,7 +136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/petite-rivi%C3%A8re-de-nippes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/petite-riviere-de-nippes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,7 +146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/p%C3%A9tionville</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/petionville</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,17 +161,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/moron</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/moron</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/mont%C3%B2rganize</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/montorganize</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-ouest/m%C3%B4le-saint-nicolas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-ouest/mole-saint-nicolas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,7 +181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/mirago%C3%A2ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/miragoane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,7 +216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/les-irois</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/les-irois</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/l%C3%A9og%C3%A2ne</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/leogane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,7 +246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/j%C3%A9r%C3%A9mie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/jeremie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -286,17 +286,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/grande-rivi%C3%A8re-du-nord</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/grande-riviere-du-nord</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/gona%C3%AFves</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/gonaives</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/fort-libert%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/fort-liberte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -341,12 +341,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/d%C3%A9sarmes</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/artibonite/desarmes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/d%C3%A9rac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord-est/derac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,7 +356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/dame-marie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/dame-marie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -366,7 +366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud-est/kotdef%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud-est/kotdefe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,12 +381,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/corail</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/corail</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/chardonni%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud/chardonniere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -396,7 +396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/chambellan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/chambellan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -436,7 +436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/cap-ha%C3%AFtien</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nord/cap-haitien</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,7 +456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/barad%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/nippes/baraderes</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -486,17 +486,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/anse-%C3%A0-veau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/anse-a-veau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud-est/anse-%C3%A0-pitre</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/sud-est/anse-a-pitre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/anse-%C3%A0-galets</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/ouest/anse-a-galets</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -506,7 +506,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/les-abricots</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/les-abricots</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -516,7 +516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grand'anse/sassier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/haiti/grandanse/sassier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

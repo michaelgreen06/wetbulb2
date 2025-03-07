@@ -6,17 +6,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-plata-province/yamas%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-plata-province/yamasa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/yaguate</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/yaguate</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/villa-v%C3%A1squez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/villa-vasquez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/villa-gonz%C3%A1lez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/villa-gonzalez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,12 +66,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/villa-bison%C3%B3</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/villa-bisono</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/villa-altagracia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/villa-altagracia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,17 +111,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/azua-province/t%C3%A1bara-arriba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/azua-province/tabara-arriba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/sos%C3%BAa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/sosua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/san-v%C3%ADctor-arriba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/san-victor-arriba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -136,7 +136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-se%C3%ADbo/santa-cruz-de-el-seibo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-seibo/santa-cruz-de-el-seibo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,7 +146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/saman%C3%A1/saman%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/samana/samana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs/san-pedro-de-macor%C3%ADs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris/san-pedro-de-macoris</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,22 +166,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-jos%C3%A9-de-ocoa/san-jos%C3%A9-de-ocoa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-jose-de-ocoa/san-jose-de-ocoa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/san-jos%C3%A9-de-las-matas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/san-jose-de-las-matas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/san-gregorio-de-nigua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/san-gregorio-de-nigua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/duarte-province/san-francisco-de-macor%C3%ADs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/duarte-province/san-francisco-de-macoris</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,7 +196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/saman%C3%A1/s%C3%A1nchez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/samana/sanchez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -206,7 +206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-altagracia-province/salvale%C3%B3n-de-hig%C3%BCey</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-altagracia-province/salvaleon-de-higuey</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,7 +221,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodr%C3%ADguez/sabaneta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodriguez/sabaneta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,17 +236,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/sabana-grande-de-palenque</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/sabana-grande-de-palenque</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-plata-province/sabana-grande-de-boy%C3%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-plata-province/sabana-grande-de-boya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monse%C3%B1or-nouel/sabana-del-puerto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monsenor-nouel/sabana-del-puerto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -261,42 +261,42 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/r%C3%ADo-verde-arriba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/rio-verde-arriba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/r%C3%ADo-san-juan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/rio-san-juan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/r%C3%ADo-limpio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/rio-limpio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/r%C3%ADo-grande</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/rio-grande</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/rinc%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/rincon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n/restauraci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon/restauracion</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs/ram%C3%B3n-santana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris/ramon-santana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs/quisqueya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris/quisqueya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -311,7 +311,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/postrer-r%C3%ADo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/postrer-rio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monse%C3%B1or-nouel/piedra-blanca</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monsenor-nouel/piedra-blanca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/pescader%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/pescaderia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -351,17 +351,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/pedro-santana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/pedro-santana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-se%C3%ADbo/pedro-s%C3%A1nchez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-seibo/pedro-sanchez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/pedro-garc%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-province/pedro-garcia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,12 +381,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n/partido</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon/partido</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/para%C3%ADso</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/paraiso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -426,7 +426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/nagua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/nagua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,7 +441,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodr%C3%ADguez/monci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/santiago-rodriguez/moncion</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,7 +451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-se%C3%ADbo/miches</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el-seibo/miches</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -486,17 +486,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/luper%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/puerto-plata/luperon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/baoruco-province/los-r%C3%ADos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/baoruco-province/los-rios</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs/los-llanos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris/los-llanos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,7 +511,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n/loma-de-cabrera</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon/loma-de-cabrera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -526,7 +526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/saman%C3%A1/las-terrenas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/samana/las-terrenas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -541,12 +541,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-juan-province/las-matas-de-farf%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-juan-province/las-matas-de-farfan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/duarte-province/las-gu%C3%A1ranas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/duarte-province/las-guaranas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -571,7 +571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/la-entrada</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/la-entrada</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -581,7 +581,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/la-ci%C3%A9naga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/la-cienaga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -606,12 +606,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/juan-santiago</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/juan-santiago</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/juan-l%C3%B3pez-abajo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/juan-lopez-abajo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -626,7 +626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monse%C3%B1or-nouel/juan-adri%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monsenor-nouel/juan-adrian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -636,7 +636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/jiman%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/jimani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -646,7 +646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/valverde-province/jicom%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/valverde-province/jicome</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -666,7 +666,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/valverde-province/jaib%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/valverde-province/jaibon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -681,7 +681,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/hondo-valle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/hondo-valle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -726,22 +726,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/gaspar-hern%C3%A1ndez</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/gaspar-hernandez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/baoruco-province/galv%C3%A1n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/baoruco-province/galvan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/fundaci%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/fundacion</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/s%C3%A1nchez-ram%C3%ADrez/fantino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/sanchez-ramirez/fantino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -751,7 +751,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/azua-province/esteban%C3%ADa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/azua-province/estebania</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -766,7 +766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/nacional/ensanche-luper%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/nacional/ensanche-luperon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -781,17 +781,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macor%C3%ADs/el-puerto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-pedro-de-macoris/el-puerto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n/el-pino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon/el-pino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/el-pe%C3%B1%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/el-penon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -801,7 +801,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/el-llano</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/el-llano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -811,22 +811,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/el-factor</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/el-factor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/el-carril</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/el-carril</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/el-cacao</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/el-cacao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/duverg%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/duverge</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -836,7 +836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajab%C3%B3n/dajab%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/dajabon/dajabon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -846,12 +846,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/crist%C3%B3bal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/independencia/cristobal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/s%C3%A1nchez-ram%C3%ADrez/cotu%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/sanchez-ramirez/cotui</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -861,12 +861,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/concepci%C3%B3n-de-la-vega</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/la-vega/concepcion-de-la-vega</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/comendador</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/comendador</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -876,7 +876,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/s%C3%A1nchez-ram%C3%ADrez/cevicos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/sanchez-ramirez/cevicos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -886,7 +886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/cayetano-germos%C3%A9n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/espaillat-province/cayetano-germosen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -896,7 +896,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/casta%C3%B1uelas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/castanuelas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,22 +906,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/cana-chapet%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monte-cristi-province/cana-chapeton</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/cambita-garabitos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/cambita-garabitos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/cach%C3%B3n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/barahona-province/cachon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/cabrera</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/cabrera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -936,12 +936,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monse%C3%B1or-nouel/bonao</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/monsenor-nouel/bonao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-juan-province/bohech%C3%ADo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-juan-province/bohechio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -956,7 +956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/san-crist%C3%B3bal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/san-cristobal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -971,17 +971,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/el%C3%ADas-pi%C3%B1a/b%C3%A1nica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/elias-pina/banica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/peravia/ban%C3%AD</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/peravia/bani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-crist%C3%B3bal/bajos-de-haina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/san-cristobal/bajos-de-haina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -996,7 +996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/mar%C3%ADa-trinidad-s%C3%A1nchez/arroyo-salado</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/dominican-republic/maria-trinidad-sanchez/arroyo-salado</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

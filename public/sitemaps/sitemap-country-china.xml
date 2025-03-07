@@ -266,7 +266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tibet/d%C3%AAq%C3%AAn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tibet/deqen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,7 +331,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/%C3%BCr%C3%BCmqi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/urumqi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -376,7 +376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/k%C3%BCrti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kurti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -406,7 +406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/jelily%C3%BCzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/jelilyuzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -541,7 +541,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kipeky%C3%BCzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kipekyuzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -576,7 +576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/qing%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/qingan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -911,7 +911,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/b%C3%A1ig%C5%8Dng-ji%C4%93d%C3%A0o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/baigong-jiedao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -986,7 +986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/zhong%E2%80%99ao</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/zhongao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1151,7 +1151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/zhan%E2%80%99erxiang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/zhanerxiang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1466,7 +1466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/yong%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/yongan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1786,7 +1786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/yan%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/yanan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1806,7 +1806,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/ya'an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/yaan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2321,7 +2321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/xiann%C3%BC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/xiannu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2391,7 +2391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/xi%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/xian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3046,12 +3046,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shandong/tai%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shandong/taian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/tai%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/taian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3776,7 +3776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/zhejiang/rui%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/zhejiang/ruian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3961,7 +3961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/huai'an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/huaian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4126,7 +4126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/pu%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/puan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4136,7 +4136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/wangge%E2%80%99ertang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/wanggeertang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4276,7 +4276,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/pan%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/panan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4291,7 +4291,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/guang%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/guangan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4531,7 +4531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/mu%E2%80%99er</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/muer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4576,7 +4576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/min%E2%80%99ancun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/minancun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4756,17 +4756,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hunan/ma%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hunan/maan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/anhui/ma%E2%80%99anshan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/anhui/maanshan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/ma%E2%80%99ai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/maai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4786,7 +4786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/liaoning/l%C3%BCshun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/liaoning/lushun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4886,7 +4886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/l%C3%BCeyang-chengguanzhen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/shaanxi/lueyang-chengguanzhen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4906,7 +4906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/anhui/lu%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/anhui/luan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4931,7 +4931,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hunan/longtou%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hunan/longtouan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5021,7 +5021,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/guizhou/long%E2%80%99e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/guizhou/longe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5126,7 +5126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/liu%E2%80%99anzhuang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/liuanzhuang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5526,7 +5526,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/koc%C3%AA</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/koce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5836,7 +5836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/jian%E2%80%99ou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/jianou</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5931,7 +5931,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/jiang%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/jiangan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5941,7 +5941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangxi/ji%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangxi/jian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6296,7 +6296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/hong%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/hongan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6441,7 +6441,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/fu%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/fuan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6816,7 +6816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/gao%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/gaoan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7206,7 +7206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/dong%E2%80%99erying</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/dongerying</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7636,7 +7636,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/dabao%E2%80%99anzhen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/tianjin/dabaoanzhen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7656,7 +7656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/da%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/daan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8596,7 +8596,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/l%C3%BCfeng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/lufeng</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8641,7 +8641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/pul%C3%BC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/pulu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8776,7 +8776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/ji%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/jian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9306,12 +9306,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/rong%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/rongan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/kuai%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/kuaian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9326,7 +9326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/huai%E2%80%99an-shequ</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/fujian/huaian-shequ</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9376,7 +9376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/dong%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/dongan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10321,7 +10321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/heilongjiang/bei%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/heilongjiang/beian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10431,7 +10431,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hubei/e%E2%80%99zhou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/hubei/ezhou</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10816,7 +10816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/mu%E2%80%99er</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/muer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10926,7 +10926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/qinghai/ha%E2%80%99ergai-dadui</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/qinghai/haergai-dadui</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11231,7 +11231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/tangga%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/tanggaan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11241,7 +11241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/qu%E2%80%99ao</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/quao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11256,7 +11256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/ni%E2%80%99ao</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/niao</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11321,7 +11321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/mu%E2%80%99er</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/muer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11336,7 +11336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/yan%E2%80%99anxiang</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/yananxiang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11646,7 +11646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/ping%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/pingan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11726,7 +11726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/chang%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/changan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11811,7 +11811,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/zhen%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/zhenan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11946,7 +11946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/bai%E2%80%99anba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/baianba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11976,7 +11976,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/tai%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/taian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12151,12 +12151,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/d%C5%8Dngx%C4%AB-zh%C3%A8n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/dongxi-zhen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/b%C3%A1ish%C3%AD-zh%C3%A8n</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/baishi-zhen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12176,7 +12176,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/yong%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/yongan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12231,7 +12231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/shi%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/shian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12816,7 +12816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/lin%E2%80%99e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/line</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12876,7 +12876,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/ping%E2%80%99an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/pingan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13661,12 +13661,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/han%E2%80%99airike</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/hanairike</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/ying%E2%80%99awati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yingawati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13691,17 +13691,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/taxkowr%C3%BCk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/taxkowruk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/turpany%C3%BCzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/turpanyuzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/sadiky%C3%BCzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/sadikyuzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13861,7 +13861,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yak'airike</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yakairike</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13906,7 +13906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/xiann%C3%BCshan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/chongqing/xiannushan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14001,7 +14001,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/jing'an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/jiangsu/jingan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14571,7 +14571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/ping'an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/pingan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14596,7 +14596,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/duo'er</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/duoer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14651,7 +14651,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/ka'erqin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/gansu/kaerqin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14716,7 +14716,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/bage'awati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/bageawati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14746,7 +14746,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kuoshi'airike</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kuoshiairike</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14761,12 +14761,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/qia'erbage</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/qiaerbage</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/tage'erqi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/tageerqi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14781,7 +14781,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yigai'erqi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yigaierqi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14811,7 +14811,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/ka'erdun</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kaerdun</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14846,7 +14846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/weiwu'eryuqiwen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/weiwueryuqiwen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14886,12 +14886,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/ying'airike</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yingairike</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yisilamu'awati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yisilamuawati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14906,7 +14906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/ka'ersai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/kaersai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14946,7 +14946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/wu'erqi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/wuerqi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14956,7 +14956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yingye'er</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/xinjiang/yingyeer</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15181,7 +15181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/mianzhu%2C-deyang%2C-sichuan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/china/sichuan/mianzhu-deyang-sichuan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

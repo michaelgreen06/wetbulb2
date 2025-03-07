@@ -16,22 +16,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/wad-r%C4%81wah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/wad-rawah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/wad-medani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/wad-medani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/wad-az-z%C4%81ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/wad-az-zaki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/umm-shawkah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/umm-shawkah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,12 +66,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/red-sea/tok%C4%81r</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/red-sea/tokar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/tandalt%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/tandalti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -86,7 +86,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/singa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/singa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -101,12 +101,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/sinnar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/sinnar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/ruf%C4%81%E2%80%98a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/rufaa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,7 +141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/maiurno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/maiurno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,12 +166,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/kin%C4%81na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/kinana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/khashm-al-qirbah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/khashm-al-qirbah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,7 +196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/northern-darfur/kabk%C4%81b%C4%AByah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/northern-darfur/kabkabiyah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,12 +221,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/jalqani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/jalqani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/doka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/doka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -241,7 +241,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/southern-darfur/bur%C4%81m</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/southern-darfur/buram</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -251,12 +251,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/north-kordofan/b%C4%81rah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/north-kordofan/barah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/baban%C5%ABsah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/babanusah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,12 +266,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/as-s%C5%ABk%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/as-suki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/blue-nile/ash-shall%C4%81l</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/blue-nile/ash-shallal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -296,7 +296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/an-nuh%C5%ABd</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/an-nuhud</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -306,17 +306,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/al-qi%C5%A3ena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/al-qitena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/al-qadarif</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/al-qadarif</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/al-masallamiyya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/al-masallamiyya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,7 +331,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/al-man%C4%81qil</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/al-manaqil</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -351,7 +351,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/al-kiremit-al-%E2%80%98arakiyy%C4%ABn</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/al-kiremit-al-arakiyyin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -371,22 +371,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/al-hil%C4%81liyya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/al-hilaliyya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/al-%E1%B8%A9aw%C4%81tah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/al-awatah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/al-hasaheisa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/al-hasaheisa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/southern-kordofan/al-f%C5%ABlah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/southern-kordofan/al-fulah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,7 +411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/ad-dindar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/ad-dindar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -431,7 +431,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/ab%C5%AB-zabad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/west-kordofan-state/abu-zabad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,7 +441,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/najaru-%D9%82%D8%B1%D9%8A%D8%A9-%D9%86%D8%AC%D8%B1%D9%88</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/najaru</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,7 +451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jaz%C4%ABrah/nagaro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-jazirah/nagaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -466,32 +466,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinn%C4%81r/ad-dindar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/sinnar/ad-dindar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/al-fashaqah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/al-fashaqah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qa%E1%B8%91%C4%81rif/al-f%C4%81w</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/al-qaarif/al-faw</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/al-qu%E1%B9%ADaynah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/white-nile/al-quaynah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/western-darfur/'%C4%81rdamat%C4%81</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/western-darfur/ardamata</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/eastern-darfur/sh'%C4%ABar%C4%ABah</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/sudan/eastern-darfur/shiariah</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -16,22 +16,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/yirga-ch%E2%80%99ef%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/yirga-chefe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/yirga-%E2%80%98alem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/yirga-alem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/yab%C4%93lo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/yabelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/wik%E2%80%99ro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/wikro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -41,12 +41,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/were-%C4%ABlu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/were-ilu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/wenj%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/wenji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,12 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/welk%E2%80%99%C4%ABt%E2%80%99%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/welkite</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/welench%E2%80%99%C4%ABt%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/welenchiti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/waka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/waka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -91,12 +91,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/t%E2%80%99%C4%ABs-isat</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/tis-isat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/t%C4%ABl%C4%ABl%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/tilili</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -106,12 +106,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/t%C4%93p%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/tepi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/tarch%E2%80%99a-sodo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/tarcha-sodo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,12 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/s%C4%ABr%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/sire</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/shon%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/shone</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,7 +161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/sek%E2%80%99ot%E2%80%99a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/sekota</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,12 +171,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/sagur%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/sagure</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/rob%C4%ABt</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/robit</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -191,7 +191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/nek%E2%80%99emt%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/nekemte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,22 +201,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/neg%C4%93l%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/negele</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/nefas-mewch%E2%80%99a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/nefas-mewcha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/nazr%C4%93t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/nazret</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/mot%E2%80%99a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/mota</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,17 +226,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/m%C4%ABzan-tefer%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/mizan-teferi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/m%C4%ABl%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/mile</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/m%C4%AB%E2%80%99%C4%93so</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/mieso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -251,7 +251,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/metah%C4%81ra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/metahara</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,12 +266,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/mer%E2%80%99%C4%81w%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/merawi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/mend%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/mendi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,32 +281,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/mek%E2%80%99%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/meki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/mek'ele</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/mekele</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/mehal-m%C4%93da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/mehal-meda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/m%C4%93ga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/mega</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/maych%E2%80%99ew</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/maychew</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/b%C4%ABnshangul-gumuz/mambuk</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/binshangul-gumuz/mambuk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -316,12 +316,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/lumam%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/lumame</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/log%C4%ABya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/logiya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,17 +356,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/k%E2%80%99ol%C4%ABto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/kolito</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/k%E2%80%99ola-diba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/kola-diba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/kofel%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/kofele</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -376,7 +376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/kemis%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/kemise</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -396,7 +396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/kach%C4%ABs%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/kachisi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -416,17 +416,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%ABteya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/iteya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/intich%E2%80%99o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/inticho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/ins%C4%93no</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/inseno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -436,7 +436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/inda-silas%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/inda-silase</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -461,22 +461,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/hosa%E2%80%99ina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/hosaina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/h%C4%ABrna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/hirna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/h%C4%81yk%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/hayk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/hart%C4%ABsh%C4%93k</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/hartishek</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,12 +491,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/h%C4%81gere-selam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/hagere-selam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/h%C4%81gere-hiywet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/hagere-hiywet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,17 +511,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/gurbet%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/gurbete</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/komtikas</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/komtikas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/gor%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/gore</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -536,7 +536,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/gob%C4%93sa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/gobesa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -556,17 +556,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/g%C4%ABnch%E2%80%99%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/ginchi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/gimja-b%C4%93t-maryam</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/gimja-bet-maryam</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/g%C4%ABmb%C4%ABcho</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/gimbicho</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -581,12 +581,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/g%C4%ABdol%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/gidole</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/gewan%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/gewane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -606,7 +606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/g%C4%93do</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/gedo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -621,12 +621,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/gambela/gamb%C4%93la</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/gambela/gambela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/funyan-b%C4%ABra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/funyan-bira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -641,7 +641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/fich%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/fiche</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -661,12 +661,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/duram%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/durame</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/dubti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/dubti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -686,12 +686,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/d%C4%ABla</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/dila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/b%C4%ABnshangul-gumuz/dibate</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/binshangul-gumuz/dibate</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -701,17 +701,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/d%C4%93ra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/dera</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/demb%C4%AB-dolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/dembi-dolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/dembech%E2%80%99a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/dembecha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -736,7 +736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-werk%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-werk</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -746,12 +746,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-s%C4%ABna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-sina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-mark%E2%80%99os</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debre-markos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -761,12 +761,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debark%E2%80%99</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/debark</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/day%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/daye</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -786,47 +786,47 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/ch%E2%80%99%C4%ABna-hasen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/china-hasen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/ch%E2%80%99iko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/sidama-region/chiko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/sifra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/sifra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/ch%E2%80%99ench%E2%80%99a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/chencha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/ch%E2%80%99elenk%E2%80%99o</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/chelenko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/butaj%C4%ABra</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/central-ethiopia-regional-state/butajira</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/bur%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/bure</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/bonga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/bonga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/bod%C4%ABt%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/boditi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -841,32 +841,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bek%E2%80%99oj%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bekoji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/bed%C4%93sa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/bedesa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bed%C4%93sa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bedesa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bedel%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bedele</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/bat%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/bati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/b%C4%ABnshangul-gumuz/bambesi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/binshangul-gumuz/bambesi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -881,22 +881,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/bab%C4%ABl%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/babile</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81ykel</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/aykel</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81yana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/ayana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/%C4%81wash</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/awash</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -906,42 +906,42 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81t%E2%80%99aye</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/ataye</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/b%C4%ABnshangul-gumuz/%C4%81sosa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/binshangul-gumuz/asosa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81sela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/asela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81sbe-tefer%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/asbe-teferi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/asaita</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/asaita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81sasa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/asasa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/arerti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/arerti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/%C4%81reka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-ethiopia-regional-state/areka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,7 +951,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/%C4%81rab%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/somali/arabi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -966,17 +966,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%E2%80%98alem-t%E2%80%99%C4%93na</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/alem-tena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%E2%80%98alem-ketema</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/alem-ketema</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%E2%80%98alemaya</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/alemaya</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -996,7 +996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81garo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/agaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1006,17 +1006,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81d%C4%ABs-zemen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/adis-zemen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81d%C4%ABs-k%E2%80%99idam%C4%93</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/adis-kidame</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/%C4%81d%C4%ABs-%E2%80%98alem</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/oromiya/adis-alem</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1026,12 +1026,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/%C4%81d%C4%ABgrat</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/adigrat</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81d%C4%93t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/adet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1041,12 +1041,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/%C4%81b%C4%ABy-%C4%81d%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/tigray/abiy-adi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/%C4%81bderaf%C4%AB</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/amhara/abderafi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1121,7 +1121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/%C4%81far/mehoni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/afar/mehoni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1166,7 +1166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples'-region/wacha</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/ethiopia/south-west-ethiopia-peoples-region/wacha</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

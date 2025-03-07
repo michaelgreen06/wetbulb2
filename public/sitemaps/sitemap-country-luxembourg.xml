@@ -36,7 +36,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/esch-sur-alzette/t%C3%A9tange</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/esch-sur-alzette/tetange</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,7 +126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/esch-sur-alzette/p%C3%A9tange</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/esch-sur-alzette/petange</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -161,12 +161,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/m%C3%BCllendorf</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/mullendorf</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/m%C3%BChlenbach</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/muhlenbach</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,7 +511,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/b%C3%A9reldange</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/bereldange</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -556,7 +556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/rollingergrund-%2F-belair-nord</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/rollingergrund-belair-nord</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,7 +566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/neudorf%2Fweimershof-%2F</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/neudorfweimershof</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -586,7 +586,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/bonnevoie-nord%2Fverlorenkost</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/luxembourg/luxembourg/bonnevoie-nordverlorenkost</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

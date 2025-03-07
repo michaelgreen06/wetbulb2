@@ -6,7 +6,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/soufri%C3%A8re/soufri%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/soufriere/soufriere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -51,7 +51,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/l%E2%80%99abbay%C3%A9e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/labbayee</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,7 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/foresti%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/forestiere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,12 +141,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/gros-islet/beaus%C3%A9jour</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/gros-islet/beausejour</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/gros-islet/grande-rivi%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/gros-islet/grande-riviere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,7 +156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/entrep%C3%B4t</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/entrepot</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -166,7 +166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/pav%C3%A9e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/st-lucia/castries/pavee</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

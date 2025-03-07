@@ -251,7 +251,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/troina-%2F-draginai</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/troina-draginai</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -286,7 +286,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/tortol%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/tortoli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -466,7 +466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sparta'</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sparta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,7 +566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sil%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sili</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -641,7 +641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/senorb%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/senorbi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -786,7 +786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/sant'onofrio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santonofrio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -796,7 +796,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/sant'eufemia-d'aspromonte</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santeufemia-daspromonte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -806,7 +806,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/sant'elia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santelia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -821,7 +821,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santa-sofia-d'epiro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santa-sofia-depiro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -831,12 +831,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sant'antioco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/santantioco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sant'anna-arresi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/santanna-arresi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -846,17 +846,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'angelo-muxaro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santangelo-muxaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'angelo-di-brolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santangelo-di-brolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sant'andrea-frius</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/santandrea-frius</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -876,12 +876,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'alfio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santalfio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'alessio-siculo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santalessio-siculo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -891,12 +891,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'agata-di-militello</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santagata-di-militello</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/sant'agata-di-esaro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santagata-di-esaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -971,12 +971,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/san-nicol%C3%B2-d'arcidano</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/san-nicolo-darcidano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-nicol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-nicolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1011,7 +1011,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/san-marco-d'alunzio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/san-marco-dalunzio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1021,7 +1021,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-mango-d'aquino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-mango-daquino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1046,12 +1046,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/san-leone-mos%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/san-leone-mose</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-gregorio-d'ippona</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/san-gregorio-dippona</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1271,7 +1271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/rod%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/rodi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1406,7 +1406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/quartu-sant'elena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/quartu-santelena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1481,7 +1481,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/plat%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/plati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1556,7 +1556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/petron%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/petrona</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1616,7 +1616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/pat%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/patu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1626,7 +1626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/patern%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/paterno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1876,7 +1876,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/motta-sant'anastasia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/motta-santanastasia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2076,7 +2076,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/mer%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/meri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2121,7 +2121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/mazzarr%C3%A0-sant'andrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/mazzarra-santandrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2671,7 +2671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/gairo-sant'elena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/gairo-santelena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2846,7 +2846,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/donor%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/donori</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2926,7 +2926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/das%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/dasa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3021,12 +3021,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/cir%C3%B2-marina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/ciro-marina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/cir%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/ciro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3076,7 +3076,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cesar%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cesaro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3126,12 +3126,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cefal%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cefalu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cava-d'aliga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/cava-daliga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3211,7 +3211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/castell'umberto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/castellumberto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3346,7 +3346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/capo-d'orlando</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/capo-dorlando</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3381,7 +3381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/canicatt%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/canicatti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3936,7 +3936,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/aci-sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/aci-santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3986,7 +3986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/granarolo-dell'emilia-e-viadagola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/granarolo-dellemilia-e-viadagola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4081,7 +4081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/zan%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/zane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4371,7 +4371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villanova-mondov%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villanova-mondovi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4381,12 +4381,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villanova-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villanova-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/villanova-d'albenga</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/villanova-dalbenga</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4456,7 +4456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villafranca-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/villafranca-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4501,7 +4501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-d'alm%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-dalme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4626,7 +4626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/viggi%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/viggiu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4766,7 +4766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vezza-d'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vezza-doglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5051,7 +5051,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/varano-de'-melegari</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/varano-de-melegari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5071,7 +5071,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vaprio-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vaprio-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5156,12 +5156,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vall'alta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vallalta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/vall%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/valla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5171,7 +5171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-nicol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-nicolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5471,12 +5471,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/trinit%C3%A0-d'agultu-e-vignola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/trinita-dagultu-e-vignola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/trinit%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/trinita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5516,7 +5516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/trezzo-sull'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/trezzo-sulladda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5821,12 +5821,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/torre-de'-picenardi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/torre-de-picenardi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/torre-de'-passeri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/torre-de-passeri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5866,7 +5866,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/torp%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/torpe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6216,7 +6216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/taverne-d'arbia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/taverne-darbia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6421,7 +6421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/strud%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/struda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6611,7 +6611,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/spino-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/spino-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6966,7 +6966,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/silvano-d'orba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/silvano-dorba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7116,7 +7116,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/serra-ricc%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/serra-ricco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7136,7 +7136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/serra-de'-conti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/serra-de-conti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7306,7 +7306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/secl%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/secli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7326,7 +7326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/scorz%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/scorze</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7346,7 +7346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/naz-sciaves---natz-schabs</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/naz-sciaves-natz-schabs</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7496,7 +7496,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sauze-d'oulx</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sauze-doulx</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7771,22 +7771,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/sant'oreste</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/santoreste</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/sant'omero</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/santomero</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'ilario-d'enza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santilario-denza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santhi%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santhia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7816,32 +7816,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/sant'elpidio-a-mare</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/santelpidio-a-mare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/sant'elia-fiumerapido</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/santelia-fiumerapido</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/molise/sant'elia-a-pianisi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/molise/santelia-a-pianisi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'elena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santelena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/sant'egidio-alla-vibrata</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/santegidio-alla-vibrata</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santa-vittoria-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santa-vittoria-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7871,12 +7871,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'arsenio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santarsenio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'arpino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santarpino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7886,7 +7886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/basilicate/sant'arcangelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/basilicate/santarcangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7896,87 +7896,87 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sant'antonino-di-susa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santantonino-di-susa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'antonio-abate</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santantonio-abate</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/sant'antonio-di-gallura</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/santantonio-di-gallura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'antimo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santantimo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/sant'angelo-romano</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/santangelo-romano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'angelo-lodigiano</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santangelo-lodigiano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/sant'angelo-in-vado</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/santangelo-in-vado</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'angelo-in-formis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santangelo-in-formis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'angelo-di-piove-di-sacco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santangelo-di-piove-di-sacco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'angelo-dei-lombardi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santangelo-dei-lombardi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'andrea-in-casale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santandrea-in-casale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'andrea-di-conza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santandrea-di-conza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santandr%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santandra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'anastasia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santanastasia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7986,12 +7986,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'ambrogio-di-valpollicella</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santambrogio-di-valpollicella</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sant'ambrogio-di-torino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santambrogio-di-torino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8086,7 +8086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santa-margherita-d'adige</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santa-margherita-dadige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8096,22 +8096,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'alberto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santalberto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sant'albano-stura</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santalbano-stura</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'agostino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santagostino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'agnello</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santagnello</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8136,27 +8136,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'agata-sul-santerno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santagata-sul-santerno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'agata-sui-due-golfi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santagata-sui-due-golfi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/sant'agata-di-puglia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/santagata-di-puglia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'agata-de'goti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santagata-degoti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'agata-bolognese</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santagata-bolognese</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8166,7 +8166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/santa-croce-sull'arno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/santa-croce-sullarno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8261,7 +8261,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/san-quirico-d'orcia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/san-quirico-dorcia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8286,7 +8286,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/san-polo-d'enza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/san-polo-denza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8361,7 +8361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/san-pier-d'isonzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/san-pier-disonzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8396,7 +8396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/san-niccol%C3%B2-di-celle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/san-niccolo-di-celle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8416,7 +8416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sannazzaro-de'-burgondi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sannazzaro-de-burgondi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8436,7 +8436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-michele-mondov%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-michele-mondovi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8451,7 +8451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/san-michele-all'adige</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/san-michele-alladige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8486,7 +8486,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-maurizio-d'opaglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-maurizio-dopaglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8556,7 +8556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-martino-dall'argine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-martino-dallargine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8926,7 +8926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sanfr%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sanfre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9011,7 +9011,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/san-don%C3%A0-di-piave</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/san-dona-di-piave</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9026,7 +9026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/san-demetrio-ne'-vestini</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/san-demetrio-ne-vestini</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9036,7 +9036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-damiano-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/san-damiano-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9226,7 +9226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sal%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/salo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9451,7 +9451,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rover%C3%A8-della-luna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rovere-della-luna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9561,7 +9561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ros%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/rosa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9601,7 +9601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ronco-all'adige</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ronco-alladige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9631,7 +9631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ronc%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ronca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9641,7 +9641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/romans-d'isonzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/romans-disonzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9711,7 +9711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/rocchetta-sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/rocchetta-santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9816,7 +9816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/robecco-d'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/robecco-doglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9856,7 +9856,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/rivolta-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/rivolta-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9996,7 +9996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/rignano-sull'arno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/rignano-sullarno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10031,7 +10031,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/ricc%C3%B2-del-golfo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/liguria/ricco-del-golfo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10076,7 +10076,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rev%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/revo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10131,7 +10131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/reggio-nell'emilia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/reggio-nellemilia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10246,7 +10246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/quinzano-d'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/quinzano-doglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10306,7 +10306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/quarto-d'altino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/quarto-daltino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10366,7 +10366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/puos-d'alpago</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/puos-dalpago</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10691,7 +10691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/porto-sant'elpidio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/porto-santelpidio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10891,7 +10891,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ponte-san-nicol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ponte-san-nicolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10956,7 +10956,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ponte-dell'olio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ponte-dellolio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11071,7 +11071,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/pomigliano-d'arco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/pomigliano-darco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11371,7 +11371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/piobesi-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/piobesi-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11646,7 +11646,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/piano-molini-d'isola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/piano-molini-disola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11686,7 +11686,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/pian-di-sc%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/pian-di-sco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11726,7 +11726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/piacenza-d'adige</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/piacenza-dadige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12196,7 +12196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/palazzolo-sull'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/palazzolo-sulloglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12346,7 +12346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/paderno-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/paderno-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12476,7 +12476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/ospedaletto-d'alpinolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/ospedaletto-dalpinolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13141,7 +13141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/nard%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/nardo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13216,7 +13216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/muggi%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/muggio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13281,7 +13281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/mosciano-sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/mosciano-santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13306,7 +13306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/morro-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/morro-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13461,7 +13461,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/monticelli-d'ongina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/monticelli-dongina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13521,7 +13521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/monte-sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/monte-santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13576,7 +13576,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/monteroni-d'arbia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/monteroni-darbia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13731,7 +13731,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/monteforte-d'alpone</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/monteforte-dalpone</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13741,7 +13741,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/montefiore-dell'aso</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/montefiore-dellaso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13801,7 +13801,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/montechiaro-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/montechiaro-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13941,7 +13941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/mont%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/monta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13986,7 +13986,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/monforte-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/monforte-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14006,7 +14006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/mondov%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/mondovi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14056,7 +14056,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/m%C3%BChlen-in-taufers</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/muhlen-in-taufers</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14161,7 +14161,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/misano-di-gera-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/misano-di-gera-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -14671,7 +14671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/maser%C3%A0-di-padova</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/masera-di-padova</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15026,7 +15026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/mansu%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/mansue</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15111,7 +15111,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/mal%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/male</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15181,7 +15181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/magliano-de'marsi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/magliano-demarsi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15216,7 +15216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/madonna-dell'acqua</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/madonna-dellacqua</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15281,7 +15281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/luson---luesen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/luson-luesen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15311,7 +15311,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/lurago-d'erba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/lurago-derba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15371,7 +15371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/lugagnano-val-d'arda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/lugagnano-val-darda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15561,7 +15561,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/lod%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/lode</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15751,7 +15751,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/lesignano-de'bagni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/lesignano-debagni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16006,7 +16006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/l'aquila</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/laquila</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16026,7 +16026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/lanzo-d'intelvi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/lanzo-dintelvi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16206,7 +16206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/istia-d'ombrone-le-stiacciole</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/istia-dombrone-le-stiacciole</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16246,12 +16246,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/isola-del-gran-sasso-d'italia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/isola-del-gran-sasso-ditalia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/isola-d'arbia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/isola-darbia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16336,7 +16336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/incisa-in-val-d'arno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/incisa-in-val-darno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16711,7 +16711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/gradisca-d'isonzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/gradisca-disonzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16906,7 +16906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/giano-dell'umbria</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/giano-dellumbria</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17096,7 +17096,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/gambol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/gambolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17131,7 +17131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/galtell%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/galtelli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17211,7 +17211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/gaibanella-sant'edigio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/gaibanella-santedigio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17491,7 +17491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/forl%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/forli</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17551,7 +17551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/fontaneto-d'agogna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/fontaneto-dagogna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17721,7 +17721,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/fiorenzuola-d'arda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/fiorenzuola-darda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17776,7 +17776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/fi%C3%A8-allo-sciliar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/fie-allo-sciliar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17886,7 +17886,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/farra-d'alpago</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/farra-dalpago</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17911,7 +17911,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/fara-gera-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/fara-gera-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -17946,7 +17946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/falz%C3%A8-di-piave</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/falze-di-piave</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18036,7 +18036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/erb%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/erbe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18376,7 +18376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cuorgn%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cuorgne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18506,7 +18506,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/costigliole-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/costigliole-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18516,7 +18516,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/costa-sant'abramo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/costa-santabramo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18556,7 +18556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/cortina-d'ampezzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/cortina-dampezzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18606,7 +18606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/corpol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/corpolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18631,7 +18631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cornate-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cornate-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -18671,7 +18671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/corigliano-d'otranto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/corigliano-dotranto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19021,7 +19021,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/colle-di-val-d'elsa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/colle-di-val-delsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19046,7 +19046,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/col%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/cola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19081,7 +19081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/codogn%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/codogne</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19201,7 +19201,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/citt%C3%A0-sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/citta-santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19211,12 +19211,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/citt%C3%A0-di-castello</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/citta-di-castello</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/citt%C3%A0-della-pieve</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/umbria/citta-della-pieve</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19266,7 +19266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/ciri%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cirie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19331,12 +19331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ciano-d'enza</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ciano-denza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'andrea-pizzone-ciamprisco</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santandrea-pizzone-ciamprisco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19606,7 +19606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/cerreto-d'esi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/cerreto-desi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19836,7 +19836,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cazzano-sant'andrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cazzano-santandrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19881,7 +19881,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cavenago-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cavenago-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19941,12 +19941,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cavagli%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cavaglia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/cava-d%C3%A8-tirreni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/cava-de-tirreni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19961,7 +19961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca'-tiepolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca-tiepolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19976,7 +19976,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/castrignano-de'-greci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/castrignano-de-greci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20056,7 +20056,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castiglione-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castiglione-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20126,7 +20126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/castel-sant'elia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/castel-santelia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20136,7 +20136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/castel-san-niccol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/castel-san-niccolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20211,7 +20211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castelnuovo-bocca-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castelnuovo-bocca-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20226,7 +20226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castelnovo-ne'monti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castelnovo-nemonti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20296,7 +20296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castello-d'argile</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castello-dargile</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20336,7 +20336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castell'arquato</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/castellarquato</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20371,7 +20371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/castell'alfero</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/castellalfero</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20466,7 +20466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castel-d'ario</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castel-dario</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20491,7 +20491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/castelbello-ciardes---kastelbell-tschars</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/castelbello-ciardes-kastelbell-tschars</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20551,7 +20551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassina-de'-pecchi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassina-de-pecchi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20566,7 +20566,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassano-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassano-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20616,7 +20616,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/casole-d'elsa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/casole-delsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20641,7 +20641,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/casirate-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/casirate-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20701,7 +20701,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cascinette-d'ivrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cascinette-divrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -20946,7 +20946,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/carr%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/carru</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21321,7 +21321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cant%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cantu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21356,7 +21356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/canneto-sull'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/canneto-sulloglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21696,7 +21696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/camal%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/camalo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21741,7 +21741,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/calusco-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/calusco-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21766,7 +21766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cal%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/calo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21931,7 +21931,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ca'-di-sola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ca-di-sola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -21951,12 +21951,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca'-degli-oppi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca-degli-oppi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/cad%C3%A8-gaida</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/cade-gaida</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22086,7 +22086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/buddus%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/budduso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22191,7 +22191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/brignano-gera-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/brignano-gera-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22531,7 +22531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/borgoricco-san-michele-delle-badesse-sant'eufemia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/borgoricco-san-michele-delle-badesse-santeufemia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22571,7 +22571,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/borgofranco-d'ivrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/borgofranco-divrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22591,7 +22591,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/borgo-d'ale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/borgo-dale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22781,7 +22781,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/boffalora-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/boffalora-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -22896,7 +22896,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/bianz%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/bianze</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -23226,17 +23226,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/baselga-di-pin%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/baselga-di-pine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/bascap%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/bascape</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/barzan%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/barzano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -23326,7 +23326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/barberino-val-d'elsa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/barberino-val-delsa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -23346,7 +23346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/barano-d'ischia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/barano-dischia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24011,7 +24011,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/anzola-dell'emilia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/anzola-dellemilia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24256,7 +24256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/alm%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/alme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24346,7 +24346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/albiano-d'ivrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/albiano-divrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24371,7 +24371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/albaredo-d'adige</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/albaredo-dadige</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24381,7 +24381,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/albano-sant'alessandro</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/albano-santalessandro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24416,7 +24416,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/al%C3%A0-dei-sardi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/ala-dei-sardi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24491,7 +24491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/agli%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/aglie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24671,7 +24671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/gatteo-sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/gatteo-santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24771,12 +24771,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/terzo-d'aquileia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/terzo-daquileia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/san-canzian-d'isonzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/san-canzian-disonzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24851,7 +24851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/candel%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/candelu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24901,7 +24901,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/cosniga-zopp%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/cosniga-zoppe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24926,7 +24926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/falz%C3%A8-signoressa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/falze-signoressa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24951,12 +24951,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/foss%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/fosso</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/fiesso-d'artico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/fiesso-dartico</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -24996,7 +24996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'alberto</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santalberto</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25061,7 +25061,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'anna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santanna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25246,7 +25246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/romano-d'ezzelino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/romano-dezzelino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25376,7 +25376,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/san-cipriano-d'aversa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/san-cipriano-daversa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25426,7 +25426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ozzano-dell'emilia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ozzano-dellemilia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25466,7 +25466,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santa-maria-la-carit%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santa-maria-la-carita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25476,7 +25476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'egidio-del-monte-albino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santegidio-del-monte-albino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25501,7 +25501,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/sant'agata-li-battiati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/santagata-li-battiati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25601,7 +25601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/monticello-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/monticello-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25631,7 +25631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/isola-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/isola-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25686,7 +25686,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/caslino-d'erba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/caslino-derba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25761,7 +25761,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/par%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/pare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25871,7 +25871,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/pozzo-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/pozzo-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25891,7 +25891,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/canonica-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/canonica-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25956,12 +25956,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-paolo-d'argon</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/san-paolo-dargon</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'omobono-terme</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santomobono-terme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -25976,7 +25976,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/torre-de'-roveri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/torre-de-roveri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26086,7 +26086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/urago-d'oglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/urago-doglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26096,7 +26096,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/la-valle---wengen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/la-valle-wengen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26156,7 +26156,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/travac%C3%B2-siccomario</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/travaco-siccomario</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26181,7 +26181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/velo-d'astico</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/velo-dastico</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26191,7 +26191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/massanzago-ca'-baglioni-san-dono</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/massanzago-ca-baglioni-san-dono</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26206,7 +26206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/v%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/vo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26291,12 +26291,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/capriata-d'orba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/capriata-dorba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/campo-nell'elba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/campo-nellelba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26366,7 +26366,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/provaglio-d'iseo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/provaglio-diseo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26426,7 +26426,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/ro%C3%A8-volciano</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/roe-volciano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26446,32 +26446,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/barbiano---barbian</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/barbiano-barbian</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/brennero---brenner</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/brennero-brenner</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/funes---villnoess</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/funes-villnoess</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/magr%C3%A8-sulla-strada-del-vino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/magre-sulla-strada-del-vino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/racines---ratschings</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/racines-ratschings</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rasun-anterselva---rasen-antholz</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rasun-anterselva-rasen-antholz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26481,7 +26481,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rodengo---rodeneck</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rodengo-rodeneck</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26496,27 +26496,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/ultimo---ulten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/ultimo-ulten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/valle-aurina---ahrntal</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/valle-aurina-ahrntal</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/valle-di-casies---gsies</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/valle-di-casies-gsies</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/vandoies---vintl</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/vandoies-vintl</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/villandro---villanders</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/villandro-villanders</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26626,7 +26626,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/vezza-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/vezza-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26711,7 +26711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/fenegr%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/fenegro</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26816,7 +26816,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/chignolo-d'isola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/chignolo-disola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26906,7 +26906,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/carr%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/carre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26976,7 +26976,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/arqu%C3%A0-polesine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/arqua-polesine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27291,7 +27291,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/arzago-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/arzago-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27391,17 +27391,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/terno-d'isola</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/terno-disola</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-d'ogna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villa-dogna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27491,7 +27491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castello-d'agogna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/castello-dagogna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27531,7 +27531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/corte-de'-frati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/corte-de-frati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27711,7 +27711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/gualtieri-sicamin%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/gualtieri-sicamino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27821,7 +27821,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santa-maria-ho%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santa-maria-hoe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27851,7 +27851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cervignano-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cervignano-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27981,7 +27981,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cavaglio-d'agogna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/cavaglio-dagogna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28036,7 +28036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/buttigliera-d'asti</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/buttigliera-dasti</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28046,7 +28046,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/castelletto-d'orba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/castelletto-dorba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28136,7 +28136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/farra-d'isonzo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/friuli-venezia-giulia/farra-disonzo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28251,7 +28251,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/al%C3%AC-terme</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/ali-terme</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28346,7 +28346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vigan%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vigano</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28681,7 +28681,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/corneliano-d'alba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/corneliano-dalba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28696,7 +28696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/scena---schenna</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/scena-schenna</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -28851,7 +28851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/trinit%C3%A0-d'agultu</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sardinia/trinita-dagultu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29026,7 +29026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29046,7 +29046,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sandr%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sandra</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29166,7 +29166,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/miola-di-pin%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/miola-di-pine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29186,7 +29186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca'-savio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca-savio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29271,7 +29271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rabl%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/trentino-alto-adige/rabla</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29346,7 +29346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/san-nicol%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/san-nicolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29436,7 +29436,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/sant'andrea-ionio-marina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/calabria/santandrea-ionio-marina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29556,7 +29556,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/piattoni-villa-sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/piattoni-villa-santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29601,7 +29601,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/vill'albese</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/villalbese</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29631,7 +29631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/mandriola-sant'agostino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/mandriola-santagostino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29666,7 +29666,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/piazza-del-galdo-sant'angelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/piazza-del-galdo-santangelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29691,7 +29691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/san-nicol%C3%B2-a-tordino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/abruzzo/san-nicolo-a-tordino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29756,7 +29756,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/str%C3%A0-montanara-pieve</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/stra-montanara-pieve</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29766,7 +29766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29866,7 +29866,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/ro%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/roe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29881,7 +29881,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/on%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/one</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29966,7 +29966,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/basilicate/villa-d'agri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/basilicate/villa-dagri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -29991,7 +29991,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/crocetta-nogar%C3%A8</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/crocetta-nogare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30046,7 +30046,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/casette-d'ete</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/the-marches/casette-dete</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30101,7 +30101,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/s.p.-in-palazzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/sp-in-palazzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30246,7 +30246,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/tagg%C3%AC</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/taggi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30631,7 +30631,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/citt%C3%A0-giardino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/sicily/citta-giardino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30651,12 +30651,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/sant'angelo-in-villa-giglio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/santangelo-in-villa-giglio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'agata-martesana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santagata-martesana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30761,7 +30761,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/san-cipriano-s.barbara-centinale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/san-cipriano-sbarbara-centinale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30961,7 +30961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/c%C3%A0-d%C3%A8-fabbri</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ca-de-fabbri</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31081,7 +31081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/ponton-dell'elce</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/ponton-dellelce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31126,7 +31126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca'-rainati</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ca-rainati</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31211,7 +31211,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/aosta-valley/f%C3%A9nis</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/aosta-valley/fenis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31296,7 +31296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/venegazz%C3%B9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/venegazzu</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31581,7 +31581,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/madonna-dell'albero</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/madonna-dellalbero</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31656,7 +31656,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ball%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/ballo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31681,7 +31681,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/villa-d'asolo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/villa-dasolo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31696,7 +31696,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/monti-d'arena-bosco-caggione</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/apulia/monti-darena-bosco-caggione</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31726,7 +31726,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'apollinare</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santapollinare</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31766,7 +31766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ricc%C3%B2</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/ricco</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32016,7 +32016,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/molise/mimosa-poggio-verde-nuova-comunit%C3%A0</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/molise/mimosa-poggio-verde-nuova-comunita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32026,7 +32026,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'andrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santandrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32081,7 +32081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/emilia-romagna/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32121,7 +32121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/sant'albino</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/tuscany/santalbino</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32141,7 +32141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/piedmont/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32316,7 +32316,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/sant'andrea</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santandrea</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32721,7 +32721,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/porto-d'adda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/porto-dadda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32736,7 +32736,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassino-d'alberi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/cassino-dalberi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -32941,7 +32941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'antonio</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santantonio</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33031,7 +33031,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/pie'-falcade</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/pie-falcade</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33086,7 +33086,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/preara-moraro-lev%C3%A0-nord</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/preara-moraro-leva-nord</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33266,7 +33266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/san-carlo-all'arena</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/campania/san-carlo-allarena</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33366,12 +33366,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/sant'eufemia-della-fonte</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lombardy/santeufemia-della-fonte</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/casal-de'-pazzi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/lazio/casal-de-pazzi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33396,7 +33396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santa-caterina-d'este</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/italy/veneto/santa-caterina-deste</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

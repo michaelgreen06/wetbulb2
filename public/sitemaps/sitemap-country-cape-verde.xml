@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/tarrafal-de-s%C3%A3o-nicolau/tarrafal-de-s%C3%A3o-nicolau</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/tarrafal-de-sao-nicolau/tarrafal-de-sao-nicolau</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -26,12 +26,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-filipe/s%C3%A3o-filipe</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-filipe/sao-filipe</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-domingos/s%C3%A3o-domingos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-domingos/sao-domingos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,12 +76,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-salvador-do-mundo/picos</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-salvador-do-mundo/picos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-vicente/mindelo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-vicente/mindelo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -96,7 +96,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/s%C3%A3o-miguel/calheta</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cape-verde/sao-miguel/calheta</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

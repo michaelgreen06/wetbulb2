@@ -6,17 +6,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/%C5%BEupanja</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/zupanja</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/%C5%BErnovo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/zrnovo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/%C5%BErnovnica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/zrnovnica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,12 +31,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/%C5%BEdralovi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/zdralovi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/zdenci-brdove%C4%8Dki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/zdenci-brdovecki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/zapre%C5%A1i%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/zapresic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,7 +76,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/sveti-ivan-%C5%BEabno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/sveti-ivan-zabno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,7 +121,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/vrati%C5%A1inec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/vratisinec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -136,7 +136,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/vojni%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/vojnic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -146,17 +146,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/vo%C4%91inci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/vodjinci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/vodice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/vodice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/vi%C5%A1njevac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/visnjevac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,7 +171,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/virje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/virje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -186,7 +186,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/vine%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/vinez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,12 +201,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/veliko-trgovi%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/veliko-trgovisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/veliki-gr%C4%91evac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/veliki-grdjevac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/velika</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/velika</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -241,17 +241,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/vara%C5%BEdinske-toplice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/varazdinske-toplice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/vara%C5%BEdin-breg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/varazdin-breg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/vara%C5%BEdin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/varazdin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,7 +281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/tu%C4%8Depi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/tucepi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -296,7 +296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/trnovec-bartolove%C4%8Dki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/trnovec-bartolovecki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -306,7 +306,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/tribunj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/tribunj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,7 +321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/tisno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/tisno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -336,7 +336,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/sveti-petar-u-%C5%A1umi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/sveti-petar-u-sumi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -346,7 +346,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/sveta-marija</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/sveta-marija</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,7 +361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/suko%C5%A1an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/sukosan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -371,7 +371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/stro%C5%BEanac---donji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/strozanac-donji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -386,17 +386,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/strahoninec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/strahoninec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/stobre%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/stobrec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/%C5%A1titar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/stitar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -431,7 +431,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/sra%C4%8Dinec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/sracinec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,7 +441,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/%C5%A1pi%C5%A1i%C4%87-bukovica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/spisic-bukovica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -461,7 +461,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/slavonski-koba%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/slavonski-kobas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,22 +471,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/po%C5%BEega</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/pozega</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/%C5%A1krljevo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/skrljevo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/%C5%A1kabrnje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/skabrnje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/%C5%A1i%C5%A1an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/sisan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -496,7 +496,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/sira%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/sirac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -511,7 +511,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/sigetec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/sigetec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -521,7 +521,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/%C5%A1ibenik</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/sibenik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,7 +531,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/%C5%A1enkovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/senkovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -546,7 +546,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/selci-%C3%B0akova%C4%8Dki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/selci-dakovacki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -556,12 +556,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/satnica-%C3%B0akova%C4%8Dka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/satnica-dakovacka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/sarva%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/sarvas</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -571,12 +571,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/ru%C5%A1%C4%8Dica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/ruscica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/runovi%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/runovic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -586,12 +586,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/rube%C5%A1i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/rubesi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/rovi%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/rovisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -626,22 +626,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/re%C5%A1etari</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/resetari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/repu%C5%A1nica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/repusnica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/remetinec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/remetinec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/reka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/reka</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -651,7 +651,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/ra%C5%A1a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/rasa</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -676,7 +676,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/pu%C5%A1%C4%87ine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/puscine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -691,7 +691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/pu%C4%8Di%C5%A1%C4%87a</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/pucisca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -706,12 +706,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/primo%C5%A1ten</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/primosten</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/prigorje-brdove%C4%8Dko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/prigorje-brdovecko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -721,12 +721,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/pribislavec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/pribislavec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/prelog</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/prelog</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -751,12 +751,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/pore%C4%8D</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/porec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/popova%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/popovaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -766,7 +766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/poli%C4%8Dnik</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/policnik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -781,7 +781,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/podturen</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/podturen</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -791,7 +791,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/podravske-sesvete</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/podravske-sesvete</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -811,32 +811,32 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/plo%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/ploce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/pleternica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/pleternica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/pla%C5%A1ki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/plaski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/pitoma%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/pitomaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/pi%C5%A1korevci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/piskorevci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/pirovac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/pirovac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -851,17 +851,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/petrijanec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/petrijanec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/peteranec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/peteranec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/peklenica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/peklenica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,12 +871,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/pakrac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/pakrac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/pako%C5%A1tane</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/pakostane</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -901,12 +901,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/oto%C4%8Dac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/otocac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/o%C5%A1tarije</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/ostarije</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -926,17 +926,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/ore%C5%A1je</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/oresje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/orehovica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/orehovica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/orebi%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/orebic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -956,17 +956,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/omi%C5%A1alj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/omisalj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/omi%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/omis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/oku%C4%8Dani</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/okucani</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -981,12 +981,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/odranski-obre%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/odranski-obrez</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/nu%C5%A1tar</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/nustar</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -996,7 +996,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/novo-selo-rok</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/novo-selo-rok</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1006,7 +1006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/novo-%C4%8Di%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/novo-cice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1016,12 +1016,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/novi-marof</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/novi-marof</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/novigrad-podravski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/novigrad-podravski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1036,7 +1036,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/nova-gradi%C5%A1ka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/nova-gradiska</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1051,27 +1051,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/nedeljanec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/nedeljanec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/nedeli%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/nedelisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/na%C5%A1ice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/nasice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/mursko-sredi%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/mursko-sredisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/murter</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/murter</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1086,17 +1086,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/mo%C5%A1%C4%87enica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/moscenica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/molve</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/molve</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/moko%C5%A1ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/mokosica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1106,17 +1106,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/mihovljan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/mihovljan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/mi%C4%8Devec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/micevec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/metkovi%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/metkovic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1136,12 +1136,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/markovac-na%C5%A1i%C4%8Dki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/markovac-nasicki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/marini%C4%87i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/marinici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1156,22 +1156,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/mar%C4%8Delji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/marcelji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/mar%C4%8Dana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/marcana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/mali-lo%C5%A1inj</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/mali-losinj</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/mala-subotica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/mala-subotica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1181,7 +1181,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/ma%C4%8Dkovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/mackovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1196,12 +1196,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/ludbreg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/ludbreg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/lu%C4%8Dko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/lucko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1216,27 +1216,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/ljube%C5%A1%C4%87ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/ljubescica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/li%C5%BEnjan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/liznjan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/lipik</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/lipik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/li%C4%8Dki-osik</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/licki-osik</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/lepoglava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/lepoglava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1256,7 +1256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/kutjevo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/kutjevo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1266,17 +1266,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/kur%C5%A1anec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/kursanec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/ku%C4%8De</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kuce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/ku%C4%87an-marof</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/kucan-marof</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1286,12 +1286,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/kri%C5%BEevci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/krizevci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kri%C5%BE</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kriz</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1316,22 +1316,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/kraljevec-kupine%C4%8Dki</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/kraljevec-kupinecki</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kozin%C5%A1%C4%8Dak</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kozinscak</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/kotoriba</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/kotoriba</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ko%C5%A1ute</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kosute</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1346,17 +1346,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/ko%C5%A1ka</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/koska</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/kor%C4%8Dula</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/korcula</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/koprivnica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/koprivnica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1366,27 +1366,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/komi%C5%BEa</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/komiza</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/knin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/knin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/kne%C5%BEevi-vinogradi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/knezevi-vinogradi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/klo%C5%A1tar-podravski</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/klostar-podravski</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/klo%C5%A1tar-ivani%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/klostar-ivanic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1396,7 +1396,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/klin%C4%8Da-sela</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/klinca-sela</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1406,7 +1406,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/kistanje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/kistanje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1416,37 +1416,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-su%C4%87urac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-sucurac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-stari</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-stari</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-%C5%A1tafili%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-stafilic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-novi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-novi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-luk%C5%A1i%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-luksic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-kambelovac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-kambelovac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ka%C5%A1tel-gomilica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kastel-gomilica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1456,17 +1456,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/ka%C5%A1ina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/kasina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/kaptol</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/kaptol</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/kalinovac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/kalinovac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1491,7 +1491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/je%C5%BEdovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/jezdovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1521,17 +1521,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/jal%C5%BEabet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/jalzabet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/jalkovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/jalkovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/jak%C5%A1i%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/jaksic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1551,7 +1551,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/ivanovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/ivanovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1566,12 +1566,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/ivani%C4%87-grad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/ivanic-grad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/ivanec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/ivanec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1606,7 +1606,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/hra%C5%A1%C4%87e-turopoljsko</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb/hrasce-turopoljsko</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1616,12 +1616,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/hodo%C5%A1an</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/hodosan</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/hlebine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/hlebine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1636,27 +1636,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/grubi%C5%A1no-polje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/grubisno-polje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/gradi%C5%A1te</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/gradiste</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/gradi%C4%87i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/gradici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/gra%C4%8Dac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zadar/gracac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/gospi%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/lika-senj/gospic</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1666,17 +1666,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/ku%C4%87an-gornji</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/kucan-gornji</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/gornji-kneginec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/gornji-kneginec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/gornje-vratno</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/gornje-vratno</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1691,7 +1691,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/gori%C4%8Dan</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/gorican</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1711,7 +1711,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/gare%C5%A1nica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/garesnica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1721,7 +1721,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/gali%C5%BEana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/galizana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1731,27 +1731,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/feri%C4%8Danci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/fericanci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/ferdinandovac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/ferdinandovac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/fa%C5%BEana</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/istria/fazana</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/%C4%91ur%C4%91evac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/djurdjevac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/%C3%B0ur%C4%91enovac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/durdjenovac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1776,7 +1776,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/du%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/duce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1786,7 +1786,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/dubrava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/dubrava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1796,12 +1796,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/drni%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/drnis</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/novo-virje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/novo-virje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1816,12 +1816,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/dra%C5%BEice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/drazice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/dragani%C4%87i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/karlovac/draganici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1831,7 +1831,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/donji-vidovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/donji-vidovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1841,7 +1841,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/donji-prolo%C5%BEac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/donji-prolozac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1851,7 +1851,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/donji-kraljevec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/donji-kraljevec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1861,7 +1861,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/donje-ladanje</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/donje-ladanje</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1876,7 +1876,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/donja-dubrava</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/donja-dubrava</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1891,7 +1891,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/doma%C5%A1inec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/domasinec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1926,7 +1926,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/%C4%91akovo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/djakovo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1941,7 +1941,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/%C4%8Diba%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/cibaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1961,17 +1961,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/ceri%C4%87</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/ceric</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/%C4%8Depin</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/cepin</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/%C4%8Dazma</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/bjelovar-bilogora/cazma</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1981,17 +1981,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/%C4%8Davle</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/cavle</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/%C4%8Dakovec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/cakovec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/%C4%8Da%C4%8Dinci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/virovitica-podravina/cacinci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2006,7 +2006,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/bu%C5%A1evec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/busevec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2026,12 +2026,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/buda%C5%A1evo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sisak-moslavina/budasevo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/brodski-varo%C5%A1</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/brod-posavina/brodski-varos</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2056,12 +2056,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/brije%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/brijesce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/koprivni%C4%8Dki-bregi</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/koprivnicki-bregi</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2081,7 +2081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/bo%C5%A1njaci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/bosnjaci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2126,7 +2126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/bilice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/bilice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2146,7 +2146,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/beli%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/county-of-osijek-baranja/belisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2156,17 +2156,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/belica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/belica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/bedekov%C4%8Dina</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/bedekovcina</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ba%C5%A1ka-voda</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/baska-voda</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2196,7 +2196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/andrija%C5%A1evci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vukovar-srijem/andrijasevci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2226,7 +2226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/%C5%A1ibenik-knin/brodarica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/sibenik-knin/brodarica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2256,7 +2256,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-kri%C5%BEevci/starigrad</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/koprivnica-krizevci/starigrad</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2281,7 +2281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/po%C5%BEega-slavonia/vidovci</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/pozega-slavonia/vidovci</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2296,7 +2296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/ku%C4%8Dine</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/kucine</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2351,12 +2351,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/stubi%C4%8Dke-toplice</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/krapina-zagorje/stubicke-toplice</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/vi%C5%A1kovo</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/viskovo</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2371,7 +2371,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/vara%C5%BEdin/hra%C5%A1%C4%87ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/varazdin/hrascica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2391,17 +2391,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/parag</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/parag</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/me%C4%91imurje/savska-ves</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/medjimurje/savska-ves</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kop%C4%8Devec</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/kopcevec</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2411,7 +2411,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/lukari%C5%A1%C4%87e</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/zagreb-county/lukarisce</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2421,7 +2421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/sar%C5%A1oni</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/sarsoni</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2431,7 +2431,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/mladeni%C4%87i</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/primorje-gorski-kotar/mladenici</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2446,22 +2446,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana---miljevac</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana-miljevac</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana---%C5%BEminja%C4%8Da</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana-zminjaca</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/nova-moko%C5%A1ica</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/dubrovnik-neretva/nova-mokosica</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana---sita</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/croatia/split-dalmatia/podstrana-sita</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

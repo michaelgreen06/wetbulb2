@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/the-vale</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/the-vale</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,7 +66,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/pamplemousses/morcellement-saint-andr%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/pamplemousses/morcellement-saint-andre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,27 +76,27 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/roche-terre</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/roche-terre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/roches-noire</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/roches-noire</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/black-river/grande-rivi%C3%A8re-noire</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/black-river/grande-riviere-noire</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/rivi%C3%A8re-du-rempart</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/riviere-du-rempart</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/savanne/rivi%C3%A8re-des-anguilles</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/savanne/riviere-des-anguilles</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -126,7 +126,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/poudre-d%E2%80%99or</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/poudre-dor</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,12 +151,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/petit-raffray</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/petit-raffray</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/black-river/petite-rivi%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/black-river/petite-riviere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,7 +196,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/piton</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/piton</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,7 +216,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/grand-port/mah%C3%A9bourg</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/grand-port/mahebourg</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -226,7 +226,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/grand-port/l%E2%80%99escalier</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/grand-port/lescalier</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -236,7 +236,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/moka/dagoti%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/moka/dagotiere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -246,17 +246,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/grande-rivi%C3%A8re-sud-est</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/grande-riviere-sud-est</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/grand-gaube</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/grand-gaube</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/grand-baie</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/grand-baie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,7 +266,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/goodlands</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/goodlands</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,7 +281,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/esp%C3%A9rance-tr%C3%A9buchet</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/esperance-trebuchet</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -291,12 +291,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/pamplemousses/cr%C3%A8ve-coeur</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/pamplemousses/creve-coeur</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/cl%C3%A9mencia</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/clemencia</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,7 +321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/cap-malheureux</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/cap-malheureux</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -341,7 +341,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/bris%C3%A9e-verdi%C3%A8re</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/brisee-verdiere</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,7 +356,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/bel-air-rivi%C3%A8re-s%C3%A8che</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/flacq/bel-air-riviere-seche</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,7 +391,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/cottage</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/cottage</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,12 +411,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/amaury</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/amaury</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/plaines-des-roches</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/plaines-des-roches</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,7 +456,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rivi%C3%A8re-du-rempart/mapou</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/riviere-du-rempart/mapou</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -486,7 +486,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rodrigues/baie-aux-hu%C3%AEtres</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/mauritius/rodrigues/baie-aux-huitres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

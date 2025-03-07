@@ -6,7 +6,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/kampong-thom/t%C4%83ng-kr%C3%A2s%C4%83ng</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/kampong-thom/tang-krasang</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -66,12 +66,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/takeo/phum%C4%AD-v%C3%A9al-sr%C3%AA</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/takeo/phum-veal-sre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/%C5%8Ft%C3%A2r-m%C3%A9anchey/samraong</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/tar-meanchey/samraong</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,7 +111,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/kratie/krati%C3%A9</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/cambodia/kratie/kratie</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -6,7 +6,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/trois-rivi%C3%A8res</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/trois-rivieres</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -16,7 +16,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/saint-fran%C3%A7ois</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/saint-francois</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,7 +46,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/pointe-%C3%A0-pitre</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/pointe-a-pitre</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,7 +81,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/beaus%C3%A9jour</loc>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/guadeloupe/guadeloupe/beausejour</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>
