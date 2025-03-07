@@ -20,6 +20,20 @@ const nextConfig: NextConfig = {
         source: '/sitemap-locations-:part.xml',
         destination: '/api/sitemap-locations-:part.xml',
       },
+      {
+        source: '/sitemap-categories.xml',
+        destination: '/api/sitemap-categories.xml',
+      },
+      {
+        // For country sitemaps with pagination
+        source: '/sitemap-country-:country(.*)-:part(\\d+).xml',
+        destination: '/api/sitemap-country.xml?country=:country&part=:part',
+      },
+      {
+        // For country sitemaps without pagination
+        source: '/sitemap-country-:country.xml',
+        destination: '/api/sitemap-country.xml?country=:country',
+      },
     ];
   },
 }
