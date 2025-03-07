@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/monte-carlo</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/monaco</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/la-condamine</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/fontvieille</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/saint-roman</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wetbulb35.com/wetbulb-temperature/monaco/municipality-of-monaco/moneghetti</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

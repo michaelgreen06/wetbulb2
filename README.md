@@ -29,6 +29,29 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Sitemap Generation
+
+This project uses a static sitemap generation system that creates XML sitemap files which are committed to the repository. Since generating sitemaps for all locations is time-consuming and the location data rarely changes, this approach allows for efficient builds while ensuring search engines can discover all pages.
+
+### Sitemap Files
+
+The following sitemap files are included in the repository:
+
+- `public/sitemap.xml` - The main sitemap index that references all other sitemaps
+- `public/sitemaps/sitemap-main.xml` - Contains URLs for the main pages of the site
+- `public/sitemaps/sitemap-categories.xml` - Contains URLs for country and state/province pages
+- `public/sitemaps/sitemap-country-*.xml` - Contains URLs for city pages, one file per country
+
+### Updating Sitemaps
+
+If you add new locations or need to update the sitemaps for any reason, run:
+
+```bash
+npm run generate-sitemaps
+```
+
+This will create all sitemap files in the `public/sitemaps` directory. After generation, commit these files to the repository so they'll be included in the next deployment.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
