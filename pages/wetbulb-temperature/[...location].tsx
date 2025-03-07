@@ -60,13 +60,13 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
   const pageTitle = `Wet Bulb Temperature in ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}`;
   const pageDescription = `Current wet bulb temperature and weather conditions for ${name}, ${resolvedAdmin1Code}, ${resolvedCountryName}. Updated ${new Date(timestamp).toLocaleString()}.`;
   
-  // Create a canonical URL
-  const canonicalUrl = `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`;
+  // Create a canonical URL with inverted structure: /country/state/city
+  const canonicalUrl = `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}`;
   
   // Use a default image for social sharing
   const imageUrl = `${baseUrl}/images/wetbulb-default.jpg`;
 
-  // Create breadcrumb structure
+  // Create breadcrumb structure with inverted hierarchy: country > state > city
   const breadcrumbData = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -80,20 +80,20 @@ export default function LocationPage({ locationData, weatherData }: LocationPage
       {
         "@type": "ListItem",
         "position": 2,
-        "name": name,
-        "item": `${baseUrl}/wetbulb-temperature/${citySlug}`
+        "name": resolvedCountryName,
+        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}`
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": resolvedAdmin1Code,
-        "item": `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}`
+        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}`
       },
       {
         "@type": "ListItem",
         "position": 4,
-        "name": resolvedCountryName,
-        "item": `${baseUrl}/wetbulb-temperature/${citySlug}/${stateSlug}/${countrySlug}`
+        "name": name,
+        "item": `${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}`
       }
     ]
   };
@@ -223,9 +223,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       return { notFound: true };
     }
 
-    const [citySlug, stateSlug, countrySlug] = params.location;
+    const [countrySlug, stateSlug, citySlug] = params.location;
 
-    if (!citySlug || !stateSlug || !countrySlug) {
+    if (!countrySlug || !stateSlug || !citySlug) {
       return { notFound: true };
     }
 
@@ -239,16 +239,16 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
     const citiesData = JSON.parse(fs.readFileSync(citiesPath, 'utf-8'));
 
-    // Find the matching city
+    // Find the matching city with inverted parameter order (country/state/city)
     const city = citiesData.find((city: LocationData) => {
-      const matchCity = toSlug(city.name).toLowerCase() === citySlug.toLowerCase();
-      const matchState = toSlug(city.resolvedAdmin1Code).toLowerCase() === stateSlug.toLowerCase();
       const matchCountry = toSlug(city.resolvedCountryName).toLowerCase() === countrySlug.toLowerCase();
-      return matchCity && matchState && matchCountry;
+      const matchState = toSlug(city.resolvedAdmin1Code).toLowerCase() === stateSlug.toLowerCase();
+      const matchCity = toSlug(city.name).toLowerCase() === citySlug.toLowerCase();
+      return matchCountry && matchState && matchCity;
     });
 
     if (!city) {
-      console.log('No matching city found for:', { citySlug, stateSlug, countrySlug });
+      console.log('No matching city found for:', { countrySlug, stateSlug, citySlug });
       return { notFound: true };
     }
 
