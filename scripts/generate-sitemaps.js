@@ -100,14 +100,10 @@ async function generateSitemapIndex() {
       const partsCount = await getSitemapPartsForCountry(country);
       
       const countrySitemaps = [];
-      // If there are multiple parts for a country, add each part
-      if (partsCount > 1) {
-        for (let i = 1; i <= partsCount; i++) {
-          countrySitemaps.push(`${baseUrl}/sitemaps/sitemap-country-${countrySlug}-${i}.xml`);
-        }
-      } else {
-        // Otherwise just add the single country sitemap
-        countrySitemaps.push(`${baseUrl}/sitemaps/sitemap-country-${countrySlug}.xml`);
+      // Use consistent naming pattern for all country sitemaps
+      for (let i = 1; i <= partsCount; i++) {
+        const suffix = i > 1 ? `-${i}` : '';
+        countrySitemaps.push(`${baseUrl}/sitemaps/sitemap-country-${countrySlug}${suffix}.xml`);
       }
       return countrySitemaps;
     });
@@ -319,14 +315,9 @@ async function generateCountrySitemap(countryName, partNumber = 1) {
       jsonStream.on('end', () => {
         xml += '</urlset>';
         
-        // Determine the filename based on whether we have multiple parts
+        // Always use a consistent naming pattern for all sitemap parts
         const countrySlug = toSlug(countryName);
-        let filename;
-        if (partNumber > 1) {
-          filename = `sitemap-country-${countrySlug}-${partNumber}.xml`;
-        } else {
-          filename = `sitemap-country-${countrySlug}.xml`;
-        }
+        const filename = `sitemap-country-${countrySlug}${partNumber > 1 ? `-${partNumber}` : ''}.xml`;
         
         fs.writeFileSync(path.join(SITEMAPS_DIR, filename), xml);
         console.log(`Generated sitemap for ${countryName} part ${partNumber}: Included ${includedCities} URLs`);
