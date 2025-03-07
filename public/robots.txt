@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Allow: /sitemaps/
+Allow: /sitemaps/*.xml
+
+# Block old API-based sitemap URLs
+Disallow: /api/sitemap-*.xml
+Disallow: /api/sitemap-index.xml
+
+# Block old sitemap-locations files
+Disallow: /sitemap-locations-1.xml
+Disallow: /sitemap-locations-2.xml
+Disallow: /sitemap-locations-3.xml
+Disallow: /sitemap-locations-4.xml
+Disallow: /sitemap-locations-5.xml
+Disallow: /sitemap-locations-6.xml
+Disallow: /sitemap-locations-7.xml
+Disallow: /sitemap-locations-8.xml
+Disallow: /sitemap-locations-9.xml
+Disallow: /sitemap-locations-10.xml
+Disallow: /sitemap-locations-11.xml
+Disallow: /sitemap-locations-12.xml
+Disallow: /sitemap-locations-13.xml
+Disallow: /sitemap-locations-14.xml
+
+# Specify the location of the sitemap
+Sitemap: https://www.wetbulb35.com/sitemap.xml

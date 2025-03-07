@@ -14,6 +14,10 @@ const nextConfig = {
       {
         source: '/sitemap-:path*.xml',
         destination: '/sitemaps/sitemap-:path*.xml'
+      },
+      {
+        source: '/robots.txt',
+        destination: '/robots.txt'
       }
     ];
   }
