@@ -6,8 +6,6 @@ import path from 'path';
 import { toSlug } from '../../../lib/utils/string';
 import Header from '../../../components/Header';
 import Footer from '../../../components/Footer';
-import SearchBox from '../../../components/SearchBox';
-import CurrentLocationButton from '../../../components/CurrentLocationButton';
 import { useRouter } from 'next/router';
 
 interface StateData {
@@ -55,13 +53,7 @@ export default function CountryPage({ countryName, states }: CountryPageProps) {
     ]
   };
 
-  const handleLocationSelect = (lat: number, lng: number) => {
-    router.push(`/?lat=${lat}&lng=${lng}`);
-  };
 
-  const handleCurrentLocation = () => {
-    router.push('/');
-  };
 
   return (
     <>
@@ -100,13 +92,7 @@ export default function CountryPage({ countryName, states }: CountryPageProps) {
         <Header />
         
         <div className="space-y-6">
-          <SearchBox onLocationSelect={handleLocationSelect} />
-          
-          <div className="mt-8">
-            <CurrentLocationButton onClick={handleCurrentLocation} />
-          </div>
-          
-          <div className="mt-12">
+          <div className="mt-6">
             <div className="mb-6">
               <Link href="/wetbulb-temperature" className="text-blue-600 hover:underline">
                 ← Back to Countries

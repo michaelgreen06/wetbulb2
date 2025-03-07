@@ -6,8 +6,6 @@ import path from 'path';
 import { toSlug } from '../../lib/utils/string';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import SearchBox from '../../components/SearchBox';
-import CurrentLocationButton from '../../components/CurrentLocationButton';
 import { useRouter } from 'next/router';
 
 interface CountryData {
@@ -42,13 +40,7 @@ export default function CountriesPage({ countries }: CountriesPageProps) {
     ]
   };
 
-  const handleLocationSelect = (lat: number, lng: number) => {
-    router.push(`/?lat=${lat}&lng=${lng}`);
-  };
 
-  const handleCurrentLocation = () => {
-    router.push('/');
-  };
 
   return (
     <>
@@ -87,13 +79,7 @@ export default function CountriesPage({ countries }: CountriesPageProps) {
         <Header />
         
         <div className="space-y-6">
-          <SearchBox onLocationSelect={handleLocationSelect} />
-          
-          <div className="mt-8">
-            <CurrentLocationButton onClick={handleCurrentLocation} />
-          </div>
-          
-          <div className="mt-12">
+          <div className="mt-6">
             <h1 className="text-3xl font-bold mb-6">Browse Wet Bulb Temperature by Country</h1>
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

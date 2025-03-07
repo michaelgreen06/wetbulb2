@@ -6,8 +6,6 @@ import path from 'path';
 import { toSlug } from '../../../../lib/utils/string';
 import Header from '../../../../components/Header';
 import Footer from '../../../../components/Footer';
-import SearchBox from '../../../../components/SearchBox';
-import CurrentLocationButton from '../../../../components/CurrentLocationButton';
 import { useRouter } from 'next/router';
 
 interface CityData {
@@ -64,13 +62,7 @@ export default function StatePage({ countryName, stateName, cities }: StatePageP
     ]
   };
 
-  const handleLocationSelect = (lat: number, lng: number) => {
-    router.push(`/?lat=${lat}&lng=${lng}`);
-  };
 
-  const handleCurrentLocation = () => {
-    router.push('/');
-  };
 
   return (
     <>
@@ -109,13 +101,7 @@ export default function StatePage({ countryName, stateName, cities }: StatePageP
         <Header />
         
         <div className="space-y-6">
-          <SearchBox onLocationSelect={handleLocationSelect} />
-          
-          <div className="mt-8">
-            <CurrentLocationButton onClick={handleCurrentLocation} />
-          </div>
-          
-          <div className="mt-12">
+          <div className="mt-6">
             <div className="mb-6">
               <Link href={`/wetbulb-temperature/${countrySlug}`} className="text-blue-600 hover:underline">
                 ← Back to {countryName}
@@ -133,9 +119,6 @@ export default function StatePage({ countryName, stateName, cities }: StatePageP
                     className="p-4 border rounded-lg hover:bg-gray-50 transition-colors"
                   >
                     <div className="font-semibold">{city.name}</div>
-                    <div className="text-sm text-gray-500">
-                      Lat: {city.latitude.toFixed(2)}, Lng: {city.longitude.toFixed(2)}
-                    </div>
                   </Link>
                 ))}
               </div>
