@@ -5,28 +5,58 @@ import { createReadStream } from 'fs';
 import JSONStream from 'JSONStream';
 import { toSlug } from '../lib/utils/string.js';
 
+// Configuration Constants
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 const SITEMAPS_DIR = path.join(PUBLIC_DIR, 'sitemaps');
+const MAX_URLS_PER_SITEMAP = 9999;
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
+const DATA_PATH = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
+const BATCH_SIZE = {
+  COUNTRIES_SITEMAP: 10,  // For generateCountrySitemaps
+  COUNTRIES_INDEX: 50     // For generateSitemapIndex
+};
+
+// Utility Functions
+function ensureDirectoriesExist() {
+  if (!fs.existsSync(PUBLIC_DIR)) {
+    fs.mkdirSync(PUBLIC_DIR);
+  }
+  if (!fs.existsSync(SITEMAPS_DIR)) {
+    fs.mkdirSync(SITEMAPS_DIR);
+  }
+}
+
+async function processBatch(items, batchSize, processFn) {
+  const results = [];
+  for (let i = 0; i < items.length; i += batchSize) {
+    console.log(`Processing batch ${Math.floor(i/batchSize) + 1} of ${Math.ceil(items.length/batchSize)}...`);
+    
+    const batch = items.slice(i, i + batchSize);
+    const batchPromises = batch.map(processFn);
+    const batchResults = await Promise.all(batchPromises);
+    results.push(...batchResults.flat());
+  }
+  return results;
+}
+
+// Data Loading Functions
+async function loadCitiesData() {
+  try {
+    return JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
+  } catch (error) {
+    console.error('Error loading cities data:', error);
+    throw error;
+  }
+}
 
 // Ensure directories exist
-if (!fs.existsSync(PUBLIC_DIR)) {
-  fs.mkdirSync(PUBLIC_DIR);
-}
-if (!fs.existsSync(SITEMAPS_DIR)) {
-  fs.mkdirSync(SITEMAPS_DIR);
-}
-
-// Maximum URLs per sitemap (keeping under 10,000 as requested)
-const MAX_URLS_PER_SITEMAP = 9999;
-
-// We're now importing the proper toSlug function from lib/utils/string.js
+ensureDirectoriesExist();
 
 // Get a list of all countries from the dataset
 async function getAllCountries() {
   try {
-    const dataPath = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
-    const citiesData = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    const citiesData = await loadCitiesData();
     
     // Extract unique country names
     const countries = new Set();
@@ -46,8 +76,7 @@ async function getAllCountries() {
 // Count cities in a country to determine how many sitemap parts are needed
 async function countCitiesInCountry(countryName) {
   try {
-    const dataPath = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
-    const citiesData = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    const citiesData = await loadCitiesData();
     
     let count = 0;
     citiesData.forEach((city) => {
@@ -72,44 +101,29 @@ async function getSitemapPartsForCountry(countryName) {
 async function generateSitemapIndex() {
   console.log('Generating sitemap index...');
   
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
   const countries = await getAllCountries();
   
   // Start with the main sitemap and category sitemap
   const sitemaps = [
-    `${baseUrl}/sitemaps/sitemap-main.xml`,
-    `${baseUrl}/sitemaps/sitemap-categories.xml`
+    `${BASE_URL}/sitemaps/sitemap-main.xml`,
+    `${BASE_URL}/sitemaps/sitemap-categories.xml`
   ];
 
   console.log(`Processing ${countries.length} countries...`);
   
   // Process countries in batches to avoid memory issues
-  const BATCH_SIZE = 50;
-  const allCountrySitemaps = [];
-  
-  for (let i = 0; i < countries.length; i += BATCH_SIZE) {
-    console.log(`Processing batch ${Math.floor(i/BATCH_SIZE) + 1} of ${Math.ceil(countries.length/BATCH_SIZE)}...`);
+  const allCountrySitemaps = await processBatch(countries, BATCH_SIZE.COUNTRIES_INDEX, async (country) => {
+    const countrySlug = toSlug(country);
+    const partsCount = await getSitemapPartsForCountry(country);
     
-    const countryBatch = countries.slice(i, i + BATCH_SIZE);
-    
-    // Process this batch in parallel
-    const batchPromises = countryBatch.map(async (country) => {
-      const countrySlug = toSlug(country);
-      const partsCount = await getSitemapPartsForCountry(country);
-      
-      const countrySitemaps = [];
-      // Use consistent naming pattern for all country sitemaps
-      for (let i = 1; i <= partsCount; i++) {
-        const suffix = i > 1 ? `-${i}` : '';
-        countrySitemaps.push(`${baseUrl}/sitemaps/sitemap-country-${countrySlug}${suffix}.xml`);
-      }
-      return countrySitemaps;
-    });
-    
-    // Wait for this batch to complete
-    const batchResults = await Promise.all(batchPromises);
-    allCountrySitemaps.push(...batchResults.flat());
-  }
+    const countrySitemaps = [];
+    // Use consistent naming pattern for all country sitemaps
+    for (let i = 1; i <= partsCount; i++) {
+      const suffix = i > 1 ? `-${i}` : '';
+      countrySitemaps.push(`${BASE_URL}/sitemaps/sitemap-country-${countrySlug}${suffix}.xml`);
+    }
+    return countrySitemaps;
+  });
   
   // Flatten the array of arrays into a single array
   const countrySitemaps = allCountrySitemaps;
@@ -135,28 +149,26 @@ async function generateSitemapIndex() {
 async function generateMainSitemap() {
   console.log('Generating main sitemap...');
   
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
-  
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
   xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
   
   // Add homepage
   xml += `  <url>
-    <loc>${baseUrl}</loc>
+    <loc>${BASE_URL}</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>\n`;
   
   // Add about page
   xml += `  <url>
-    <loc>${baseUrl}/about</loc>
+    <loc>${BASE_URL}/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>\n`;
   
   // Add wetbulb temperature main page
   xml += `  <url>
-    <loc>${baseUrl}/wetbulb-temperature</loc>
+    <loc>${BASE_URL}/wetbulb-temperature</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>\n`;
@@ -171,7 +183,6 @@ async function generateMainSitemap() {
 async function generateCategorySitemap() {
   console.log('Generating categories sitemap...');
   
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
   const countries = await getAllCountries();
   
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
@@ -181,7 +192,7 @@ async function generateCategorySitemap() {
   for (const country of countries) {
     const countrySlug = toSlug(country);
     xml += `  <url>
-    <loc>${baseUrl}/wetbulb-temperature/${countrySlug}</loc>
+    <loc>${BASE_URL}/wetbulb-temperature/${countrySlug}</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>\n`;
@@ -191,7 +202,7 @@ async function generateCategorySitemap() {
     for (const state of states) {
       const stateSlug = toSlug(state);
       xml += `  <url>
-    <loc>${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}</loc>
+    <loc>${BASE_URL}/wetbulb-temperature/${countrySlug}/${stateSlug}</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>\n`;
@@ -212,16 +223,7 @@ async function generateCountrySitemaps() {
   console.log(`Found ${countries.length} countries to process...`);
   
   // Process countries in batches to avoid memory issues
-  const BATCH_SIZE = 10; // Process 10 countries at a time
-  
-  for (let i = 0; i < countries.length; i += BATCH_SIZE) {
-    console.log(`Processing batch ${Math.floor(i/BATCH_SIZE) + 1} of ${Math.ceil(countries.length/BATCH_SIZE)}...`);
-    
-    const countryBatch = countries.slice(i, i + BATCH_SIZE);
-    const batchPromises = countryBatch.map(country => generateCountrySitemapFiles(country));
-    
-    await Promise.all(batchPromises);
-  }
+  await processBatch(countries, BATCH_SIZE.COUNTRIES_SITEMAP, generateCountrySitemapFiles);
   
   console.log('Country sitemaps generated successfully!');
 }
@@ -252,10 +254,8 @@ async function generateCountrySitemapFiles(countryName) {
 // Generate a sitemap for a specific country
 async function generateCountrySitemap(countryName, partNumber = 1) {
   try {
-    const dataPath = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
-    const jsonStream = createReadStream(dataPath).pipe(JSONStream.parse('*'));
+    const jsonStream = createReadStream(DATA_PATH).pipe(JSONStream.parse('*'));
     
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.wetbulb35.com';
     let cityCount = 0;
     let includedCities = 0;
     
@@ -297,7 +297,7 @@ async function generateCountrySitemap(countryName, partNumber = 1) {
           
           // Use the URL structure: /country/state/city
           const urlXml = `  <url>
-    <loc>${baseUrl}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}</loc>
+    <loc>${BASE_URL}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}</loc>
     <changefreq>hourly</changefreq>
     <priority>0.7</priority>
   </url>\n`;
@@ -337,8 +337,7 @@ async function generateCountrySitemap(countryName, partNumber = 1) {
 // Get a list of states in a country
 async function getStatesInCountry(countryName) {
   try {
-    const dataPath = path.join(process.cwd(), 'scripts', 'resolved_cities.json');
-    const citiesData = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    const citiesData = await loadCitiesData();
     
     // Extract unique state names for the country
     const states = new Set();
@@ -358,14 +357,23 @@ async function getStatesInCountry(countryName) {
 // Main function to run the script
 async function main() {
   try {
-    console.log('Starting sitemap generation...');
-    await generateMainSitemap();
-    await generateCategorySitemap();
+    console.log('Starting sitemap generation process...');
+    
+    // Ensure directories exist
+    ensureDirectoriesExist();
+    
+    // Generate all sitemaps
+    await Promise.all([
+      generateMainSitemap(),
+      generateCategorySitemap()
+    ]);
+    
     await generateCountrySitemaps();
     await generateSitemapIndex();
+    
     console.log('All sitemaps generated successfully!');
   } catch (error) {
-    console.error('Error generating sitemaps:', error);
+    console.error('Error in sitemap generation:', error);
     process.exit(1);
   }
 }
