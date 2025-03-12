@@ -118,7 +118,7 @@ export const getStaticProps: GetStaticProps = async () => {
     // Group cities by country and count them
     const countryMap = new Map<string, number>();
     
-    citiesData.forEach((city: any) => {
+    citiesData.forEach((city: { resolvedCountryName?: string }) => {
       const countryName = city.resolvedCountryName;
       if (countryName) {
         countryMap.set(countryName, (countryMap.get(countryName) || 0) + 1);
