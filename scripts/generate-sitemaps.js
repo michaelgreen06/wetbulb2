@@ -298,7 +298,7 @@ async function generateCountrySitemap(countryName, partNumber = 1) {
           // Use the URL structure: /country/state/city
           const urlXml = `  <url>
     <loc>${BASE_URL}/wetbulb-temperature/${countrySlug}/${stateSlug}/${citySlug}</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>\n`;
 
