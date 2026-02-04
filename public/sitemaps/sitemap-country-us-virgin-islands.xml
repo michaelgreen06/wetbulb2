@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/us-virgin-islands/saint-thomas-island/charlotte-amalie</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/us-virgin-islands/saint-croix-island/christiansted</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/us-virgin-islands/saint-john-island/cruz-bay</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/us-virgin-islands/saint-croix-island/saint-croix</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>

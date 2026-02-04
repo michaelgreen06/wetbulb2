@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/tuvalu/funafuti/funafuti</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/tuvalu/funafuti/alapi-village</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/tuvalu/funafuti/senala-village</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/tuvalu/funafuti/fakaifou-village</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>

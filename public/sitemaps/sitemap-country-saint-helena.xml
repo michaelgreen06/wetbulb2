@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/saint-helena/ascension/georgetown</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/saint-helena/tristan-da-cunha/edinburgh-of-the-seven-seas</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/saint-helena/saint-helena/half-tree-hollow</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>

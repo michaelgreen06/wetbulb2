@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/saba/upper-hells-gate</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/sint-eustatius/oranjestad</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/bonaire/kralendijk</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/bonaire/dorp-tera-kora</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/bonaire/dorp-rincon</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/caribbean-netherlands/bonaire/dorp-antriol</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>

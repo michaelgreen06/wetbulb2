@@ -286,7 +286,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
         locationData,
         weatherData: formattedWeatherData
       },
-      revalidate: 90 // Revalidate every 90 seconds
+      revalidate: 21600 // Revalidate every 6 hours (reduced from 90 seconds to save Vercel costs)
     };
   } catch (error) {
     console.error('Error in getStaticProps:', error);

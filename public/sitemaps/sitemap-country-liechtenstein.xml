@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/vaduz/vaduz</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/triesenberg/triesenberg</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/triesen/triesen</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/schellenberg/schellenberg</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/schaan/schaan</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/ruggell/ruggell</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/eschen/nendeln</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/mauren/mauren</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/gamprin/gamprin</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/eschen/eschen</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.wetbulb35.com/wetbulb-temperature/liechtenstein/balzers/balzers</loc>
-    <changefreq>hourly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>
